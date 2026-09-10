@@ -7,8 +7,6 @@ Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will
 
 Download Ubuntu 22.04 to Ubuntu 26.10:  here: https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
 
-Go back to main page and look for more desktops for WSL: https://github.com/vinberg88/ubuntu
-
 Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
 
 Find me here via GITHUB and more desktops for WSL: https://github.com/vinberg88
@@ -22,3 +20,5 @@ How to install KDE 6 via Ubuntu 26.10:
 <img width="1920" height="1080" alt="Ubuntu26 10-KDE" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
 
 
+
+Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu - WSL - 2026 - https://github.com/vinberg88
