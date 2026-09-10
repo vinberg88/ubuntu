@@ -12,6 +12,8 @@ Download Ubuntu 22.04 to Ubuntu 26.10:  here: https://github.com/vinberg88/ubunt
 
 Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
 
+Find me via GitHUB and more desktops to WSL - https://github.com/vinberg88
+
 Will start to work on Ubuntu 26.10 and test KDE 6 - Test worked fine so I will record Movie now.
 
 How to install KDE 6 via Ubuntu 26.10: 
@@ -20,4 +22,4 @@ How to install KDE 6 via Ubuntu 26.10:
 
 
 
-Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu - WSL - 2026 - windows - https://github.com/vinberg88 
+Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu - 2026 - windows - Build desktops for Linux via WSL 
