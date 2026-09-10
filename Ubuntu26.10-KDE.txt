@@ -1,10 +1,10 @@
 Ubuntu 26.10 and KDE 6 - WSL - How to install KDE 6 via Ubuntu Stonking Stingray - Windows - Linux - 2026
 
 How to install KDE 6 via Ubuntu 26.10 Stonking Stingray - WSL - TEXT VIA GITHUB
-Comming Sone..
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt
 
 How to install KDE 6 via Ubuntu 26.10 Stonking Stingray - WSL - MOVIE VIA YOUTUBE
-Comming Sone..
+https://www.youtube.com/watch?v=mQXaubKRRRU
 
 Download Ubuntu 26.10: https://github.com/vinberg88/ubuntu
 
