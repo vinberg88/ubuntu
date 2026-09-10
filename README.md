@@ -20,6 +20,10 @@ How to install KDE 6 via Ubuntu 26.10:
 
 <img width="1920" height="1080" alt="Ubuntu26 10-KDE" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
 
+# Ubuntu: A Technical Overview. Love Ubuntu.
 
+Ubuntu is one of the world's most widely adopted open-source Linux distributions, developed by Canonical and a global community of contributors. Built upon
+the architecture of Debian, Ubuntu leverages the Linux kernel to deliver a secure, stable, and highly versatile operating system capable of powering
+everything from personal workstations to massive cloud infrastructures.
 
 Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu -  windows - Build desktops for Linux via WSL - Canonical
