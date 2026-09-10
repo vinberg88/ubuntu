@@ -14,9 +14,13 @@ Find me via GitHUB and more desktops via WSL and Linux - https://github.com/vinb
 The whole point is that we should get as many desktop versions as possible here for Ubuntu and WSL. How to install everything via WSL files from the
 Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will setup diffrent desktops to Ubuntu from version 22.04 to version 26.10 of ubuntu.
 
+----------------------------------------------------------
+
 How to install KDE 6 via Ubuntu 26.10: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt
 
 <img width="1920" height="1080" alt="Ubuntu26 10-KDE" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
+
+----------------------------------------------------------
 
 # Ubuntu: A Technical Overview - 2026
 
