@@ -1,0 +1,322 @@
+Ubuntu 24.04 and BUDGIE - How to install BUDGIE desktop via Ubuntu - WSL - X410 - Linux - YouTube - 2026
+
+You can find ubuntu 24.04 for WSL here: https://github.com/vinberg88/ubuntu
+
+How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 - TEXT via GITHUB
+Comming SONE
+
+How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 - MOVIE via YouTUBE
+Comming SONE
+
+Find ME VIA GITHUB - More desktops for WSL: https://github.com/vinberg88
+
+TOOLS that i USE for WSL and Ubuntu 24.04 - WSL - 2026
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+                             ....             
+              .',:clooo:  .:looooo:.            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc           Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.10.0)
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,        Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'      OS: Windows 11 Pro for Workstations (25H2) x86_64
+ :ooooooooo,                        'ooool       
+'ooooooooooo.                        loooo.     MAIL: mattiasvinberg@duck.com
+'ooooooooool                         coooo. 
+ ,loooooooc.                        .loooo.     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+   .,;;;'.                          ;ooooc 
+       ...                         ,ooool.      FIND ME VIA GITHUB - https://github.com/vinberg88
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.        Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'            Liunx/Win Desktop - BUDGIE DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'              Thank you for install BUDGIE and Ubuntu Noble Numbat 24.04 LTS ❤️
+                             .
+
+
+About Ubuntu 24.04 - WSL - 2026 - https://github.com/vinberg88/ubuntu
+
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+ABOUT BUDGIE DESKTOP - WSL - 2026 - https://buddiesofbudgie.org
+
+Budgie Menu shows you all your installed applications,
+neatly organized into categories to improve discoverability,
+and with lightning fast application searching! No more
+diving into sub-menus to find the app you need. Make Budgie Your Own
+With our Budgie Desktop Settings application, you can make
+Budgie feel like home. Whether you want a dock or multiple
+panels, you can do it with just a few clicks. Budgie is
+available on a wide variety of operating systems, from Arch
+Linux to Ubuntu, and everything in between. Try it out today
+on the flavor of Linux of your choosing.
+
+More About WSL - old page: https://github.com/vinberg88/opensuse
+
+Information about WSL - https://vinberg88.github.io
+
+Direct download for Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
+
+--------------------------------------------
+
+Download Ubuntu 24.04 here for WSL: https://github.com/vinberg88/ubuntu
+
+Press on the BLUE ICON and you are done - Ubuntu will setup User and Password.
+
+Change dir to home user: cd
+
+--------------------------------------------
+
+After install of Ubuntu 24.04 - Update all - WSL - Ubuntu - Budgie - 2026
+
+sudo apt update
+sudo apt upgrade -y
+
+--------------------------------------------
+
+Install some programs and setup GDM for BUDGIE desktop - Ubuntu 24.04 Nobel - 2026 - WSL
+
+sudo apt install dbus* bash git npm wget curl pipx dracut systemd pipewire* -y
+sudo service dbus start
+sudo apt install gdm3* -y
+sudo apt install gdm* -y
+sudo apt install xorg* -y
+sudo apt install daemonize -y
+
+--------------------------------------------
+
+Time to install fastfetch - Ubuntu 24.04 - WSL - BUDGIE
+
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.68.1/fastfetch-linux-amd64.deb
+sudo apt install ./fastfetch-linux-amd64.deb
+
+To test type in terminal: fastfetch
+
+                             ....             
+              .',:clooo:  .:looooo:.            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc           Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.10.0)
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,        Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'      OS: Windows 11 Pro for Workstations (25H2) x86_64
+ :ooooooooo,                        'ooool       
+'ooooooooooo.                        loooo.     MAIL: mattiasvinberg@duck.com
+'ooooooooool                         coooo. 
+ ,loooooooc.                        .loooo.     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+   .,;;;'.                          ;ooooc 
+       ...                         ,ooool.      FIND ME VIA GITHUB - https://github.com/vinberg88
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.        Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'            Liunx/Win Desktop - BUDGIE DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'              Thank you for install BUDGIE and Ubuntu Noble Numbat 24.04 LTS ❤️
+                             .
+
+--------------------------------------------
+
+Install Google Chrome Browser - Perfect for Ubuntu 24.04 - WSL
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+--------------------------------------------
+
+Install Blanket - Listen to diffrents sound when you are working - Ubuntu 24.04 - WSL
+
+wget https://launchpad.net/~apandada1/+archive/ubuntu/blanket/+files/blanket_0.7.0-1~daily~202404100636~d1fde60~ubuntu24.04.1_all.deb
+sudo apt install ./blanket_0.7.0-1~daily~202404100636~d1fde60~ubuntu24.04.1_all.deb
+
+--------------------------------------------
+
+Install Office Svit from LibreOffice. Work well under Ubuntu and Budgie - 2026
+
+sudo apt install libreoffice
+
+--------------------------------------------
+
+Save time by install firefox now via snapd - faster install via Ubuntu 24.04 LTS - 2026
+
+sudo apt install snapd*
+
+sudo snap install core
+
+sudo snap install snapd
+
+sudo snap install firefox
+
+--------------------------------------------
+
+Next install BUDGIE Desktop for Ubuntu 24.04 LTS - WSL - BUDGIE latest Desktop - 2026
+
+sudo apt install ubuntu-budgie-desktop -y
+
+sudo apt install budgie* -y
+
+NOTE: Select GDM3 if prompted in terminal for Ubuntu 24.04.
+
+--------------------------------------------
+
+Install Gimp for Ubuntu and Budgie - WSL - 2026
+
+sudo apt install gimp -y
+
+--------------------------------------------
+
+                             ....             
+              .',:clooo:  .:looooo:.            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc           Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.10.0)
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,        Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'      OS: Windows 11 Pro for Workstations (25H2) x86_64
+ :ooooooooo,                        'ooool       
+'ooooooooooo.                        loooo.     MAIL: mattiasvinberg@duck.com
+'ooooooooool                         coooo. 
+ ,loooooooc.                        .loooo.     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+   .,;;;'.                          ;ooooc 
+       ...                         ,ooool.      FIND ME VIA GITHUB - https://github.com/vinberg88
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.        Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'            Liunx/Win Desktop - BUDGIE DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'              Thank you for install BUDGIE and Ubuntu Noble Numbat 24.04 LTS ❤️
+                             .
+
+--------------------------------------------
+
+Fix IP problem for X410. Cant find screen problems.
+
+Open Powershell from windows and type: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in POWERSHELL so x410 works.
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOW GO BACK TO UBUNTU 24.04 LTS Terminal and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for UBUNTU and BUDGIE - 2026
+
+--------------------------------------------
+
+Paste in Terminal and Press enter - BUDGIE - Ubuntu 24.04 LTS - 2026
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+--------------------------------------------
+
+Install this small script for Ubunyu 24.04 LTS and BUDGIE desktop.
+
+Type this in terminal and put your username there for Linux: sudo loginctl enable-linger adolf
+
+--------------------------------------------
+
+Ubuntu - In terminal type this: sudo nano ~/.bash_Ubuntu_desktop
+
+Paste this small script in terminal and save and quit nano.
+
+GNOME_SHELL_SESSION_MODE=Budgie:GNOME
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+--------------------------------------------
+
+Paste all and install in terminal - Ubuntu 24.04 - BUDGIE DESKTOP - WSL - 2026
+
+Copy and paste this small script in terminal. Make BUDIGE work well via Ubuntu 24.04 LTS and WSL.
+
+git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+cd ubuntu-wsl2-systemd-script/
+bash ubuntu-wsl2-systemd-script.sh
+
+--------------------------------------------
+
+Ubuntu 24.04 LTS - Reboot Reboot Reboot Reboot Reboot - Ubuntu 24.04 LTS - 2026
+
+--------------------------------------------
+
+Start BUDGIE via this lines - Ubuntu 24.04 LTS - BUDGIE DESKTOP - 2026
+
+
+NOTE: FIRST START x410 THEN YOU START UBUNTU 24.04 LTS terminal- WSL - Budige - 2026
+
+
+Copy and Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Copy and Paste in terminal: . ~/.bash_Ubuntu_desktop
+
+Copy and Paste in terminal: xhost +
+
+Copy and Paste in terminal: budgie-desktop 
+
+--------------------------------------------
+
+                             ....             
+              .',:clooo:  .:looooo:.            OS: Ubuntu 24.04 LTS (Noble Numbat) x86_64
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc           Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.10.0)
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,        Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'      OS: Windows 11 Pro for Workstations (25H2) x86_64
+ :ooooooooo,                        'ooool       
+'ooooooooooo.                        loooo.     MAIL: mattiasvinberg@duck.com
+'ooooooooool                         coooo. 
+ ,loooooooc.                        .loooo.     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+   .,;;;'.                          ;ooooc 
+       ...                         ,ooool.      FIND ME VIA GITHUB - https://github.com/vinberg88
+    .cooooc.              ..',,'.  .cooo.
+      ;ooooo:.           ;oooooooc.  :l.        Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+       .coooooc,..      coooooooooo.
+         .:ooooooolc:. .ooooooooooo'            Liunx/Win Desktop - BUDGIE DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+           .':loooooo;  ,oooooooooc
+               ..';::c'  .;loooo:'              Thanks for install BUDGIE desktop and Ubuntu Noble Numbat 24.04 LTS ❤️
+                             .
+                                               
+--------------------------------------------
+
+Regards Mattias Vinberg - SWEDEN - BUDGIE - Ubuntu 24.04 - WSL - X410 - Windows 11 - Linux - 2026
+
+Canonical - Ubuntu and Canonical are registered trademarks of Canonical Ltd © 2026
+
+--------------------------------------------
