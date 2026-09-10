@@ -2,8 +2,8 @@ Ubuntu 24.04 and BUDGIE - How to install BUDGIE desktop via Ubuntu - WSL - X410 
 
 You can find ubuntu 24.04 for WSL here: https://github.com/vinberg88/ubuntu
 
-How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 - TEXT via GITHUB
-Comming SONE
+How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 LTS - TEXT via GITHUB
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu24.04-BUDGIE.txt
 
 How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 - MOVIE via YouTUBE
 Comming SONE
