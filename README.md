@@ -30,7 +30,7 @@ Here will video and text for Ubuntu 26.04 - Difrrent desktops for Linux and WSL 
 
 How to install BUDGIE via Ubuntu 24.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu24.04-BUDGIE.txt
 
-Video on Youtube. How to install BUDGIE via Ubuntu: Comming SONE.
+Video on Youtube. How to install BUDGIE via Ubuntu: https://www.youtube.com/watch?v=JtnlmX010mM
 
 <img width="1920" height="1080" alt="Ubuntu24 04-BUDGIE" src="https://github.com/user-attachments/assets/033ad70c-eb64-496c-9957-37466923a06d" />
 
