@@ -1,4 +1,4 @@
-# Ubuntu - Start desktops via WSL for Ubuntu and Windows.
+# Ubuntu - Desktop via WSL for Ubuntu and Windows.
 
 You can download Ubuntu 22.04 to Ubuntu 26.10 - We offer a large scen of Ubuntu version for WSL.
 
