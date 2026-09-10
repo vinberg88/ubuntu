@@ -5,14 +5,14 @@
 You can download WSL image of Ubuntu version 22.04 to Ubuntu version 26.10 - We offer a large scen of Ubuntu version for WSL. Run your choice of Linux text editors, 
 including vim, emacs, and nano. Install applications, compilers and libraries from the Ubuntu repository, securely maintained by Canonical. 
 
-The whole point is that we should get as many desktop versions as possible here for Ubuntu and WSL. How to install everything via WSL files from the
-Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will setup diffrent desktops to Ubuntu from version 22.04 to version 26.10 of ubuntu.
-
 Download Ubuntu 22.04 to Ubuntu 26.10:  here: https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
 
 Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
 
 Find me via GitHUB and more desktops to WSL - https://github.com/vinberg88
+
+The whole point is that we should get as many desktop versions as possible here for Ubuntu and WSL. How to install everything via WSL files from the
+Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will setup diffrent desktops to Ubuntu from version 22.04 to version 26.10 of ubuntu.
 
 How to install KDE 6 via Ubuntu 26.10: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt
 
