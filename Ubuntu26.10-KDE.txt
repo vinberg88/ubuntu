@@ -1,0 +1,357 @@
+Ubuntu 26.10 and KDE 6 - WSL - How to install KDE 6 via Ubuntu Stonking Stingray - Windows - Linux - 2026
+
+How to install KDE 6 via Ubuntu 26.10 Stonking Stingray - WSL - TEXT VIA GITHUB
+Comming Sone..
+
+How to install KDE 6 via Ubuntu 26.10 Stonking Stingray - WSL - MOVIE VIA YOUTUBE
+Comming Sone..
+
+Download Ubuntu 26.10: https://github.com/vinberg88/ubuntu
+
+Find more desktops for WSL and diffrent distros for Linux: https://github.com/vinberg88
+
+Tools that i use for WSL and Ubuntu Stonking Stingray 26.10 - 2026 - KDE 6
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                             ....              Thanks for install KDE 6 and Ubuntu Stonking Stingray 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Stonking Stingray (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (2.9.10.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 26.10 - KDE 6
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - KDE 6 - Windows 11 -  Ubuntu Stonking Stingray 26.10
+                                               
+About Ubuntu Stonking Stingray 26.10 - https://ubuntu.com
+
+Ubuntu is an ancient African word meaning ‘humanity to others’.
+It is often described as reminding us that ‘I am what I am
+because of who we all are’. We bring the spirit of Ubuntu
+to the world of computers and software. The Ubuntu 
+distribution represents the best of what the world’s software
+community has shared with the world. Canonical is the
+publisher of Ubuntu. Members of the Canonical team lead
+aspects of Ubuntu such as the kernel, default desktop,
+foundations, security, OpenStack, and Kubernetes. 
+The first official Ubuntu release — Version 4.10, codenamed
+the ‘Warty Warthog’ — was launched in October 2004, and
+sparked dramatic global interest as thousands of free
+software enthusiasts and experts joined the Ubuntu community.
+Ubuntu today has many flavours and dozens of specialised 
+derivatives. There are also special editions for servers, OpenStack
+clouds, and connected devices. All editions share common
+infrastructure and software, making Ubuntu a unique single
+platform that scales from consumer electronics to the desktop
+and up into the cloud for enterprise computing.
+
+About KDE 6 Plasma for Ubuntu Stonking Stingray 26.10 - https://kde.org
+
+KDE Plasma is a modern, feature-rich desktop environment
+for Linux-based operating systems. Known for its sleek
+design, customizable interface, and extensive set of
+applications, it is also open source, devoid
+of ads, and makes protecting your privacy and
+personal data a priority. The KDE Plasma Launcher lets
+you quickly and easily launch applications, but it
+can do much more -- convenient tasks like bookmarking
+applications, searching for documents as you type, or
+navigating to common places help you get straight
+to the point. With a history of recently started programs
+and opened files, you can return to where you left off.
+It even remembers previously entered search terms so
+you don't have to. Your Plasma desktop is very flexible and
+can be configured just how you like it using the System Settings
+app. Easily manage hardware, software, and workspaces all in
+one place: Keyboard, Printer, Languages, Desktop Themes, Fonts,
+Networks. Kde 6 Plasma its a god dekstop for Linux.
+
+More About WSL - Old Page - https://github.com/vinberg88/opensuse
+
+Information about WSL - https://vinberg88.github.io
+
+--------------------------------------------
+
+TIME TO START INSTALL OF UBUNTU 26.10 AND KDE 6 FOR WSL - 2026
+
+If you not did this download Ubuntu 26.10 - https://github.com/vinberg88/ubuntu
+
+Now press the BLUE ICON AND START UBUNTU 26.10 - SETUP USER AND PASSWORD
+
+TYPE CD SO YOU CAME TO START/ROOT FOLDER: cd
+
+--------------------------------------------
+
+Ubuntu Stonking Stingray 26.10 - update all via terminal.
+
+sudo apt update && sudo apt upgrade -y
+
+----------------------------------------------
+
+Install some Basic Programs for Ubuntu 26.10 and KDE Desktop.
+
+sudo apt install ibus bash git npm wget curl pipx pip dracut dbus systemd -y
+sudo apt install sddm* -y
+sudo apt install xorg* -y
+sudo apt install daemonize -y
+sudo systemctl set-default graphical
+
+----------------------------------------------
+
+Install this small program - fastfetch - Ubuntu Stonking Stingray 26.10
+
+sudo apt install fastfetch -y
+
+To test type this in terminal: fastfetch
+
+
+                             ....              Thank you for install KDE 6 and Ubuntu Stonking Stingray 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Stonking Stingray (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (2.9.10.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sound =)
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - KDE 6 - Windows 11 -  Ubuntu Stonking Stingray 26.10
+                                               
+----------------------------------------------
+
+Install Google Chrome Browser - Ubuntu Stonking Stingray 26.10
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+----------------------------------------------
+
+Install Visual studio Code from Microsoft - Ubuntu Stonking Stingray 26.10
+
+sudo apt-get install wget gpg
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+rm -f packages.microsoft.gpg
+
+sudo apt install apt-transport-https apt -y
+sudo apt update
+sudo apt install code -y
+
+----------------------------------------------
+
+Install Gimp 3 so we can paint for Ubuntu Stonking Stingray 26.10 and KDE 6
+
+sudo apt install gimp -y
+
+----------------------------------------------
+
+Install LibreOffice so we can read some text files - Office Svit - Ubuntu Stonking 26.10 and KDE 6
+
+sudo apt install libreoffice -y
+
+----------------------------------------------
+
+Blanket need extra help to start via Ubuntu Stonking Stingray 26.10 and KDE 6
+
+You must have Blanket so you can listen to sounds via Ubuntu and WSL.
+
+Copy and paste in terminal: sudo apt install blanket*
+
+Copy and paste in terminal: sudo apt install flatpak*
+
+Copy and paste in terminal: sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+Copy and paste in terminal: sudo flatpak install flathub com.rafaelmardojai.Blanket
+
+Copy and paste in terminal: sudo apt install snapd*
+
+Copy and paste in terminal: sudo snap install core
+
+Copy and paste in terminal: sudo snap install snapd
+
+Copy and paste in terminal: sudo snap install blanket
+
+----------------------------------------------
+
+If you dont get any blanket Power for sounds look at NIXOS install. Start KDE 6 and test first snapd, apt and flatpak - Ubuntu 26.10
+
+This maybe last way to install blanket for WSL. You dont need to do this in first steps. Install snapd ,apt and flatpak first and test =)
+
+Copy and Paste in terminal: curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install | sh -s -- --no-daemon
+
+Copy and Paste in terminal: . /home/adolf/.nix-profile/etc/profile.d/nix.sh  <-- NOTE - Change adolf to your usernamn.
+
+Copy and Paste in terminal: nix-env -iA nixpkgs.blanket
+
+After install of blanket from NIXOS run from terminal: sudo blanket or just: blanket
+
+----------------------------------------------
+
+Time to install KDE Plasma 6 for Ubuntu Stonking Stingray 26.10 - This will take some time.
+
+sudo apt install kde-full
+
+sudo apt install plasma*
+
+sudo apt install kde*
+
+----------------------------------------------
+
+                             ....              Thank you for install KDE 6 and Ubuntu Stonking Stingray 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Stonking Stingray (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (2.9.10.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sound =)
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - KDE 6 - Windows 11 -  Ubuntu Stonking Stingray 26.10
+
+----------------------------------------------
+
+Fix IP problem for X410. Cant find screen problems Xserver - Ubuntu Stonking Stingray 26.10
+
+OPEN POWERSHELL AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+SAVE IP HERE FROM POWERSHELL: 172.30.16.1
+
+Go back TO Ubuntu 26.10 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here from POWERSHELL and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for Ubuntu Stonking Stingray 26.10 and KDE 6 =]
+
+--------------------------------------------
+
+Paste in terminal - All - Ubuntu Stonking Stingray 26.10
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+--------------------------------------------
+
+Ubuntu Stonking Stingray 26.10 and KDE 6.
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+--------------------------------------------
+
+Final install this so we can start KDE 6 via Ubuntu Stonking Stingray 26.10
+
+sudo apt install plasma-session-x11 kwin*
+
+--------------------------------------------
+
+Ubuntu Stonking Stingray 26.10 - Reboot… Reboot… Reboot… - Ubuntu Stonking Stingray 26.10
+
+--------------------------------------------
+
+Install this small script so KDE 6 start via Ubuntu Stonking Stingray 26.10
+
+wget https://www.xhamster.nu/scripts/install-kde6-x410-ubuntu-26.10.sh
+
+chmod +x install-kde6-x410-ubuntu-26.10.sh
+
+./install-kde6-x410-ubuntu-26.10.sh
+
+--------------------------------------------
+
+Now we can start KDE 6 for Ubuntu Stonking Stingray 26.10
+
+
+FIRST START X410 THEN YOU START Ubuntu 26.10 VIA TERMINAL
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal and start plasma: kde6-x410 start
+
+
+Just wait when you start KDE 6. It will work well under Ubuntu Stonking Stingray 26.10 and x410.
+
+--------------------------------------------
+
+                             ....              Thank you for install KDE 6 and Ubuntu Stonking Stingray 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Stonking Stingray (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (2.9.10.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sound =)
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - KDE 6 - Windows 11 -  Ubuntu Stonking Stingray 26.10
+                                               
+------------------------------------------------------
+
+Regards Mattias Vinberg - SwEden - KDE 6 - Ubuntu Stonking Stingray 26.10 - Linux - WSL - X410 - WINDOWS - 2026
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+------------------------------------------------------
