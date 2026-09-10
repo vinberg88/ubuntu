@@ -18,4 +18,4 @@ How to install KDE 6 via Ubuntu 26.10:
 
 
 
-Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu - WSL - 2026 - https://github.com/vinberg88 - mattiasvinberg@duck.com
+Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu - WSL - 2026 - windows - https://github.com/vinberg88 
