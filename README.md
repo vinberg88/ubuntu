@@ -9,7 +9,7 @@ Download Ubuntu 22.04 to Ubuntu 26.10:  here: https://github.com/vinberg88/ubunt
 
 Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
 
-Find me via GitHUB and more desktops to WSL - https://github.com/vinberg88
+Find me via GitHUB and more desktops via WSL and Linux - https://github.com/vinberg88
 
 The whole point is that we should get as many desktop versions as possible here for Ubuntu and WSL. How to install everything via WSL files from the
 Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will setup diffrent desktops to Ubuntu from version 22.04 to version 26.10 of ubuntu.
@@ -18,7 +18,7 @@ How to install KDE 6 via Ubuntu 26.10: https://github.com/vinberg88/ubuntu/blob/
 
 <img width="1920" height="1080" alt="Ubuntu26 10-KDE" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
 
-# Ubuntu: A Technical Overview. Love Ubuntu.
+# Ubuntu: A Technical Overview - 2026
 
 Ubuntu is one of the world's most widely adopted open-source Linux distributions, developed by Canonical and a global community of contributors. Built upon
 the architecture of Debian, Ubuntu leverages the Linux kernel to deliver a secure, stable, and highly versatile operating system capable of powering
