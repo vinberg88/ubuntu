@@ -1,4 +1,4 @@
-# Ubuntu for WSL and Windows 11 - Easy Start of desktops via WSL.
+# Ubuntu for WSL and Windows - Start desktops via WSL for Ubuntu.
 
 You can download Ubuntu 22.04 to Ubuntu 26.10 - We offer a large scen of Ubuntu version for WSL.
 
