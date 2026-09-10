@@ -6,7 +6,7 @@ How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 LTS - TEXT via GIT
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu24.04-BUDGIE.txt
 
 How to install Budgie Desktop via Windows 11 and Ubuntu 24.04 - MOVIE via YouTUBE
-Comming SONE
+https://www.youtube.com/watch?v=JtnlmX010mM
 
 Find ME VIA GITHUB - More desktops for WSL: https://github.com/vinberg88
 
