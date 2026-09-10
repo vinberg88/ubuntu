@@ -1,6 +1,6 @@
 # Ubuntu - Desktop via WSL for Ubuntu and Windows.
 
-<img width="800" height="250" alt="z9ju6pz9ju6pz9ju" src="https://github.com/user-attachments/assets/595016f6-3e2c-414d-b70e-a12e506ce7f7" />
+<img width="867" height="225" alt="720" src="https://github.com/user-attachments/assets/0351ec9d-359b-4d0a-81d9-5d4bbef5ffa6" />
 
 You can download WSL image of Ubuntu version 22.04 to Ubuntu version 26.10 - We offer a large scen of Ubuntu version for WSL. Run your choice of Linux text editors, 
 including vim, emacs, and nano. Install applications, compilers and libraries from the Ubuntu repository, securely maintained by Canonical. 
