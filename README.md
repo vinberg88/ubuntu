@@ -28,7 +28,12 @@ Here will video and text for Ubuntu 26.04 - Difrrent desktops for Linux and WSL 
 
 ----------------------------------------------------------
 
-Here will video and text for Ubuntu 24.04 - Difrrent desktops for Linux and WSL - Ubuntu 24.04 - 2026
+How to install BUDGIE Desktop via Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt
+
+Watch video on Youtube. How to install BUDGIE via Ubuntu 24.04 LTS: https://www.youtube.com/watch?v=mQXaubKRRRU
+
+<img width="1920" height="1080" alt="Ubuntu24 04-BUDGIE" src="https://github.com/user-attachments/assets/033ad70c-eb64-496c-9957-37466923a06d" />
+
 
 ----------------------------------------------------------
 
