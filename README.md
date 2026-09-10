@@ -24,6 +24,18 @@ Watch video on Youtube. How to install KDE 6 via Ubuntu 26.10: https://www.youtu
 
 ----------------------------------------------------------
 
+Here will video and text for Ubuntu 26.04 - Difrrent desktops for Linux and WSL - Ubuntu 26.04 - 2026
+
+----------------------------------------------------------
+
+Here will video and text for Ubuntu 24.04 - Difrrent desktops for Linux and WSL - Ubuntu 24.04 - 2026
+
+----------------------------------------------------------
+
+Here will video and text for Ubuntu 22.04 - Difrrent desktop for Linux and WSL - Ubuntu 22.04 - 2026
+
+----------------------------------------------------------
+
 # Ubuntu: A Technical Overview - 2026
 
 Ubuntu is one of the world's most widely adopted open-source Linux distributions, developed by Canonical and a global community of contributors. Built upon
