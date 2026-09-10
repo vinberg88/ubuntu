@@ -22,4 +22,4 @@ How to install KDE 6 via Ubuntu 26.10:
 
 
 
-Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu -  windows - Build desktops for Linux via WSL - Canonical - 2026
+Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu -  windows - Build desktops for Linux via WSL - Canonical
