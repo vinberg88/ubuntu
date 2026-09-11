@@ -55,7 +55,7 @@ How to install Deepin via Ubuntu on YouTUBE: https://www.youtube.com/watch?v=ecs
 
 ----------------------------------------------------------
 
-# Ubuntu: A Technical Overview - 2026
+# Ubuntu: A Technical Overview - WSL - 2026
 
 Ubuntu is one of the world's most widely adopted open-source Linux distributions, developed by Canonical and a global community of contributors. Built upon
 the architecture of Debian, Ubuntu leverages the Linux kernel to deliver a secure, stable, and highly versatile operating system capable of powering
