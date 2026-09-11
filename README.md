@@ -14,9 +14,12 @@ Find me via GitHUB and more desktops via WSL and Linux - https://github.com/vinb
 The whole point is that we should get as many desktop versions as possible here for Ubuntu and WSL. How to install everything via WSL files from the
 Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will setup diffrent desktops to Ubuntu from version 22.04 to version 26.10 of ubuntu.
 
+Down here you will find Ubuntu versions and diffrent desktop for WSL and Windows 11. Run WSL like a PRO whit Ubuntu from Canonical. I will
+put in GNOME, KDE, XCFE, DEEPIN, UKUI, KYLIN, MATE and other desktops that work well on Ubuntu. Both X-11 and Wayland Desktop. 
+
 ----------------------------------------------------------
 
-Here you will find Ubuntu 26.10 and diffrent desktops to install via WSL
+Here you will find Ubuntu 26.10 and diffrent desktops to install via WSL for UBUNTU 26.10
 
 How to install KDE 6 via Ubuntu 26.10: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt
 
@@ -26,13 +29,13 @@ Watch video on Youtube. How to install KDE 6 via Ubuntu 26.10: https://www.youtu
 
 ----------------------------------------------------------
 
-Here you will find Ubuntu 26.04 LTS and diffrent desktops to install via WSL
+Here you will find Ubuntu 26.04 LTS and diffrent desktops to install via WSL for UBUNTU 26.04 LTS
 
 Here will video and text for Ubuntu 26.04 - Difrrent desktops for Linux and WSL - Ubuntu 26.04 - 2026
 
 ----------------------------------------------------------
 
-Here you will find Ubuntu 24.04 LTS and diffrent desktops to install via WSL
+Here you will find Ubuntu 24.04 LTS and diffrent desktops to install via WSL for UBUNTU 24.04 LTS
 
 How to install BUDGIE via Ubuntu 24.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu24.04-BUDGIE.txt
 
@@ -42,7 +45,7 @@ Video on Youtube. How to install BUDGIE via Ubuntu: https://www.youtube.com/watc
 
 ----------------------------------------------------------
 
-Here you will find Ubuntu 22.04 LTS and diffrent desktops to install via WSL
+Here you will find Ubuntu 22.04 LTS and diffrent desktops to install via WSL for UBUNTU 22.04 LTS
 
 Install Deepin via Ubuntu 22.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
 
@@ -59,6 +62,6 @@ the architecture of Debian, Ubuntu leverages the Linux kernel to deliver a secur
 everything from personal workstations to massive cloud infrastructures. Experience the full power of the Linux desktop on Windows. Ubuntu on WSL provides
 near-native integration, enabling WSL for business users to innovate with the Ubuntu ecosystem and manage mixed infrastructure with ease. Opt for Ubuntu
 Pro for WSL, a comprehensive subscription that provides turnkey security maintenance and enterprise support for Ubuntu instances in Windows, along
-with system management. Ubuntu on WSL are built for your enterprise - 2026 
+with system management. Ubuntu on WSL are built for your enterprise and development - 2026 
 
 Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu -  windows - Build desktops for Linux via WSL - Canonical
