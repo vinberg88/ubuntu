@@ -1,4 +1,4 @@
-# Ubuntu - Desktop via WSL for Ubuntu and Windows.
+# Ubuntu for Windows. Linux desktops via WSL. 
 
 <img width="867" height="225" alt="720" src="https://github.com/user-attachments/assets/0351ec9d-359b-4d0a-81d9-5d4bbef5ffa6" />
 
