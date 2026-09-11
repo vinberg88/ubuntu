@@ -36,7 +36,11 @@ Video on Youtube. How to install BUDGIE via Ubuntu: https://www.youtube.com/watc
 
 ----------------------------------------------------------
 
-Here will video and text for Ubuntu 22.04 - Difrrent desktop for Linux and WSL - Ubuntu 22.04 - 2026
+How to install Deepin Desktop via Ubuntu 22.04: Coomming Sone.
+
+How to install Deepin via Ubuntu - Video via YouTUBE: Coomming Sone.
+
+<img width="1920" height="1080" alt="Ubuntu22 04-Deepin" src="https://github.com/user-attachments/assets/d06cdb05-717a-4e1b-b637-e27f9c1c7682" />
 
 ----------------------------------------------------------
 
