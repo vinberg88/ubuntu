@@ -49,7 +49,7 @@ Here you will find Ubuntu 22.04 LTS and diffrent desktops to install via WSL for
 
 Install Deepin via Ubuntu 22.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
 
-How to install Deepin via Ubuntu - YouTUBE: Comming Sone.
+How to install Deepin via Ubuntu on YouTUBE: https://www.youtube.com/watch?v=ecsessrf5ac
 
 <img width="1920" height="1080" alt="Ubuntu22 04-Deepin" src="https://github.com/user-attachments/assets/d06cdb05-717a-4e1b-b637-e27f9c1c7682" />
 
