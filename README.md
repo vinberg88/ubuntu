@@ -44,7 +44,7 @@ Video on Youtube. How to install BUDGIE via Ubuntu: https://www.youtube.com/watc
 
 Here you will find Ubuntu 22.04 LTS and diffrent desktops to install via WSL
 
-How to install Deepin Desktop via Ubuntu 22.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
+Install Deepin via Ubuntu 22.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
 
 How to install Deepin via Ubuntu - Video via YouTUBE: Coomming Sone.
 
