@@ -16,6 +16,8 @@ Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will
 
 ----------------------------------------------------------
 
+Here you will find Ubuntu 26.10 and diffrent desktops to install via WSL
+
 How to install KDE 6 via Ubuntu 26.10: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt
 
 Watch video on Youtube. How to install KDE 6 via Ubuntu 26.10: https://www.youtube.com/watch?v=mQXaubKRRRU
@@ -24,9 +26,13 @@ Watch video on Youtube. How to install KDE 6 via Ubuntu 26.10: https://www.youtu
 
 ----------------------------------------------------------
 
+Here you will find Ubuntu 26.04 LTS and diffrent desktops to install via WSL
+
 Here will video and text for Ubuntu 26.04 - Difrrent desktops for Linux and WSL - Ubuntu 26.04 - 2026
 
 ----------------------------------------------------------
+
+Here you will find Ubuntu 24.04 LTS and diffrent desktops to install via WSL
 
 How to install BUDGIE via Ubuntu 24.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu24.04-BUDGIE.txt
 
@@ -36,7 +42,9 @@ Video on Youtube. How to install BUDGIE via Ubuntu: https://www.youtube.com/watc
 
 ----------------------------------------------------------
 
-How to install Deepin Desktop via Ubuntu 22.04: Coomming Sone.
+Here you will find Ubuntu 22.04 LTS and diffrent desktops to install via WSL
+
+How to install Deepin Desktop via Ubuntu 22.04: https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
 
 How to install Deepin via Ubuntu - Video via YouTUBE: Coomming Sone.
 
