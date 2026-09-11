@@ -1,6 +1,6 @@
 Ubuntu 22.04 and DEEPIN - WSL - Install Deepin Desktop via Ubuntu 22.04 LTS - Windows 11 - x410 - YouTUBE - 2026
 
-You can find ubuntu 24.04 here for DEEPIN DESKTOP - WSL: https://github.com/vinberg88/ubuntu
+You can find ubuntu 22.04 here for DEEPIN DESKTOP - WSL: https://github.com/vinberg88/ubuntu
 
 FIND ME IN GITHUB - More desktops for WSL and LINUX: https://github.com/vinberg88
 
