@@ -5,7 +5,7 @@ You can find ubuntu 24.04 here for DEEPIN DESKTOP - WSL: https://github.com/vinb
 FIND ME IN GITHUB - More desktops for WSL and LINUX: https://github.com/vinberg88
 
 How to install Deepin Desktop via Ubuntu 22.04 LTS and Windows 11 - WSL - 2026 - TEXT via GitHuB
-Comming Zone
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
 
 How to install Deepin Desktop via Ubuntu 22.04 LTS and Windows 11 - WSL - 2026 - MOVIE via YouTube
 Comming Zone
