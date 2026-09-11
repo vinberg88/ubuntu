@@ -1,0 +1,341 @@
+Ubuntu 22.04 and DEEPIN - WSL - Install Deepin Desktop via Ubuntu 22.04 LTS - Windows 11 - x410 - YouTUBE - 2026
+
+You can find ubuntu 24.04 here for DEEPIN DESKTOP - WSL: https://github.com/vinberg88/ubuntu
+
+FIND ME IN GITHUB - More desktops for WSL and LINUX: https://github.com/vinberg88
+
+How to install Deepin Desktop via Ubuntu 22.04 LTS and Windows 11 - WSL - 2026 - TEXT via GitHuB
+Comming Zone
+
+How to install Deepin Desktop via Ubuntu 22.04 LTS and Windows 11 - WSL - 2026 - MOVIE via YouTube
+Comming Zone
+
+TOOLS that i USE for WSL and Ubuntu 22.04 LTS - WSL - DEEPIN - 2026
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 22.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 22.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Deepin and Ubuntu 22.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .        
+
+
+About Ubuntu 22.04 LTS - WSL - https://ubuntu.com - 2026
+
+Run your choice of Linux text editors, including vim, emacs,
+and nano. Install applications, compilers and libraries from
+the Ubuntu repository, securely maintained by Canonical. Ubuntu
+is a Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+About DEEPIN Desktop - WSL - https://www.deepin.org - 2026
+
+Deepin is a Remix flavor of system with Deepin Desktop
+Environment. DEEPIN is a linux distribution based on
+DEEPIN with the most beautiful desktop environment. Deepin
+Remix is developed and maintained by the Deepin Community.
+Deepin is a Remix of the Ubuntu system with Deepin Desktop 
+Environment as the default desktop environment. It is
+aIt aims to have a beautiful desktop experience with a modern
+design featuring both Dock and Modern Design. Its initial
+release is Deepin Remix 20.04 Focal Fossa based on Ubuntu
+22.04 LTS and will be supported by the Deepin Team and the
+community. Linux distribution based on Ubuntu with the most
+Beautiful desktop environment. Deepin is a nice desktop. 
+
+More About WSL - old page: https://github.com/vinberg88/opensuse
+
+Information about WSL via Windows 11 and Microsoft - https://vinberg88.github.io
+
+Download 24.04 LTS for WSL: https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
+
+-----------------------------------
+
+TIME TO START INSTALL OF DEEPIN DESKTOP AND UBUNTU 22.04 LTS 💵
+
+-----------------------------------
+
+Download Ubuntu 22.04 LTS here for WSL: https://github.com/vinberg88/ubuntu
+
+Press on the BLUE ICON and you are done - Ubuntu 22.04 will Setup User and Password.
+
+Change dir to home user: cd
+
+-----------------------------------
+
+After install of Ubuntu pleas update all - UBUNTU 22.04
+
+sudo apt update
+sudo apt upgrade -y
+
+-----------------------------------
+
+Install some Basic Programs for UBUNTU 22.04 and DEEPIN desktop.
+
+sudo apt install ibus bash git npm wget curl pipx pip dracut dbus* rsync systemd systemd-resolved tasksel dialog software-properties-common* -y
+sudo apt install xorg* x11* kwin* lightdm -y
+sudo apt install daemonize -y
+
+Select lightdm if asked under install for Ubuntu 22.04 LTS
+
+----------------------------------------------
+
+Install Snapd for Ubuntu 22.04 and Deepin Desktop - 2026
+
+SAVE TIME FOR FIREFOX INSTALL VIA SNAPD AND THERE CAN BE ERRORS - LOOK IN TERMINAL.
+
+sudo apt install snapd*
+
+sudo snap install core
+
+sudo snap install snapd
+
+sudo snap install firefox
+
+----------------------------------------------
+
+Run this from terminal for Ubuntu 22.04 LTS: sudo tasksel
+
+Select from meny in Tasksel: Debian desktop environment and Press Enter.
+
+THIS WILL TAKE SOME TIME TO DO. SO JUST WAIT FOR TASKSEL TO QUIT.
+
+----------------------------------------------
+
+Install Chrome BROWSER FOR UBUNTU 22.04
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+-------------------------------------------------------------
+
+Install Blanket - Listen to Sounds when you work - UBUNTU 22.04 LTS AND DEEPIN DESKTOP - 2026
+
+sudo add-apt-repository ppa:apandada1/blanket
+sudo apt update
+sudo apt install blanket
+
+-------------------------------------------------------------
+
+Install this small program for FASTFETCH - UBUNTU 22.04 and DEEPIN DE - WSL - 2026
+
+sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
+sudo apt update
+sudo apt install fastfetch -y
+
+To test type this in terminal: fastfetch
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 22.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win Desktop - DEEPIN DESKTOP - Windows 11 - Ubuntu 22.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Deepin and Ubuntu 22.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .        
+
+----------------------------------------------
+
+Install Gimp 3 for UBUNTU 22.04 and deepin desktop - WSL - 2026
+
+sudo apt install gimp gnome-terminal -y
+
+----------------------------------
+
+Install LibreOffice for Deepin and Ubuntu 22.04
+
+sudo apt install libreoffice -y
+
+----------------------------------
+
+Time to install DEEPIN Desktop for UBUNTU 22.04 LTS - 2026 - WSL
+
+sudo add-apt-repository ppa:ubuntudde-dev/stable
+
+sudo apt update
+sudo apt upgrade -y
+
+sudo apt install ubuntudde-dde
+
+sudo apt install dde* dde-* -y
+sudo service dbus start
+
+---------------------------------------------------------
+
+Install Visual Studio Code from Microsoft - Latest version for Ubuntu 22.04 and Deepin desktop - 2026
+
+wget https://www.xamster.nu/scripts/code_1.137.0-1788902055_amd64.deb
+sudo apt install ./code_1.137.0-1788902055_amd64.deb
+
+---------------------------------------------------------
+
+Paste all in terminal - UBUNTU 22.04 And Deepin Desktop.
+
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+------------------------------------------------------
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 22.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win Desktop - DEEPIN DESKTOP - Windows 11 - Ubuntu 22.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Deepin and Ubuntu 22.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .        
+------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problems.
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in POWERSHELL so x410 works.
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOW GO BACK TO UBUNTU 22.04 Terminal and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed UBUNTU 22.04 and DEEPIN.
+
+----------------------------------------------
+
+       UBUNTU 22.04 and DEEPIN desktop for WSL
+
+Type this in terminal and put your user there - sudo loginctl enable-linger adolf
+
+----------------------------------------------
+
+Make a small script for UBUNTU 22.04
+
+Type in terminal: sudo nano ~/.bash_deepin_desktop
+
+Paste this in terminal and save:
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+----------------------------------------------------------------
+
+Paste all in terminal and wait for UBUNTU 22.04 to install it - Deepin - WSL - 2026
+
+git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+cd ubuntu-wsl2-systemd-script/
+bash ubuntu-wsl2-systemd-script.sh
+
+-------------------------------
+
+UBUNTU 22.04 - Reboot Reboot Reboot Reboot Reboot - UBUNTU 22.04
+
+-------------------------------
+
+Time to start DEEPIN desktop via UBUNTU 22.04
+
+NOTE - First start X410 then you start UBUNTU 22.04 via terminal
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in Terminal: . ~/.bash_deepin_desktop
+
+Paste in Terminal: dbus-run-session startdde
+
+-------------------------------
+
+Ubuntu is build with confidence on the world’s most popular open source from Canonical and DEBIAN - 2026
+
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 22.04.5 LTS (Jammy Jellyfish) x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 22.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win Desktop - DEEPIN DESKTOP - Windows 11 - Ubuntu 22.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Deepin and Ubuntu 22.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .        
+
+Regards Mattias Vinberg - Deepin - UBUNTU 22.04 - WSL - X410 - Windows 11 - Linux - Microsoft - SWEDEN - 2026
+
+-------------------------------
