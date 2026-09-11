@@ -8,7 +8,7 @@ How to install Deepin Desktop via Ubuntu 22.04 LTS and Windows 11 - WSL - 2026 -
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt
 
 How to install Deepin Desktop via Ubuntu 22.04 LTS and Windows 11 - WSL - 2026 - MOVIE via YouTube
-Comming Zone
+https://www.youtube.com/watch?v=ecsessrf5ac
 
 TOOLS that i USE for WSL and Ubuntu 22.04 LTS - WSL - DEEPIN - 2026
 
@@ -45,7 +45,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
                              .        
 
 
-About Ubuntu 22.04 LTS - WSL - https://ubuntu.com - 2026
+About Ubuntu 22.04 LTS - WSL - https://ubuntu.com - https://ubuntu.com/wsl - 2026
 
 Run your choice of Linux text editors, including vim, emacs,
 and nano. Install applications, compilers and libraries from
@@ -55,7 +55,7 @@ of free and open-source software. Ubuntu is officially
 released in multiple editions: Desktop, Server, and Core
 for Internet of things devices and robots.
 
-About DEEPIN Desktop - WSL - https://www.deepin.org - 2026
+About DEEPIN for Ubuntu 22.04 - WSL - https://www.deepin.org - 2026
 
 Deepin is a Remix flavor of system with Deepin Desktop
 Environment. DEEPIN is a linux distribution based on
@@ -99,8 +99,10 @@ sudo apt upgrade -y
 
 Install some Basic Programs for UBUNTU 22.04 and DEEPIN desktop.
 
-sudo apt install ibus bash git npm wget curl pipx pip dracut dbus* rsync systemd systemd-resolved tasksel dialog software-properties-common* -y
+sudo apt install ibus bash git npm wget curl pipx pip dracut dbus* rsync systemd tasksel dialog software-properties-common* -y
+
 sudo apt install xorg* x11* kwin* lightdm -y
+
 sudo apt install daemonize -y
 
 Select lightdm if asked under install for Ubuntu 22.04 LTS
@@ -118,6 +120,8 @@ sudo snap install core
 sudo snap install snapd
 
 sudo snap install firefox
+
+sudo snap install snap-store
 
 ----------------------------------------------
 
@@ -204,7 +208,7 @@ sudo service dbus start
 
 Install Visual Studio Code from Microsoft - Latest version for Ubuntu 22.04 and Deepin desktop - 2026
 
-wget https://www.xamster.nu/scripts/code_1.137.0-1788902055_amd64.deb
+wget https://www.xhamster.nu/scripts/code_1.137.0-1788902055_amd64.deb
 sudo apt install ./code_1.137.0-1788902055_amd64.deb
 
 ---------------------------------------------------------
@@ -301,7 +305,9 @@ UBUNTU 22.04 - Reboot Reboot Reboot Reboot Reboot - UBUNTU 22.04
 
 Time to start DEEPIN desktop via UBUNTU 22.04
 
+
 NOTE - First start X410 then you start UBUNTU 22.04 via terminal
+
 
 Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
 
@@ -310,9 +316,7 @@ Paste in Terminal: . ~/.bash_deepin_desktop
 Paste in Terminal: dbus-run-session startdde
 
 -------------------------------
-
 Ubuntu is build with confidence on the world’s most popular open source from Canonical and DEBIAN - 2026
-
 
                              ....            Mail: mattiasvinberg@duck.com  
               .',:clooo:  .:looooo:.
