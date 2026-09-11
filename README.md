@@ -7,9 +7,7 @@ including vim, emacs, and nano. Install applications, compilers and libraries fr
 
 Download Ubuntu 22.04 to Ubuntu 26.10:  here: https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
 
-Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
-
-Find me via GitHUB and more desktops via WSL and Linux - https://github.com/vinberg88
+Find me via GitHUB and more desktops for WSL and Linux - https://github.com/vinberg88
 
 The whole point is that we should get as many desktop versions as possible here for Ubuntu and WSL. How to install everything via WSL files from the
 Ubuntu brand so you get a desktop in Windows 11 with Linux. On this page we will setup diffrent desktops to Ubuntu from version 22.04 to version 26.10 of ubuntu.
@@ -62,6 +60,8 @@ the architecture of Debian, Ubuntu leverages the Linux kernel to deliver a secur
 everything from personal workstations to massive cloud infrastructures. Experience the full power of the Linux desktop on Windows. Ubuntu on WSL provides
 near-native integration, enabling WSL for business users to innovate with the Ubuntu ecosystem and manage mixed infrastructure with ease. Opt for Ubuntu
 Pro for WSL, a comprehensive subscription that provides turnkey security maintenance and enterprise support for Ubuntu instances in Windows, along
-with system management. Ubuntu on WSL are built for your enterprise and development - 2026 
+with system management. Ubuntu on WSL are built for your enterprise and development - 2026
+
+Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
 
 Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu -  windows - Build desktops for Linux via WSL - Canonical
