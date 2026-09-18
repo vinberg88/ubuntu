@@ -1,6 +1,8 @@
-# Ubuntu for Windows 11. Linux desktops via WSL. 
+<p align="center">
+  <img src="assets/ubuntu-header.jpg" alt="Ubuntu for Windows 11 and WSL" width="100%">
+</p>
 
-<img width="867" height="225" alt="720" src="https://github.com/user-attachments/assets/0351ec9d-359b-4d0a-81d9-5d4bbef5ffa6" />
+# Ubuntu for Windows 11. Linux desktops via WSL.
 
 You can download WSL image of Ubuntu version 22.04 to Ubuntu version 26.10 - We offer a large scen of Ubuntu version for WSL. Run your choice of Linux text editors, 
 including vim, emacs, and nano. Install applications, compilers and libraries from the Ubuntu repository, securely maintained by Canonical. 
@@ -65,3 +67,9 @@ with system management. Ubuntu on WSL are built for your enterprise and developm
 Old Page for WSL and Desktops for Linux and Windows: https://github.com/vinberg88/opensuse
 
 Regards Mattias Vinberg - Stockholm - Sweden - Ubuntu -  windows - Build desktops for Linux via WSL - Canonical
+
+---
+
+<p align="center">
+  <img src="assets/ubuntu-footer.jpg" alt="Ubuntu WSL Community Footer" width="100%">
+</p>
