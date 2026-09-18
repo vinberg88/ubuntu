@@ -2,8 +2,19 @@ Some wallpapers for Ubuntu.
 
 Install desktops for UBUNTU - https://github.com/vinberg88/ubuntu
 
+FIND ME ON GITHUB - WSL - https://github.com/vinberg88
+
+More desktops for WSL - old page : https://github.com/vinberg88/opensuse
+
+About Ubuntu - https://ubuntu.com/wsl
+
+The number 1 open source operating system powering millions of PCs and laptops around the world.
+Run your choice of Linux text editors, including vim, emacs, and nano. Install applications, 
+compilers and libraries from the Ubuntu repository, securely maintained by Canonical.
+
+
                              ....              
-              .',:clooo:  .:looooo:.           MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+              .',:clooo:  .:looooo:.          Download Ubuntu 26.04 - https://github.com/vinberg88/ubuntu/releases
            .;looooooooc  .oooooooooo'
         .;looooool:,''.  :ooooooooooc          OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
        ;looool;.         'oooooooooo,
@@ -21,4 +32,4 @@ Install desktops for UBUNTU - https://github.com/vinberg88/ubuntu
        .coooooc,..      coooooooooo.  
          .:ooooooolc:. .ooooooooooo'           More desktops for WSL: https://github.com/vinberg88/opensuse
            .':loooooo;  ,oooooooooc 
-               ..';::c'  .;loooo:'             Download Ubuntu 26.04 - https://github.com/vinberg88/ubuntu/releases
+               ..';::c'  .;loooo:'             MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
