@@ -37,3 +37,8 @@ compilers and libraries from the Ubuntu repository, securely maintained by Canon
 
 <img width="1919" height="1079" alt="WSL" src="https://github.com/user-attachments/assets/882702e4-ef05-446b-a432-45fdc6f25c15" />
 
+Examples of wallpapers you can find here
+
+<img width="1900" height="1079" alt="endycal-Flying_Boxes_Dark" src="https://github.com/user-attachments/assets/ca2aa209-f0cd-48b4-aebf-9200f518abaa" />
+
+
