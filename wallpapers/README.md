@@ -33,3 +33,7 @@ compilers and libraries from the Ubuntu repository, securely maintained by Canon
          .:ooooooolc:. .ooooooooooo'           More desktops for WSL: https://github.com/vinberg88/opensuse
            .':loooooo;  ,oooooooooc 
                ..';::c'  .;loooo:'             MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+
+
+<img width="1919" height="1079" alt="WSL" src="https://github.com/user-attachments/assets/882702e4-ef05-446b-a432-45fdc6f25c15" />
+
