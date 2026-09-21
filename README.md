@@ -86,7 +86,11 @@ Ubuntu 26.10 is used here for testing newer desktop environments and current Lin
 
 Ubuntu 26.04 LTS is included as one of the main platforms for future desktop testing.
 
-More installation guides, screenshots and videos will be added here as desktop environments are tested and validated.
+<img width="1920" height="1080" alt="Ubuntu26 04-KDE" src="https://github.com/user-attachments/assets/1fb2e22e-2cd8-4595-ad5d-31d6ec644756" />
+
+How to install KDE via Ubuntu26.04 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.04-KDE.txt
+
+How to install KDE via Ubuntu26.04 - video via YouTUBE https://www.youtube.com/watch?v=JRmqEL7EVF4
 
 **Planned:** GNOME, KDE Plasma, XFCE and additional desktop environments using X11 and Wayland.
 
