@@ -98,6 +98,14 @@ How to install KDE via Ubuntu26.04 - video via YouTUBE https://www.youtube.com/w
 
 ---
 
+# Ubuntu 25.10 - Working...
+
+Ubuntu 25.10 is used here for testing newer desktop environments and current Linux desktop technology under WSL.
+
+## DEKSTOP COOMING SONE
+
+---
+
 # Ubuntu 24.04 LTS
 
 Ubuntu 24.04 LTS is a strong base for running established Linux desktop environments through WSL.
