@@ -1,7 +1,7 @@
 Ubuntu 26.04 and KDE 6 Plasma - WSL - Install KDE 6 via Ubuntu 26.04 - Windows 11 - Linux - X410 - 2026
 
 How to install KDE via Ubuntu 26.04 Resolute Raccoon - WSL - TEXT VIA GITHUB - 2026
-Comming SONE..
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.04-KDE.txt
 
 How to install KDE via Ubuntu 26.04 Resolute Raccoon - WSL - MOVIE VIA YOUTUBE - 2026
 https://www.youtube.com/watch?v=JRmqEL7EVF4
