@@ -29,7 +29,7 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 ## Requirements
 
 <p align="center">
-<a href="https://www.reddit.com/">
+<a href="https://github.com/vinberg88/ubuntu/releases/">
 <img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
 
