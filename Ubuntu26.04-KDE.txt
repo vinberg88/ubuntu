@@ -1,0 +1,354 @@
+Ubuntu 26.04 and KDE 6 Plasma - WSL - Install KDE 6 via Ubuntu 26.04 - Windows 11 - Linux - X410 - 2026
+
+How to install KDE via Ubuntu 26.04 Resolute Raccoon - WSL - TEXT VIA GITHUB - 2026
+Comming SONE..
+
+How to install KDE via Ubuntu 26.04 Resolute Raccoon - WSL - MOVIE VIA YOUTUBE - 2026
+https://www.youtube.com/watch?v=JRmqEL7EVF4
+
+Ubuntu 26.04 - download here: https://github.com/vinberg88/ubuntu
+
+You can download Ubuntu 26.04 here for WSL and Windows 11
+
+https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
+
+Tools that i use for WSL and Ubuntu 26.04 - 2026 - KDE 6
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                             ....              OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2  
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     Desktop: KDE plasma Latest - Windows 11 Latest
+'ooooooooooo.                        loooo.   
+'ooooooooool                         coooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     Find More About WSL - https://github.com/vinberg88/opensuse
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      FIND ME VIA GITHUB: https://github.com/vinberg88
+      ;ooooo:.           ;oooooooc.  :l.        
+       .coooooc,..      coooooooooo.           Mail: mattiasvinberg@duck.com
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu 26.04 LTS here - https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               WSL info page: https://vinberg88.github.io
+
+About Ubuntu 26.04 for WSL and Linux - https://ubuntu.com/wsl
+
+Ubuntu is an ancient African word meaning ‘humanity to others’.
+It is often described as reminding us that ‘I am what I am
+because of who we all are’. We bring the spirit of Ubuntu
+to the world of computers and software. The Ubuntu 
+distribution represents the best of what the world’s software
+community has shared with the world. Canonical is the
+publisher of Ubuntu. Members of the Canonical team lead
+aspects of Ubuntu such as the kernel, default desktop,
+foundations, security, OpenStack, and Kubernetes. 
+The first official Ubuntu release — Version 4.10, codenamed
+the ‘Warty Warthog’ — was launched in October 2004, and
+sparked dramatic global interest as thousands of free
+software enthusiasts and experts joined the Ubuntu community.
+Ubuntu today has many flavours and dozens of specialised 
+derivatives. There are also special editions for servers, OpenStack
+clouds, and connected devices. All editions share common
+infrastructure and software, making Ubuntu a unique single
+platform that scales from consumer electronics to the desktop
+and up into the cloud for enterprise computing.
+
+--------------------
+
+About KDE 6 Plasma - https://kde.org
+
+KDE Plasma is a modern, feature-rich desktop environment
+for Linux-based operating systems. Known for its sleek
+design, customizable interface, and extensive set of
+applications, it is also open source, devoid
+of ads, and makes protecting your privacy and
+personal data a priority. The KDE Plasma Launcher lets
+you quickly and easily launch applications, but it
+can do much more -- convenient tasks like bookmarking
+applications, searching for documents as you type, or
+navigating to common places help you get straight
+to the point. With a history of recently started programs
+and opened files, you can return to where you left off.
+It even remembers previously entered search terms so
+you don't have to. Your Plasma desktop is very flexible and
+can be configured just how you like it using the System Settings
+app. Easily manage hardware, software, and workspaces all in
+one place: Keyboard, Printer, Languages, Desktop Themes, Fonts, 
+Networks. Kde 6 Plasma and its applications to a built-in dark theme.
+
+Find More About WSL and Linux here: https://github.com/vinberg88/opensuse
+
+WSL info page: https://vinberg88.github.io
+
+FIND ME VIA GITHUB: https://github.com/vinberg88
+
+Download Ubntu versions and look for diffrent desktops: https://github.com/vinberg88/ubuntu
+
+------------------------------------------------------
+
+FIRST THING after DOWNLOAD Ubuntu 26.04 is to install =)
+ 
+Ubuntu 26.04 - download here: https://github.com/vinberg88/ubuntu
+
+Now press the blue Icon for Ubuntu and setup USER AND PASSWORD - DONE
+
+------------------------------------------------------
+
+Ubuntu 26.04 via WSL after install update all.
+
+sudo apt update && sudo apt upgrade -y
+
+------------------------------------------------------
+
+Install some Basic Programs for Ubuntu 26.04 and KDE Desktop.
+
+sudo apt install systemd ibus bash git npm wget curl pipx pip dracut dbus systemd -y
+sudo apt install sddm* -y
+sudo apt install xorg* -y
+sudo apt install daemonize -y
+sudo systemctl set-default graphical
+
+------------------------------------------------------
+
+Install this small program - fastfetch
+
+sudo apt install fastfetch -y
+
+To test type this in terminal: hyfetch
+
+                             ....              OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2  
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     Desktop: KDE plasma Latest - Windows 11 Latest
+'ooooooooooo.                        loooo.   
+'ooooooooool                         coooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     Find More About WSL - https://github.com/vinberg88/opensuse
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      FIND ME VIA GITHUB: https://github.com/vinberg88
+      ;ooooo:.           ;oooooooc.  :l.        
+       .coooooc,..      coooooooooo.           Mail: mattiasvinberg@duck.com
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu 26.04 LTS here - https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               WSL info page: https://vinberg88.github.io
+More INFO about WSLg                           
+
+Architecture: x86_64 - Wayland
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0;oooooooc.  :l.
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0.ooooooooooo'
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+------------------------------------------------------
+
+Install Google Chrome Browser - Ubuntu 26.04 Resolute Raccoon
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+------------------------------------------------------
+
+Install Visual studio Code - Microsoft - Ubuntu 26.04 Resolute Raccoon
+
+sudo apt-get install wget gpg
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+rm -f packages.microsoft.gpg
+
+sudo apt install apt-transport-https apt -y
+sudo apt update
+sudo apt install code -y
+
+------------------------------------------------------
+
+Install Gimp 3 and Libre Office for Ubuntu 26.04
+
+sudo apt install gimp libreoffice -y
+
+------------------------------------------------------
+
+Install Blanket - Play diffrent sounds via ubuntu 26.04 LTS and KDE 6.6.6
+
+sudo apt install blanket
+
+------------------------------------------------------
+
+Time to install KDE 6 for Ubuntu 26.04
+
+sudo apt install kde-standard -y
+
+sudo apt install kde* -y
+
+------------------------------------------------------
+
+Install tasksel for ubuntu 26.04 and kde 6.6.6
+
+sudo apt install tasksel
+
+Run tasksel: sudo tasksel
+
+
+Select in tasksel: Debian desktop Environment and KDE Plasma
+
+------------------------------------------------------
+
+                             ....              OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2  
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     Desktop: KDE plasma Latest - Windows 11 Latest
+'ooooooooooo.                        loooo.   
+'ooooooooool                         coooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     Find More About WSL - https://github.com/vinberg88/opensuse
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      FIND ME VIA GITHUB: https://github.com/vinberg88
+      ;ooooo:.           ;oooooooc.  :l.        
+       .coooooc,..      coooooooooo.           Mail: mattiasvinberg@duck.com
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu 26.04 LTS here - https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               WSL info page: https://vinberg88.github.io
+More INFO about WSLg                           
+
+Architecture: x86_64 - Wayland
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0;oooooooc.  :l.
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0.ooooooooooo'
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+Save ip for WSL and ubuntu 26.04 here: 172.30.16.1
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+GO BACK TO Ubuntu Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1  <-- put your ip here from powershell and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed =] Ubuntu 26.04 works well via WSL - 2026
+
+------------------------------------------------------
+
+Paste in terminal - All - Ubuntu 26.04 Resolute Raccoon
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+------------------------------------------------------
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+------------------------------------------------------
+
+Final install this so we can start KDE 6.6.6 via Ubuntu 26.04 Resolute Raccoon
+
+sudo apt install plasma-session-x11
+
+------------------------------------------------------
+
+Install this small script so KDE 6 start via Ubuntu Stonking Stingray 26.10
+
+wget https://www.xhamster.nu/scripts/install-kde6-x410-ubuntu-26.10.sh
+
+chmod +x install-kde6-x410-ubuntu-26.10.sh
+
+./install-kde6-x410-ubuntu-26.10.sh
+
+------------------------------------------------------
+
+Ubuntu 26.04 Resolute Raccoon… Reboot… Reboot… Reboot… Reboot… Ubuntu 26.04 Resolute Raccoon
+
+------------------------------------------------------
+
+Now we can start KDE 6.6.6 for Ubuntu 26.04 Resolute Raccoon
+
+
+FIRST START X410 XSERVER THEN YOU START Ubuntu 26.04 VIA TERMINAL / CONSOLE / BASH
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Type in terminal and start plasma: kde6-x410 start
+
+
+  NOTE: Just wait when you start KDE 6. It will work well via UBUNTU 26.04 - TAKE SOME TIME TO START.
+
+------------------------------------------------------
+
+                             ....              OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2  
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     Desktop: KDE plasma Latest - Windows 11 Latest
+'ooooooooooo.                        loooo.   
+'ooooooooool                         coooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     Find More About WSL - https://github.com/vinberg88/opensuse
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      FIND ME VIA GITHUB: https://github.com/vinberg88
+      ;ooooo:.           ;oooooooc.  :l.        
+       .coooooc,..      coooooooooo.           Mail: mattiasvinberg@duck.com
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu 26.04 LTS here - https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               WSL info page: https://vinberg88.github.io
+----------------------------------------------
+
+Regards Mattias Vinberg - SwEden - KDE 6 - Ubuntu 26.04 Resolute Raccoon  - Linux - WSL - X410 - WINDOWS - 2026
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+----------------------------------------------
