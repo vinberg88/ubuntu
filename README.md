@@ -2,10 +2,6 @@
   <img src="assets/ubuntu-header.jpg" alt="Ubuntu for Windows 11 and WSL" width="100%">
 </p>
 
-<p align="center">
-<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
-</p>
-
 # Ubuntu for Windows 11 — Linux Desktops via WSL
 
 <p align="center">
@@ -31,6 +27,10 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 | **22.04 LTS** | Deepin | X11 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 
 ## Requirements
+
+<p align="center">
+<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
+</p>
 
 Recommended setup:
 
