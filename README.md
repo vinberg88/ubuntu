@@ -99,11 +99,16 @@ How to install KDE via Ubuntu26.04 - video via YouTUBE https://www.youtube.com/w
 
 ---
 
-# Ubuntu 25.10 - Working...
+# Ubuntu 25.10 - Working SONE..
 
-Ubuntu 25.10 is used here for testing newer desktop environments and current Linux desktop technology under WSL.
+Ubuntu 25.10 is used for testing desktops environments. UBUNTU 25.10 brings more 
+of everything you love about Ubuntu Desktop. More features and customisation
+options, more performance and power efficiency and more ways to integrate
+with your existing enterprise management tools.
 
-## DEKSTOP COOMING SONE
+<img width="1920" height="1080" alt="UBUNTU-25 10-UKUI" src="https://github.com/user-attachments/assets/97dd2aa3-aee5-4c2d-8812-fe176e11e9f1" />
+
+## DEKSTOP COOMING SONE FOR WSL
 
 ---
 
