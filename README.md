@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="100" height="29" alt="Canonical_0__q_itok=9v0jh1or" src="https://github.com/user-attachments/assets/e6830c6d-c744-48bd-96df-c1c554625e99" />
+<img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
 
 # Ubuntu for Windows 11 — Linux Desktops via WSL
