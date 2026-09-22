@@ -99,7 +99,7 @@ How to install KDE via Ubuntu26.04 - video via YouTUBE https://www.youtube.com/w
 
 ---
 
-# Ubuntu 25.10 - Working SONE..
+# Ubuntu 25.10 via UKUI / KYLIN desktop - WSL
 
 Ubuntu 25.10 is used for testing desktops environments. UBUNTU 25.10 brings more 
 of everything you love about Ubuntu Desktop. More features and customisation
