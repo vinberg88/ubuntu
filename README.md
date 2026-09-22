@@ -34,9 +34,6 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 <img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
 
-<img width="900" height="299" alt="Ubuntu-Banner" src="https://github.com/user-attachments/assets/dc4f9c11-487e-4972-8012-150764813977" />
-
-
 Recommended setup:
 
 - **Windows 11**
@@ -167,6 +164,8 @@ For full desktop environments, an external X server such as **X410** can also be
 This repository focuses on practical desktop experiments, tested installation methods and reproducible WSL configurations.
 
 ## Useful Links
+
+<img width="900" height="299" alt="Ubuntu-Banner" src="https://github.com/user-attachments/assets/dc4f9c11-487e-4972-8012-150764813977" />
 
 - [Ubuntu](https://ubuntu.com/)
 - [Ubuntu on WSL](https://ubuntu.com/desktop/wsl)
