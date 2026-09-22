@@ -108,7 +108,14 @@ with your existing enterprise management tools.
 
 <img width="1920" height="1080" alt="UBUNTU-25 10-UKUI" src="https://github.com/user-attachments/assets/97dd2aa3-aee5-4c2d-8812-fe176e11e9f1" />
 
-## DEKSTOP COOMING SONE FOR WSL
+## HOW TO INSTALL DEKSTOP COOMING SONE 
+
+UKUI DESKTOP is a beautiful Linux operating system optimized for Chinese users. Since its
+creation in 2013, the Ubuntu Kylin open source operating system has released 20 versions, 
+downloaded more than 32 million times, contributed millions of lines of code and over
+7400 patches to the open source community, and has been accepted by international 
+open source communities such as Linux, Debian, Ubuntu, OpenStack, and Ceph.
+For now, we have hundreds of thousands of active users worldwide.
 
 ---
 
