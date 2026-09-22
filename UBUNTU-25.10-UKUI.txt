@@ -3,10 +3,10 @@ UKUI and UBUNTU 25.10 - WSL - Install UKUI desktop via UBUNTU 25.10 and Windows 
 Download UBUNTU 25.10 Questing Quokka here - https://github.com/vinberg88/ubuntu ❤️
 
 How to install UKUI DESKTOP via UBUNTU 25.10 Questing Quokka - WSL - TEXT VIA GITHUB
-Comming SONE.
+https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-25.10-UKUI.txt
 
 How to install UKUI DESKTOP via UBUNTU 25.10 Questing Quokka - WSL - MOVIE VIA YOUTUBE
-Comming SONE.
+Comming SONE...
 
 Find more things for WSL: https://github.com/vinberg88
 
