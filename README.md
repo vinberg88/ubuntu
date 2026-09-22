@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/ubuntu-header.jpg" alt="Ubuntu for Windows 11 and WSL" width="100%">
+  <img width="1208" height="507" alt="6c595c" src="https://github.com/user-attachments/assets/47cd9f10-5125-4aa2-9f9b-8be8bc0964a0" />
 </p>
-
-<img width="1208" height="507" alt="6c595c" src="https://github.com/user-attachments/assets/47cd9f10-5125-4aa2-9f9b-8be8bc0964a0" />
 
 # Ubuntu for Windows 11 — Linux Desktops via WSL
 
