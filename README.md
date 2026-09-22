@@ -181,5 +181,5 @@ This repository focuses on practical desktop experiments, tested installation me
 </p>
 
 <p align="center">
-  <img src="assets/ubuntu-footer.jpg" alt="Ubuntu WSL Community Footer" width="100%">
-</p>
+  <img width="798" height="300" alt="imag" src="https://github.com/user-attachments/assets/e912ab89-fccf-4b42-a098-f61b78511c3c" />
+    </p>
