@@ -1,0 +1,441 @@
+UKUI and UBUNTU 25.10 - WSL - Install UKUI desktop via UBUNTU 25.10 and Windows 11 - GitHUB - Linux - 2026 - YOUTUBE
+
+Download UBUNTU 25.10 Questing Quokka here - https://github.com/vinberg88/ubuntu ❤️
+
+How to install UKUI DESKTOP via UBUNTU 25.10 Questing Quokka - WSL - TEXT VIA GITHUB
+Comming SONE.
+
+How to install UKUI DESKTOP via UBUNTU 25.10 Questing Quokka - WSL - MOVIE VIA YOUTUBE
+Comming SONE.
+
+Find more things for WSL: https://github.com/vinberg88
+
+TOOLS THAT I USE FOR LINUX AND WSL AND UBUNTU 25.10 Questing Quokka - Windows 11 - UKUI DESKTOP
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU 25.10 Questing Quokka ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS for LINUX: UBUNTU 25.10 Questing Quokka x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.10 (2.9.11.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 25.10 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 25.10 Questing Quokka here: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU 25.10 Questing Quokka
+
+About UBUNTU 25.10 for WSL - 2026 - https://ubuntu.com/wsl
+
+UBUNTU 25.10 brings more of everything you love about
+Ubuntu Desktop. More features and customisation options, more
+performance and power efficiency and more ways to integrate
+with your existing enterprise management tools. Combined with
+our LTS commitment of five years of updates and security 
+patching, we’re confident that this latest version of the
+Linux Desktop delivers everything needed to empower developers
+and creators in 2022 and beyond. Ubuntu WSL gives you a full
+Ubuntu environment, deeply integrated with Windows, for Linux
+application development and execution. Optimised for
+cloud, web, data science, IoT and fun!
+
+📚 About UKUI Desktop for UBUNTU 25.10 - https://ubuntukylin.com
+
+UKUI DESKTOP is a beautiful Linux operating system optimized
+for Chinese users. Since its creation in 2013, the Ubuntu Kylin
+open source operating system has released 20 versions, 
+downloaded more than 32 million times, contributed millions
+of lines of code and over 7400 patches to the open source 
+community, and has been accepted by international open source 
+communities such as Linux, Debian, Ubuntu, OpenStack, and Ceph.
+For now, we have hundreds of thousands of active users worldwide.
+
+Find More things and Tools for WSL - Windows 11 - LINUX - WSL - 2026
+
+https://github.com/vinberg88 or https://github.com/vinberg88/opensuse
+
+-------------------------------
+
+🗣️TIME TO START INSTALL FOR UBUNTU 25.10 Questing Quokka AND UKUI DESKTOP
+
+📚INSTALL UBUNTU 25.10 Questing Quokka here: https://github.com/vinberg88/ubuntu
+
+When you have UBUNTU 25.10 install file - Press the BLUE ICON and YOU ARE DONE.
+
+UBUNTU install file will setup User and Password for UBUNTU 25.10 - WSL - 2026
+
+-------------------------------
+
+Update all - UBUNTU 25.10 Questing Quokka - UKUI DESKTOP - 2026
+
+sudo apt update
+sudo apt upgrade
+
+---------------------------------------------------------------
+
+Install Programs for UBUNTU 25.10 - DBUS fix for UKUI desktop - 2026
+
+sudo apt install dbus-broker* dbus* -y
+sudo apt install dbus-daemon* -y
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+---------------------------------------------------------------
+
+REBOOT UBUNTU 25.10 - REBOOT UBUNTU 25.10 - REBOOT UBUNTU 25.10
+
+---------------------------------------------------------------
+
+Install Chrome BROWSER FOR UBUNTU 25.10 Questing Quokka and UKUI - WSL
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+-------------------------------
+
+Install firefox and Thunderbird for UBUNTU 25.10 Questing Quokka and UKUI desktop - from Canonical✓ - 2026
+
+sudo apt install snapd* -y
+
+sudo snap install core
+sudo snap install snapd
+sudo snap install thunderbird
+sudo snap install firefox
+
+-------------------------------
+
+Install UKUI desktop for UBUNTU 25.10 - UKUI DESKTOP.
+
+sudo apt install ukui-desktop-environment
+
+sudo apt install ubuntukylin-desktop
+
+
+NOTE: Use lightdm via teminal if asked under install.
+
+
+sudo apt install peony* dialog rsync libukui* lightdm* -y
+
+sudo apt install qt6* qt5* ffmpeg-doc vcdimager xdg-desktop-portal-gtk -y
+
+sudo apt install gtk* labwc xwayland bubblewrap dbus-user-session dbus-x11 xdg-desktop-portal -y
+
+--------------------------------------------
+
+Install Synaptic - Extra installation of UKUI desktop.
+
+sudo apt update
+
+sudo apt install synaptic*
+
+
+Run synaptic via terminal: sudo synaptic
+
+
+Search after: ukui in synaptic - install all - dont install ukui-wallpapers from synaptic.
+
+Search after: kylin in synaptic - install all - dont install ukui-wallpapers from synaptic
+
+-------------------------------
+
+Install flatpak for UBUNTU 25.10 - Install Spotify from SWEDEN.
+
+sudo apt install flatpak*
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+sudo flatpak install flathub com.spotify.Client
+
+
+Find More Programs for Flapak herr - https://flathub.org
+
+--------------------------------------------
+
+Install programs Ubuntu 25.10 and UKUI - Basic stuff..
+
+sudo apt install bash git npm wget curl pipx systemd -y
+sudo apt install lightdm* -y
+sudo apt install daemonize* -y
+sudo apt install xorg* -y
+sudo apt install x11* -y
+sudo systemctl set-default graphical
+
+--------------------------------------------
+
+Install fastfetch for UBUNTU 25.10 Questing Quokka - UKUI
+
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.67.0/fastfetch-linux-amd64.deb
+sudo apt install ./fastfetch-linux-amd64.deb
+
+Test by paste this in Terminal: fastfetch
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU Questing Quokka 25.10❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: UBUNTU 25.10 UBUNTU Questing Quokka 25.10 x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.10 (2.9.11.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 25.10 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU Questing Quokka 25.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Questing Quokka 25.10
+--------------------------------------------
+
+Install Blanket via UBUNTU 25.10 Questing - LISTEN TO SOUNDS WHEN YOU WORK HARD =)
+
+sudo apt install blanket
+
+--------------------------------------------
+
+Install ffmpeg, MPV and other stuff for MEDIA for UBUNTU Noble Numbat 25.10 and UKUI desktop
+
+sudo apt install celluloid -y
+sudo apt install yt-dlp -y
+sudo apt install mpv-mpris -y
+sudo apt install mpv -y
+sudo apt install ffmpeg -y
+
+--------------------------------------------
+
+Install Gimp so you can PAINT for UBUNTU 25.10 Questing Quokka and UKUI DESKTOP
+
+sudo apt install gimp -y
+
+--------------------------------------------
+
+UBUNTU 25.10 Questing Quokka and Libre Office for UKUI DESKTOP.
+
+sudo apt install libreoffice -y
+
+------------------------------------------------------
+
+Install Visual studio Code - Microsoft - Ubuntu 25.10
+
+sudo apt-get install wget gpg -y
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+rm -f packages.microsoft.gpg
+sudo apt install apt-transport-https apt -y
+sudo apt update
+sudo apt install code -y
+
+------------------------------------------------------
+
+Install some MORE programs for UBUNTU 25.10 Questing Quokka and UKUI - 2026 - WSL
+
+sudo apt install hunspell systemd-container systemd-homed wayland* mutter* polkitd pkexec gnome-screensaver gnome-power-manager xwayland* dbus-x11* -y
+sudo apt install kwin* -y
+
+--------------------------------------------
+
+Paste in Terminal and Press enter - UKUI - 2026 - UBUNTU 25.10 Questing Quokka
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+--------------------------------------------
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU 25.10 Questing Quokka ❤️
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          OS: UBUNTU 25.10 (Questing Quokka) x86_64
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.10 (2.9.11.0)
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 25.10 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download UBUNTU 25.10 Questing Quokka here - https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU 25.10 Questing Quokka
+
+--------------------------------------------
+
+UBUNTU 25.10 Questing Quokka - TYPE THIS IN TERMINAL AND PUT YOUR USERNAMN THERE.
+
+sudo loginctl enable-linger adolf
+
+--------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem - UBUNTU 25.10 Questing Quokka and UKUI
+
+FIRST OPEN POWERSHELL AND TYPE: ipconfig 
+
+Last lines are IP-number for WSL.
+
+SAVE IP HERE: 172.30.16.1
+
+GO BACK TO UBUNTU 25.10 Questing Quokka Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here from POWERSHELL and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for UBUNTU 25.10 and UKUI.
+
+DONT STRESS IF YOU PUT WRONG IP ALL WILL STOP WORKING UNDER WSL.
+
+--------------------------------------------
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU 25.10 Questing Quokka ❤️
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          OS: UBUNTU 25.10 Questing Quokka x86_64
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.10 (2.9.11.0)
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 25.10 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download UBUNTU 25.10 Questing Quokka HERE - https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU 25.10 Questing Quokka
+
+--------------------------------------------
+
+Install this last Tools for UBUNTU 25.10 Questing Quokka AND UKUI.
+
+sudo apt install ukui-panel* ukui-media* pulseaudio-utils sound-theme-freedesktop audio* marco* pciutils gnome-terminal -y
+
+------------------------------------------------------
+
+Wallpapers for UKUI - 2026 - latest verion =]
+
+wget http://ports.ubuntu.com/pool/universe/u/ubuntukylin-wallpapers/ubuntukylin-wallpapers-resolute_26.04_all.deb
+sudo apt install ./ubuntukylin-wallpapers-resolute_26.04_all.deb
+
+------------------------------------------------------
+
+DOWNLOAD THIS SCRIPT FÖR UBUNTU 25.10 Questing Quokka AND UKUI - So Desktop WILL START =]
+
+wget --https-only --timeout=30 --tries=3 -O /tmp/ubuntu-UKUI.sh https://www.xhamster.nu/swe/ubuntu-UKUI.sh
+
+--------------------------------------------
+
+Now we must install scrip for UKUI AND UBUNTU 25.10 Questing Quokka
+
+Copy and paste in terminal =]
+
+
+sed -i 's/\r$//' /tmp/ubuntu-UKUI.sh
+bash -n /tmp/ubuntu-UKUI.sh && echo "Syntax OK"
+sudo mkdir -p ~/.local/bin
+sudo chown -R "$(id -un):$(id -gn)" ~/.local
+install -m 755 /tmp/ubuntu-UKUI.sh ~/.local/bin/ukui-x410
+ls -l ~/.local/bin/ukui-x410
+grep -qxF 'export PATH="$HOME/.local/bin:$PATH"' ~/.bashrc || echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+command -v ukui-x410
+
+NICE WORK - TIME FOR NEXT STEP FOR UKUI AND UBUNTU 25.10
+
+--------------------------------------------
+
+REBOOT UBUNTU Noble Numbat 25.10 - REBOOT UBUNTU Noble Numbat 25.10 - REBOOT UBUNTU Noble Numbat 25.10
+
+--------------------------------------------
+
+Time to start UKUI DESKTOP AND UBUNTU 25.10 Questing Quokka ❤️
+
+
+NOTE - FIRST START X410 AND NEXT START UBUNTU 25.10 Questing Quokka VIA TERMINAL.
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Type in terminal and start UkUI: dbus-launch ukui-x410
+
+
+Just wait when you start UKUI via UBUNTU 25.10 Questing Quokka - UKUI DESKTOP WILL WORK WELL UNDER WSL AND WINDOWS 11 AMD UBUNTU 25.10
+
+--------------------------------------------
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU 25.10 Questing Quokka ❤️
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          OS: UBUNTU Questing Quokka 25.10 LTS x86_64
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.10 (2.9.11.0)
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 25.10 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download UBUNTU 25.10 Questing Quokka here: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU 25.10 Questing Quokka
+
+
+Regards Mattias Vinberg - UKUI - UBUNTU 25.10 Questing Quokka - WSL - X410 - Windows 11 - Linux - 2026 - SWEDEN
+
+--------------------------------------------
