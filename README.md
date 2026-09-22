@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://github.com/vinberg88">
   <img width="1208" height="507" alt="6c595c" src="https://github.com/user-attachments/assets/47cd9f10-5125-4aa2-9f9b-8be8bc0964a0" />
 </p>
 
@@ -30,7 +31,7 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 ## Requirements
 
 <p align="center">
-<a href="https://github.com/vinberg88/ubuntu/releases/">
+<a href="https://github.com/vinberg88">
 <img width="480" height="156" alt="canonical" src="https://github.com/user-attachments/assets/70098060-a4e3-457d-a057-c35f7a7d537b" />
 </p>
 
@@ -66,6 +67,7 @@ Planned and tested desktops include:
 Both **X11** and **Wayland** configurations are explored where possible.
 
 <p align="center">
+    <a href="https://github.com/vinberg88">
 <img width="734" height="272" alt="im" src="https://github.com/user-attachments/assets/5e8a8a28-690c-49d1-b3d1-cc1a8bb2f5a1" />
 
 ---
@@ -170,8 +172,11 @@ This repository focuses on practical desktop experiments, tested installation me
 
 ## Useful Links
 
+<p align="center">
+<a href="https://github.com/vinberg88">
 <img width="900" height="299" alt="Ubuntu-Banner" src="https://github.com/user-attachments/assets/dc4f9c11-487e-4972-8012-150764813977" />
-
+</p>
+  
 - [Ubuntu](https://ubuntu.com/)
 - [Ubuntu on WSL](https://ubuntu.com/desktop/wsl)
 - [Microsoft WSL documentation](https://learn.microsoft.com/windows/wsl/)
@@ -186,5 +191,6 @@ This repository focuses on practical desktop experiments, tested installation me
 </p>
 
 <p align="center">
+  <a href="https://github.com/vinberg88">
   <img width="798" height="300" alt="imag" src="https://github.com/user-attachments/assets/e912ab89-fccf-4b42-a098-f61b78511c3c" />
     </p>
