@@ -65,6 +65,9 @@ Planned and tested desktops include:
 
 Both **X11** and **Wayland** configurations are explored where possible.
 
+<p align="center">
+<img width="734" height="272" alt="im" src="https://github.com/user-attachments/assets/5e8a8a28-690c-49d1-b3d1-cc1a8bb2f5a1" />
+
 ---
 
 # Ubuntu 26.10
@@ -79,7 +82,9 @@ Ubuntu 26.10 is used here for testing newer desktop environments and current Lin
 **Video:**  
 [How to install KDE Plasma 6 on Ubuntu 26.10 via WSL](https://www.youtube.com/watch?v=mQXaubKRRRU)
 
+<p align="center">
 <img width="1920" height="1080" alt="Ubuntu 26.10 KDE Plasma 6" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
+</p>
 
 ---
 
