@@ -23,7 +23,7 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 | Ubuntu version | Desktop | Display | Install guide | Video |
 |---|---|---|---|---|
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
-| **26.04 LTS** | More desktops coming | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
+| **26.04 LTS** | KDE Plasma 6 | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
 |   25.10 | UKUI | X11 | [Guide](UBUNTU-25.10-UKUI.txt) |  [YouTube](https://www.youtube.com/watch?v=cy_jWZgNfks) |
 | **24.04 LTS** | Budgie | X11 | [Guide](Ubuntu24.04-BUDGIE.txt) | [YouTube](https://www.youtube.com/watch?v=JtnlmX010mM) |
 | **22.04 LTS** | Deepin | X11 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
