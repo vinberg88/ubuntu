@@ -6,7 +6,7 @@ How to install UKUI DESKTOP via UBUNTU 25.10 Questing Quokka - WSL - TEXT VIA GI
 https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-25.10-UKUI.txt
 
 How to install UKUI DESKTOP via UBUNTU 25.10 Questing Quokka - WSL - MOVIE VIA YOUTUBE
-Comming SONE...
+https://www.youtube.com/watch?v=cy_jWZgNfks
 
 Find more things for WSL: https://github.com/vinberg88
 
