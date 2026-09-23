@@ -27,7 +27,7 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 |   25.10 | UKUI | X11 | [Guide](UBUNTU-25.10-UKUI.txt) |  [YouTube](https://www.youtube.com/watch?v=cy_jWZgNfks) |
 | **24.04 LTS** | Budgie | X11 | [Guide](Ubuntu24.04-BUDGIE.txt) | [YouTube](https://www.youtube.com/watch?v=JtnlmX010mM) |
 | **22.04 LTS** | Deepin | X11 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
-| **25.04 LTS** | Deepin | X11 | NEXT GNOME DE | YOUTUBE COMMING |
+| **25.04 LTS** | GNOME | X11 | NEXT GNOME DE | YOUTUBE COMMING |
 
 ## Requirements 
 
