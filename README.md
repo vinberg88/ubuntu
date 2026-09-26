@@ -292,8 +292,8 @@ This repository focuses on practical desktop experiments, tested installation me
 <img width="900" height="299" alt="Ubuntu-Banner" src="https://github.com/user-attachments/assets/dc4f9c11-487e-4972-8012-150764813977" />
 </p>
   
-- [Ubuntu](https://ubuntu.com/)
-- [Ubuntu on WSL](https://ubuntu.com/desktop/wsl)
+- [Ubuntu - WSL](https://vinberg88.github.io/)
+- [Ubuntu on WSL](https://github.com/vinberg88/ubuntu/)
 - [Microsoft WSL documentation](https://learn.microsoft.com/windows/wsl/)
 - [More Linux / WSL projects by vinberg88](https://github.com/vinberg88)
 - [Older WSL desktop project](https://github.com/vinberg88/opensuse)
