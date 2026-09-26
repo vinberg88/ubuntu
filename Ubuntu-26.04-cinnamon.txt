@@ -9,11 +9,8 @@ Comming Zone…
 Thank you for testing Cinnamon desktop via Ubuntu Resolute Raccoon 26.04 ❤️
 
 Ubuntu 26.04 - Easy install - Open Powershell and type this: wsl --install Ubuntu-26.04
-
 Download Ubuntu 26.04 from this page: https://github.com/vinberg88/ubuntu/releases
-
 Press the Blue Icon after download and that will setup User and Password for Ubuntu 26.04 LTS
-
 
 TOOLS THAT I USE FOR WSL AND Ubuntu 26.04 - 2026
 
