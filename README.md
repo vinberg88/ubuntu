@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://github.com/vinberg88">
-  <img width="1208" height="507" alt="6c595c" src="https://github.com/user-attachments/assets/47cd9f10-5125-4aa2-9f9b-8be8bc0964a0" />
+   <img width="729" height="207" alt="ubuntu-bild" src="https://github.com/user-attachments/assets/6ed9f9f1-3c45-4357-bc65-ab72e848a7ca" />
 </p>
-
-<img width="729" height="207" alt="ubuntu-bild" src="https://github.com/user-attachments/assets/6ed9f9f1-3c45-4357-bc65-ab72e848a7ca" />
-
-
 
 # Ubuntu for Windows 11 — Linux Desktops via WSL
 
