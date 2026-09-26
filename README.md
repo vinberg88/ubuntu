@@ -157,11 +157,15 @@ For now, we have hundreds of thousands of active users worldwide.
 
 ---
 
-Each release of Ubuntu delivers the latest applications, libraries, and toolchains. 
-Ubuntu is a primary platform for all major IDEs, game development tools, and AI/ML software. 
-Ubuntu offers essential applications for web browsing, messaging, gaming, and content
-creation, including Firefox, Chrome, Discord, Steam, and OBS Studio, supporting all
-your daily computing needs.
+Ubuntu is one of the world's most popular Linux distributions. It is based on Debian
+and developed by Canonical together with a large global open-source community.
+Ubuntu was first released in 2004 with the goal of making Linux easier to 
+install, use, and maintain. Today it is widely used on desktop computers, 
+servers, cloud platforms, development environments, and Windows through WSL.
+One of Ubuntu's biggest strengths is its large software ecosystem and excellent 
+hardware and software support. Packages can be installed using APT, while
+technologies such as Snap, Flatpak, Docker, and other container platforms
+make it possible to run a huge variety of applications and development tools.
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="573" height="139" alt="pro" src="https://github.com/user-attachments/assets/56572a41-ad31-47fe-96b2-983388e3c75c" />
