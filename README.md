@@ -118,6 +118,12 @@ How to install KDE via Ubuntu26.04 - video via YouTUBE https://www.youtube.com/w
 **Planned:** GNOME, KDE Plasma, XFCE and additional desktop environments using X11 and Wayland.
 
 ---
+
+Each release of Ubuntu delivers the latest applications, libraries, and toolchains. 
+Ubuntu is a primary platform for all major IDEs, game development tools, and AI/ML software. 
+Ubuntu offers essential applications for web browsing, messaging, gaming, and content
+creation, including Firefox, Chrome, Discord, Steam, and OBS Studio, supporting all
+your daily computing needs.
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="692" height="172" alt="Ubuntu" src="https://github.com/user-attachments/assets/84ee9dc9-bc83-44ed-bd64-95f04f0a92b2" />
