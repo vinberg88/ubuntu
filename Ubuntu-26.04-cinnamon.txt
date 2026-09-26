@@ -1,7 +1,7 @@
 Ubuntu 26.04 and Cinnamon - Install Cinnamon desktop via WSL and Ubuntu 26.04 - Windows 11 - Linux - GITHUB - YouTUBE - 2026
 
 How to install Cinnamon via Ubuntu 26.04 Resolute Raccoon - WSL - GITHUB - TEXT
-Comming Zone...
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-cinnamon.txt
 
 How to install Cinnamon via Ubuntu 26.04 Resolute Raccoon - WSL - YouTUBE - MOVIE
 Comming Zone…
