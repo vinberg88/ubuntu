@@ -167,7 +167,7 @@ of free and open-source software. Ubuntu is officially
 released in multiple editions: Desktop, Server, and Core
 for Internet of things devices and robots.
 
-## Budgie Desktop
+## Budgie Desktop for Ubuntu 24.04 LTS
 
 **Install guide:**  
 [Ubuntu24.04-BUDGIE.txt](Ubuntu24.04-BUDGIE.txt)
