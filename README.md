@@ -75,7 +75,12 @@ Both **X11** and **Wayland** configurations are explored where possible.
 
 # Ubuntu 26.10
 
-Ubuntu 26.10 is used here for testing newer desktop environments and current Linux desktop technology under WSL.
+About Ubuntu - Ubuntu today has many flavours and dozens of specialised 
+derivatives. There are also special editions for servers, OpenStack
+clouds, and connected devices. All editions share common
+infrastructure and software, making Ubuntu a unique single
+platform that scales from consumer electronics to the desktop
+and up into the cloud for enterprise computing.
 
 ## KDE Plasma 6
 
