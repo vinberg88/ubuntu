@@ -69,8 +69,9 @@ Both **X11** and **Wayland** configurations are explored where possible.
 
 <p align="center">
     <a href="https://github.com/vinberg88">
-<img width="734" height="272" alt="im" src="https://github.com/user-attachments/assets/5e8a8a28-690c-49d1-b3d1-cc1a8bb2f5a1" />
-
+      <img width="734" height="272" alt="im" src="https://github.com/user-attachments/assets/5e8a8a28-690c-49d1-b3d1-cc1a8bb2f5a1" />
+</p>
+      
 ---
 
 # Ubuntu 26.10
@@ -115,6 +116,12 @@ How to install KDE via Ubuntu26.04 https://github.com/vinberg88/ubuntu/blob/main
 How to install KDE via Ubuntu26.04 - video via YouTUBE https://www.youtube.com/watch?v=JRmqEL7EVF4
 
 **Planned:** GNOME, KDE Plasma, XFCE and additional desktop environments using X11 and Wayland.
+
+---
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="692" height="172" alt="Ubuntu" src="https://github.com/user-attachments/assets/84ee9dc9-bc83-44ed-bd64-95f04f0a92b2" />
+
 
 ---
 
