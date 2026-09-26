@@ -6,7 +6,7 @@ How to install Elementary - Pantheon desktop via Ubuntu 24.04 and Windows 11 - T
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-24.04-Pantheon.txt
 
 How to install Elementary - Pantheon desktop via Ubuntu 24.04 and Windows 11 - MOVIE via YOUTUBE
-Comming SONE...
+https://www.youtube.com/watch?v=gXKeX5Ykjj8
 
 TOOLS that i USE for WSL and Ubuntu 24.04 LTS - WSL - Elementary - Pantheon - 2026
 
