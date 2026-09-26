@@ -281,6 +281,8 @@ this is probably a no-brainer. We recommend Ubuntu Cinnamon
 Remix to everyone who loves Ubuntu and wants to use the Cinnamon
 desktop environment without having to install it on top of another Ubuntu flavor.
 
+https://ubuntucinnamon.org
+
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="892" height="140" alt="Debian" src="https://github.com/user-attachments/assets/71892622-c00f-4ff9-87b2-7cf1050d00d6" />
