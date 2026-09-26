@@ -96,6 +96,27 @@ and up into the cloud for enterprise computing.
 <img width="1920" height="1080" alt="Ubuntu 26.10 KDE Plasma 6" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
 </p>
 
+About KDE 6 - https://kde.org
+
+KDE Plasma is a modern, feature-rich desktop environment
+for Linux-based operating systems. Known for its sleek
+design, customizable interface, and extensive set of
+applications, it is also open source, devoid
+of ads, and makes protecting your privacy and
+personal data a priority. The KDE Plasma Launcher lets
+you quickly and easily launch applications, but it
+can do much more -- convenient tasks like bookmarking
+applications, searching for documents as you type, or
+navigating to common places help you get straight
+to the point. With a history of recently started programs
+and opened files, you can return to where you left off.
+It even remembers previously entered search terms so
+you don't have to. Your Plasma desktop is very flexible and
+can be configured just how you like it using the System Settings
+app. Easily manage hardware, software, and workspaces all in
+one place: Keyboard, Printer, Languages, Desktop Themes, Fonts, Networks.
+Kde 6 Plasma and its applications to a built-in dark theme.
+
 ---
 
 # Ubuntu 26.04 LTS
