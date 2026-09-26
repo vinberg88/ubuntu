@@ -154,6 +154,42 @@ your daily computing needs.
 
 ---
 
+# Ubuntu 26.04 and Cinnamon
+
+About Ubuntu - We bring the spirit of Ubuntu
+to the world of computers and software. The Ubuntu 
+distribution represents the best of what the world’s software
+community has shared with the world. Canonical is the
+publisher of Ubuntu. Members of the Canonical team lead
+aspects of Ubuntu such as the kernel, default desktop,
+foundations, security, OpenStack, and Kubernetes. Ubuntu 
+today has many flavours and dozens of specialised derivatives.
+
+<img width="1920" height="1080" alt="Ubuntu-26 04-cinnamon" src="https://github.com/user-attachments/assets/d904ea20-88f2-42fa-a3e5-7874344aa8ed" />
+
+## Cinnamon Desktop VIA UBUNTU
+
+Community-driven, featuring Linux Mint’s Cinnamon 
+Desktop with Ubuntu at the core, packed fast and full
+of features, here is the most traditionally modern desktop
+you will ever love. Cinnamon takes the more traditional
+approach of a GNOME 2 and MATE-like desktop. Similar to
+Windows 7, it is easy to transition from your Windows
+system to Ubuntu Cinnamon, and even if you still prefer
+to keep Windows on the side, you can always dual-boot
+Windows and Ubuntu Cinnamon.
+
+About Cinnamon Desktop - https://ubuntucinnamon.org
+
+**Install guide:**  
+[Ubuntu26.04 Cinnamon](Ubuntu-26.04-cinnamon.txt)
+
+
+**Video:**  
+Comming SONE...
+
+---
+
 # Ubuntu 25.10
 
 Ubuntu 25.10 is used for testing desktops environments. UBUNTU 25.10 brings more 
