@@ -325,7 +325,7 @@ primary stable release for desktop and enterprise environments.
 [Ubuntu-24.04-Pantheon.txt](Ubuntu-24.04-Pantheon.txt)
 
 **Install video from Youtube:** 
-Comming SONE...
+[Elementary - Pantheon via Youtube](https://www.youtube.com/watch?v=gXKeX5Ykjj8)
 
 <img width="1920" height="1080" alt="Ubuntu- 24 04-Pantheon" src="https://github.com/user-attachments/assets/ee9051f3-88e3-43f1-8fef-59803957ae18" />
 
