@@ -1,7 +1,7 @@
 Ubuntu 25.04 and GNOME - Install Gnome desktop via WSL and Ubuntu - Windows 11 - Linux - YouTube - 2026
 
 How to install Gnome via Ubuntu 25.04 Plucky Puffin - WSL - TEXT via GITHUB
-Comming SONE.
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-25.04-GNOME.txt
 
 How to install Gnome via Ubuntu 25.04 Plucky Puffin - WSL - MOVIE via YOUTUBE
 Comming SONE.
