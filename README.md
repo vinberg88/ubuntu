@@ -94,7 +94,7 @@ and up into the cloud for enterprise computing.
 [How to install KDE Plasma 6 on Ubuntu 26.10 via WSL](https://www.youtube.com/watch?v=mQXaubKRRRU)
 
 <p align="center">
-      <a href="https://github.com/vinberg88">
+      <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.10-KDE.txt">
        <img width="1920" height="1080" alt="Ubuntu 26.10 KDE Plasma 6" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
 </p>
 
@@ -133,7 +133,10 @@ foundations, security, OpenStack, and Kubernetes.
 
 ## KDE Plasma 6 VIA UBUNTU 26.04
 
+<p align="center">
+      <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.04-KDE.txt">
 <img width="1920" height="1080" alt="Ubuntu26 04-KDE" src="https://github.com/user-attachments/assets/38347325-59df-407c-992f-e5f56f14251d" />
+</p>
 
 How to install KDE via Ubuntu26.04 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu26.04-KDE.txt
 
@@ -167,7 +170,7 @@ foundations, security, OpenStack, and Kubernetes. Ubuntu
 today has many flavours and dozens of specialised derivatives.
 
 <p align="center">
-<a href="https://github.com/vinberg88">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-cinnamon.txt">
 <img width="1920" height="1080" alt="Ubuntu-26 04-cinnamon" src="https://github.com/user-attachments/assets/d904ea20-88f2-42fa-a3e5-7874344aa8ed" />
 </p>
 
@@ -217,8 +220,11 @@ with your existing enterprise management tools.
 
 ## Ubuntu 25.10 via UKUI/KYLIN - WSL
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-25.10-UKUI.txt">
 <img width="1920" height="1080" alt="UBUNTU-25 10-UKUI" src="https://github.com/user-attachments/assets/97dd2aa3-aee5-4c2d-8812-fe176e11e9f1" />
-
+</p>
+  
 ## HOW TO INSTALL UKUI VIA UBUNTU 25.10 and Windows
 
 How to install UKUI - https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-25.10-UKUI.txt
@@ -265,7 +271,10 @@ a new release every six months.
 **Video:**  
 Comming SONE...
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-25.04-GNOME.txt">
 <img width="1920" height="1080" alt="Ubuntu-25.04-GNOME" src="https://github.com/user-attachments/assets/a6f34362-5624-4414-bafd-cd24cbf92188" />
+</p>
 
 Every part of GNOME has been designed to make it simple 
 and easy to use. The Activities Overview is a simple way 
@@ -312,7 +321,10 @@ for Internet of things devices and robots.
 **Video:**  
 [How to install Budgie on Ubuntu via WSL](https://www.youtube.com/watch?v=JtnlmX010mM)
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu24.04-BUDGIE.txt">
 <img width="1920" height="1080" alt="Ubuntu 24.04 Budgie Desktop" src="https://github.com/user-attachments/assets/033ad70c-eb64-496c-9957-37466923a06d" />
+</p>
 
 ---
 
@@ -331,9 +343,12 @@ primary stable release for desktop and enterprise environments.
 **Install video from Youtube:** 
 [Elementary - Pantheon via Youtube](https://www.youtube.com/watch?v=gXKeX5Ykjj8)
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-24.04-Pantheon.txt">
 <img width="1920" height="1080" alt="Ubuntu- 24 04-Pantheon" src="https://github.com/user-attachments/assets/ee9051f3-88e3-43f1-8fef-59803957ae18" />
+</p>
 
-About Elementary - Pantheon desktop
+About Elementary - Pantheon desktop for UBUNTU
 
 Stay productive and focused with Multitasking View,
 Picture-in-Picture, Do Not Disturb, and more. 
@@ -361,6 +376,7 @@ your daily computing needs.
 <a href="https://github.com/vinberg88">
 <img width="530" height="205" alt="Ubuntu-AI" src="https://github.com/user-attachments/assets/d6a803bf-2960-463b-96cd-9e22990a7219" />
 </p>
+
 ---
 
 # Ubuntu 22.04 LTS
@@ -379,7 +395,10 @@ of free and open-source software.
 **Video:**  
 [How to install Deepin Desktop on Ubuntu via WSL](https://www.youtube.com/watch?v=ecsessrf5ac)
 
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu22.04-Deepin.txt">
 <img width="1920" height="1080" alt="Ubuntu 22.04 Deepin Desktop" src="https://github.com/user-attachments/assets/d06cdb05-717a-4e1b-b637-e27f9c1c7682" />
+</p>
 
 Deepin is a Remix flavor of system with Deepin Desktop
 Environment. DEEPIN is a linux distribution based on
