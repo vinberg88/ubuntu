@@ -20,6 +20,9 @@ This repository collects installation guides, screenshots and videos for running
 
 You can also use Ubuntu normally from the terminal with tools such as **vim, emacs and nano**, and install applications, compilers and libraries from the Ubuntu repositories maintained by Canonical.
 
+**WSL page for Ubuntu [WSL info page](https://vinberg88.github.io/)** 2026
+WSL stands for Windows Subsystem for Linux, a feature of Windows that allows users to run a Linux environment directly on their Windows machine without needing a separate virtual machine or dual-booting.
+
 ## Quick Overview
 
 | Ubuntu version | Desktop | Display | Install guide | Video |
