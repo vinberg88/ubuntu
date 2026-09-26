@@ -150,7 +150,7 @@ your daily computing needs.
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="692" height="172" alt="Ubuntu" src="https://github.com/user-attachments/assets/84ee9dc9-bc83-44ed-bd64-95f04f0a92b2" />
-
+</p>
 
 ---
 
@@ -187,6 +187,12 @@ About Cinnamon Desktop - https://ubuntucinnamon.org
 
 **Video:**  
 Comming SONE...
+
+---
+
+
+
+
 
 ---
 
@@ -229,7 +235,7 @@ make it possible to run a huge variety of applications and development tools.
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="573" height="139" alt="pro" src="https://github.com/user-attachments/assets/56572a41-ad31-47fe-96b2-983388e3c75c" />
-
+</p>
 ---
 
 # Ubuntu 25.04 and GNOME - 2026
@@ -328,7 +334,7 @@ your daily computing needs.
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="530" height="205" alt="Ubuntu-AI" src="https://github.com/user-attachments/assets/d6a803bf-2960-463b-96cd-9e22990a7219" />
-
+</p>
 ---
 
 # Ubuntu 22.04 LTS
