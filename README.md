@@ -146,6 +146,8 @@ with your existing enterprise management tools.
 
 How to install UKUI - https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-25.10-UKUI.txt
 
+How to install UKUI DESKTOP - MOVIE VIA YOUTUBE - https://www.youtube.com/watch?v=cy_jWZgNfks
+
 UKUI DESKTOP is a beautiful Linux operating system optimized for Chinese users. Since its
 creation in 2013, the Ubuntu Kylin open source operating system has released 20 versions, 
 downloaded more than 32 million times, contributed millions of lines of code and over
@@ -168,7 +170,7 @@ for Internet of things devices and robots.
 ## Budgie Desktop
 
 **Install guide:**  
-[Ubuntu-24.04-Pantheon.txt](Ubuntu-24.04-Pantheon.txt)
+[Ubuntu24.04-BUDGIE.txt](Ubuntu24.04-BUDGIE.txt)
 
 **Video:**  
 [How to install Budgie on Ubuntu via WSL](https://www.youtube.com/watch?v=JtnlmX010mM)
@@ -187,7 +189,7 @@ primary stable release for desktop and enterprise environments.
 ## Elementary - Pantheon for UBUNTU 24.04
 
 **How to install Pantheon - text** 
-[Ubuntu24.04-BUDGIE.txt](Ubuntu24.04-BUDGIE.txt)
+[Ubuntu-24.04-Pantheon.txt](Ubuntu-24.04-Pantheon.txt)
 
 **Install video from Youtube:** 
 Comming SONE...
@@ -230,6 +232,19 @@ of free and open-source software.
 [How to install Deepin Desktop on Ubuntu via WSL](https://www.youtube.com/watch?v=ecsessrf5ac)
 
 <img width="1920" height="1080" alt="Ubuntu 22.04 Deepin Desktop" src="https://github.com/user-attachments/assets/d06cdb05-717a-4e1b-b637-e27f9c1c7682" />
+
+Deepin is a Remix flavor of system with Deepin Desktop
+Environment. DEEPIN is a linux distribution based on
+DEEPIN with the most beautiful desktop environment. Deepin
+Remix is developed and maintained by the Deepin Community.
+Deepin is a Remix of the Ubuntu system with Deepin Desktop 
+Environment as the default desktop environment. It is
+aIt aims to have a beautiful desktop experience with a modern
+design featuring both Dock and Modern Design. Its initial
+release is Deepin Remix 20.04 Focal Fossa based on Ubuntu
+22.04 LTS and will be supported by the Deepin Team and the
+community. Linux distribution based on Ubuntu with the most
+Beautiful desktop environment. Deepin is a nice desktop. 
 
 ---
 
