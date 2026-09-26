@@ -1,0 +1,355 @@
+Ubuntu 24.04 and Elementary - How to install Pantheon desktop via Ubuntu - Windows 11 - WSL - 2024
+
+You can find Ubuntu 24.04 here - https://github.com/vinberg88/ubuntu
+
+How to install Elementary - Pantheon desktop via Ubuntu 24.04 and Windows 11 - TEXT via GITHUB
+Comming SONE..
+
+How to install Elementary - Pantheon desktop via Ubuntu 24.04 and Windows 11 - MOVIE via YOUTUBE
+Comming SONE...
+
+TOOLS that i USE for WSL and Ubuntu 24.04 LTS - WSL - Elementary - Pantheon - 2026
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                             ....            OS: Ubuntu 24.04.5 LTS (Jammy Jellyfish) x86_64  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        Mail: mattiasvinberg@duck.com
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Pantheon and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .               Mail: mattiasvinberg@duck.com  
+
+About Ubuntu 24.04 - https://ubuntu.com
+
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+About Elementary - Pantheon desktop - https://elementary.io
+
+Stay productive and focused with Multitasking View,
+Picture-in-Picture, Do Not Disturb, and more. 
+Or keep work out of sight when watching videos or
+playing games. Workspaces help organize your work by 
+task. Keep work and play separate, but just one swipe
+or tap away. Whether you’re watching a movie, game, or 
+terminal process, Picture-in-Picture helps keep tabs on
+one thing while working on another. Tune everything else
+out to stay focused on your work, or keep notifications
+at bay while watching a movie. Do Not Disturb stops
+notifications in their tracks. Elementary comes with
+a carefully considered set of apps that cater to everyday
+needs so you can spend more time using your computer
+and less time cleaning up bloatware. Pantheon is nice to use.
+
+More About WSL and diffent dekstop for Linux: https://github.com/vinberg88
+
+Information about WSL - https://vinberg88.github.io
+
+--------------------------------
+
+Download 22.04 LTS here - desktop: https://github.com/vinberg88/ubuntu
+
+--------------------------------
+
+Press the blue Icon and you are ready to run Ubuntu 24.04 after download.
+
+Update Ubuntu 24.04
+
+sudo apt update && sudo apt upgrade -y
+
+--------------------------------
+
+Install programs for Ubuntu 24.04 and Elementary desktop.
+
+sudo apt install dialog rsync systemd dbus* bash git npm wget curl nano sudo pipx dracut -y
+sudo apt install gdm3* -y
+sudo apt install gdm* xorg* x11* -y
+
+--------------------------------
+
+Install this small program - fastfetch
+
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.69.0/fastfetch-linux-amd64-polyfilled.deb
+sudo apt install ./fastfetch-linux-amd64-polyfilled.deb
+
+Test by just reboot terminal and copy and paste: fastfetch
+
+
+                             ....            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        Mail: mattiasvinberg@duck.com
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.12.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Pantheon and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .               Mail: mattiasvinberg@duck.com  
+
+More info about WSL.
+
+Architecture: x86_64       
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+(Wayland)
+
+--------------------------------
+
+Install gnome terminal for Ubuntu 24.04
+
+sudo apt install gnome-terminal
+
+--------------------------------
+
+Install Chrome for UBUNUT 24.04 LTS
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+-------------------------------
+
+Install Blanket if you Want! - Listen to Sounds - Ubuntu 24.04
+
+wget https://launchpad.net/~apandada1/+archive/ubuntu/blanket/+files/blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
+sudo apt install ./blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
+
+-------------------------------
+
+Install firefox - Saves time under installation
+
+sudo apt install snapd*
+
+sudo snap install core24
+
+sudo snap install core
+
+sudo snap install snapd
+
+sudo snap install firefox 
+
+sudo snap install thunderbird
+
+-------------------------------
+
+Time to Install Desktop - Elementary / Pantheon for UBUNTU 24.04 LTS
+
+sudo apt update
+sudo apt install wget apt-transport-https gnupg2 software-properties-common
+
+sudo add-apt-repository ppa:elementary-os/stable
+
+sudo apt update
+sudo apt install elementary-desktop
+sudo chmod 755 /usr/share/xsessions/pantheon.desktop
+sudo apt install vala*
+
+-------------------------------
+
+Fix IP problem for X410. Cant find screen problems - UBUNTU 24.04 LTS
+
+OPEN POWERSHELL FROM MICROSOFT AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in POWERSHELL so x410 works.
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOW GO BACK TO Ubuntu 24.04 Terminal and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip from POWERSHELL here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed Ubuntu 24.04 and Pantheon - Elementary
+
+-------------------------------
+
+                             ....            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        Mail: mattiasvinberg@duck.com
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.12.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Pantheon and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .               Mail: mattiasvinberg@duck.com  
+More info about WSL.
+
+Architecture: x86_64       
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+(Wayland)
+
+--------------------------------
+
+Copy and Paste in Terminal or UBUNTU 24.04 LTS
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical
+
+--------------------------------
+
+Copy this and paste in terminal: sudo nano ~/.bash_ubuntu_desktop
+
+Then add this script to terminal
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+-------------------------------
+
+Install Chrome for UBUNTU 24.04
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+---------------------------------------------------------------
+
+Install Gimp -- PAINT
+
+sudo apt install gimp
+
+--------------------------------
+
+Install Blanket - Play sounds
+
+wget https://launchpad.net/~apandada1/+archive/ubuntu/blanket/+files/blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
+sudo apt install ./blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
+
+--------------------------------
+
+Libreoffice for Ubuntu 24.04
+
+sudo apt install libreoffice
+
+--------------------------------
+
+Install this script - just paste all in terminal - Follow instructions - UBUNTU 24.04 LTS
+
+git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+cd ubuntu-wsl2-systemd-script/
+bash ubuntu-wsl2-systemd-script.sh
+
+--------------------------------
+
+Ubuntu 24.04 - Please Reboot Please Reboot Please Reboot - Ubuntu 24.04
+
+--------------------------------
+
+Time to start Elementary - Pantheon Desktop.
+
+
+NOTE - first start x410 xSERVER next start Ubuntu 24.04 LTS
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal: . ~/.bash_ubuntu_desktop
+
+Paste in terminal: xhost +
+
+Paste in terminal: io.elementary.wingpanel & plank & gala
+
+
+--------------------------------
+
+                             ....            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64 
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        Mail: mattiasvinberg@duck.com
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.12.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Pantheon / Elementary and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .               Mail: mattiasvinberg@duck.com
+
+
+Regards Mattias Vinberg - Elementary - Pantheon - WSL - Windows 11 - Linux - 2026 - SWEDEN!
+
+--------------------------------
