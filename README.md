@@ -200,6 +200,8 @@ check if you have new messages. Having everything in
 one convenient place means you don’t have to learn your way 
 around a maze of different technologies. 
 
+About Gnome desktop - https://www.gnome.org - 2026
+
 ---
 
 # Ubuntu 24.04 LTS
