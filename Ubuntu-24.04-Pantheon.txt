@@ -1,4 +1,4 @@
-Ubuntu 24.04 and Elementary - How to install Pantheon desktop via Ubuntu - Windows 11 - WSL - 2024
+Ubuntu 24.04 and Elementary - How to install Pantheon desktop via Ubuntu 24.04 - Windows 11 - WSL - 2024
 
 You can find Ubuntu 24.04 here - https://github.com/vinberg88/ubuntu
 
@@ -19,6 +19,7 @@ https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
 WSL UI - This tool is free and works like Raft WSL.
 https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 
+
                              ....            OS: Ubuntu 24.04.5 LTS (Jammy Jellyfish) x86_64  
               .',:clooo:  .:looooo:.
            .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
@@ -35,11 +36,12 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
        ...                         ,ooool.
     .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
       ;ooooo:.           ;oooooooc.  :l.  
-       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+       .coooooc,..      coooooooooo.         Liunx/Win: Elementary DESKTOP - Windows 11 - Ubuntu 24.04 LTS
          .:ooooooolc:. .ooooooooooo'       
            .':loooooo;  ,oooooooooc          Thank you for install Pantheon and Ubuntu 24.04 LTS ❤️ - WSL                         
                ..';::c'  .;loooo:'                                    
                              .               Mail: mattiasvinberg@duck.com  
+
 
 About Ubuntu 24.04 - https://ubuntu.com
 
@@ -74,11 +76,11 @@ Information about WSL - https://vinberg88.github.io
 
 --------------------------------
 
-Download 22.04 LTS here - desktop: https://github.com/vinberg88/ubuntu
-
---------------------------------
+Download 24.04 LTS here - desktop: https://github.com/vinberg88/ubuntu
 
 Press the blue Icon and you are ready to run Ubuntu 24.04 after download.
+
+--------------------------------
 
 Update Ubuntu 24.04
 
@@ -89,7 +91,9 @@ sudo apt update && sudo apt upgrade -y
 Install programs for Ubuntu 24.04 and Elementary desktop.
 
 sudo apt install dialog rsync systemd dbus* bash git npm wget curl nano sudo pipx dracut -y
+
 sudo apt install gdm3* -y
+
 sudo apt install gdm* xorg* x11* -y
 
 --------------------------------
@@ -118,7 +122,7 @@ Test by just reboot terminal and copy and paste: fastfetch
        ...                         ,ooool.
     .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
       ;ooooo:.           ;oooooooc.  :l.  
-       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+       .coooooc,..      coooooooooo.         Liunx/Win: Pantheon DESKTOP - Windows 11 - Ubuntu 24.04 LTS
          .:ooooooolc:. .ooooooooooo'       
            .':loooooo;  ,oooooooooc          Thank you for install Pantheon and Ubuntu 24.04 LTS ❤️ - WSL                         
                ..';::c'  .;loooo:'                                    
@@ -187,6 +191,8 @@ sudo apt install elementary-desktop
 sudo chmod 755 /usr/share/xsessions/pantheon.desktop
 sudo apt install vala*
 
+Select GDM3 if asked under installation.
+
 -------------------------------
 
 Fix IP problem for X410. Cant find screen problems - UBUNTU 24.04 LTS
@@ -232,7 +238,7 @@ DONE - alot of problem fixed Ubuntu 24.04 and Pantheon - Elementary
        ...                         ,ooool.
     .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
       ;ooooo:.           ;oooooooc.  :l.  
-       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+       .coooooc,..      coooooooooo.         Liunx/Win: Elementary DESKTOP - Windows 11 - Ubuntu 24.04 LTS
          .:ooooooolc:. .ooooooooooo'       
            .':loooooo;  ,oooooooooc          Thank you for install Pantheon and Ubuntu 24.04 LTS ❤️ - WSL                         
                ..';::c'  .;loooo:'                                    
@@ -272,23 +278,9 @@ export LIBGL_ALWAYS_SOFTWARE=1
 
 -------------------------------
 
-Install Chrome for UBUNTU 24.04
-
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt install ./google-chrome-stable_current_amd64.deb -y
-
----------------------------------------------------------------
-
 Install Gimp -- PAINT
 
 sudo apt install gimp
-
---------------------------------
-
-Install Blanket - Play sounds
-
-wget https://launchpad.net/~apandada1/+archive/ubuntu/blanket/+files/blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
-sudo apt install ./blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
 
 --------------------------------
 
@@ -324,7 +316,6 @@ Paste in terminal: xhost +
 
 Paste in terminal: io.elementary.wingpanel & plank & gala
 
-
 --------------------------------
 
                              ....            OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64 
@@ -343,7 +334,7 @@ Paste in terminal: io.elementary.wingpanel & plank & gala
        ...                         ,ooool.
     .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
       ;ooooo:.           ;oooooooc.  :l.  
-       .coooooc,..      coooooooooo.         Liunx/Win: DEEPIN DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+       .coooooc,..      coooooooooo.         Liunx/Win: Elementary DESKTOP - Windows 11 - Ubuntu 24.04 LTS
          .:ooooooolc:. .ooooooooooo'       
            .':loooooo;  ,oooooooooc          Thank you for install Pantheon / Elementary and Ubuntu 24.04 LTS ❤️ - WSL                         
                ..';::c'  .;loooo:'                                    
