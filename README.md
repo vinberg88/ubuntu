@@ -125,6 +125,8 @@ of everything you love about Ubuntu Desktop. More features and customisation
 options, more performance and power efficiency and more ways to integrate
 with your existing enterprise management tools.
 
+## UKUI VIA UBUNTU 25.10
+
 <img width="1920" height="1080" alt="UBUNTU-25 10-UKUI" src="https://github.com/user-attachments/assets/97dd2aa3-aee5-4c2d-8812-fe176e11e9f1" />
 
 ## HOW TO INSTALL UKUI VIA UBUNTU 25.10 and Windows
