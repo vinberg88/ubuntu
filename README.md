@@ -19,7 +19,7 @@ This repository collects installation guides, screenshots and videos for running
 You can also use Ubuntu normally from the terminal with tools such as **vim, emacs and nano**, and install applications, compilers and libraries from the Ubuntu repositories maintained by Canonical.
 
 ## Quick Overview
-
+<p align="center">
 | Ubuntu version | Desktop | Display | Install guide | Video |
 |---|---|---|---|---|
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
@@ -29,6 +29,8 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 | **24.04 LTS** | Pantheon | X11 | [Guide](Ubuntu-24.04-Pantheon.txt) | YOUTUBE COMMING |
 | **22.04 LTS** | Deepin | X11 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 | **25.04 LTS** | GNOME | X11 | Guide Comming | YOUTUBE COMMING |
+</p>
+  
 ## Requirements 
 
 <p align="center">
