@@ -167,7 +167,7 @@ today has many flavours and dozens of specialised derivatives.
 
 <img width="1920" height="1080" alt="Ubuntu-26 04-cinnamon" src="https://github.com/user-attachments/assets/d904ea20-88f2-42fa-a3e5-7874344aa8ed" />
 
-## Cinnamon Desktop VIA UBUNTU
+## Cinnamon Desktop VIA UBUNTU 26.04
 
 Community-driven, featuring Linux Mint’s Cinnamon 
 Desktop with Ubuntu at the core, packed fast and full
