@@ -144,7 +144,13 @@ For now, we have hundreds of thousands of active users worldwide.
 
 # Ubuntu 24.04 LTS
 
-Ubuntu 24.04 LTS is a strong base for running established Linux desktop environments through WSL.
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
 
 ## Budgie Desktop
 
@@ -160,7 +166,11 @@ Ubuntu 24.04 LTS is a strong base for running established Linux desktop environm
 
 # Ubuntu 22.04 LTS
 
-Ubuntu 22.04 LTS remains useful for desktop environments and packages that work particularly well with this release.
+Ubuntu 22.04 LTS Run your choice of Linux text editors, including vim, emacs,
+and nano. Install applications, compilers and libraries from
+the Ubuntu repository, securely maintained by Canonical. Ubuntu
+is a Linux distribution derived from Debian and composed mostly
+of free and open-source software.
 
 ## Deepin Desktop
 
