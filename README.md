@@ -94,7 +94,8 @@ and up into the cloud for enterprise computing.
 [How to install KDE Plasma 6 on Ubuntu 26.10 via WSL](https://www.youtube.com/watch?v=mQXaubKRRRU)
 
 <p align="center">
-<img width="1920" height="1080" alt="Ubuntu 26.10 KDE Plasma 6" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
+      <a href="https://github.com/vinberg88">
+       <img width="1920" height="1080" alt="Ubuntu 26.10 KDE Plasma 6" src="https://github.com/user-attachments/assets/b18ea4f0-434f-4627-a7aa-0beba166753c" />
 </p>
 
 About KDE 6 - https://kde.org
