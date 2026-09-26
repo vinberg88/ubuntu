@@ -17,9 +17,8 @@ Run full Linux desktop environments on **Windows 11 with WSL2** using Ubuntu rel
 This repository collects installation guides, screenshots and videos for running different Linux desktops on Ubuntu under WSL. The goal is simple: test as many desktop environments as possible and document working setups for Windows 11.
 
 You can also use Ubuntu normally from the terminal with tools such as **vim, emacs and nano**, and install applications, compilers and libraries from the Ubuntu repositories maintained by Canonical.
-
-## Quick Overview
 <p align="center">
+## Quick Overview
 | Ubuntu version | Desktop | Display | Install guide | Video |
 |---|---|---|---|---|
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
