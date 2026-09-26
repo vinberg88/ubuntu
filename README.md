@@ -167,9 +167,38 @@ One of Ubuntu's biggest strengths is its large software ecosystem and excellent
 hardware and software support. Packages can be installed using APT, while
 technologies such as Snap, Flatpak, Docker, and other container platforms
 make it possible to run a huge variety of applications and development tools.
+
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="573" height="139" alt="pro" src="https://github.com/user-attachments/assets/56572a41-ad31-47fe-96b2-983388e3c75c" />
+
+---
+
+# Ubuntu 25.04 and GNOME - 2026
+
+Ubuntu's large community, extensive documentation, predictable release cycle, and
+wide software compatibility make it an excellent Linux distribution for beginners, 
+developers, enthusiasts, and advanced users alike. Ubuntu normally receives
+a new release every six months.
+
+## GNOME Desktop for Ubuntu 25.04
+
+**Install guide:**  
+[Ubuntu25.04 GNOME](Ubuntu-25.04-GNOME.txt)
+
+
+**Video:**  
+Comming SONE...
+
+<img width="1920" height="1080" alt="Ubuntu-25.04-GNOME" src="https://github.com/user-attachments/assets/a6f34362-5624-4414-bafd-cd24cbf92188" />
+
+Every part of GNOME has been designed to make it simple 
+and easy to use. The Activities Overview is a simple way 
+to access all your basic tasks. A press of a button is
+all it takes to view your open windows, launch applications, or 
+check if you have new messages. Having everything in 
+one convenient place means you don’t have to learn your way 
+around a maze of different technologies. 
 
 ---
 
