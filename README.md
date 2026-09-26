@@ -157,6 +157,17 @@ For now, we have hundreds of thousands of active users worldwide.
 
 ---
 
+Each release of Ubuntu delivers the latest applications, libraries, and toolchains. 
+Ubuntu is a primary platform for all major IDEs, game development tools, and AI/ML software. 
+Ubuntu offers essential applications for web browsing, messaging, gaming, and content
+creation, including Firefox, Chrome, Discord, Steam, and OBS Studio, supporting all
+your daily computing needs.
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="573" height="139" alt="pro" src="https://github.com/user-attachments/assets/56572a41-ad31-47fe-96b2-983388e3c75c" />
+
+---
+
 # Ubuntu 24.04 LTS
 
 Run your choice of Linux text editors, including vim, emacs, and nano.
