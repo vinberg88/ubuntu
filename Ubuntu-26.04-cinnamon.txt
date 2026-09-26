@@ -1,0 +1,562 @@
+Ubuntu 26.04 and Cinnamon - Install Cinnamon via WSL and Ubuntu 26.04 - Windows 11 - Linux - GITHUB - YouTUBE - 2026
+
+How to install Cinnamon via Ubuntu 26.04 Resolute Raccoon - WSL - GITHUB - TEXT
+Comming Zone...
+
+How to install Cinnamon via Ubuntu 26.04 Resolute Raccoon - WSL - YouTUBE - MOVIE
+Comming Zone…
+
+Thank you for testing Cinnamon desktop via Ubuntu Resolute Raccoon 26.04 ❤️
+
+Ubuntu 26.04 - Easy install - Open Powershell and type this: wsl --install Ubuntu-26.04
+
+Download Ubuntu 26.04 from this page: https://github.com/vinberg88/ubuntu/releases
+
+Press the Blue Icon after download and that will setup User and Password for Ubuntu 26.04 LTS
+
+
+TOOLS THAT I USE FOR WSL AND Ubuntu 26.04 - 2026
+
+Use X410 - X Server for Windows 11 and it works well.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL is a powerful tool for managing Windows Subsystem Linux Distros.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                             ....              
+              .',:clooo:  .:looooo:.           Download Ubuntu 26.04 - https://github.com/vinberg88/ubuntu/releases
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc          OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,       Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'     Desktops for UBUNTU - https://github.com/vinberg88/ubuntu
+ :ooooooooo,                        'ooool     
+'ooooooooooo.                        loooo.    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooool                         coooo.    
+ ,loooooooc.                        .loooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64
+   .,;;;'.                          ;ooooc     
+       ...                         ,ooool.     Want more for Ubuntu 26.04 - https://github.com/vinberg88/ubuntu
+    .cooooc.              ..',,'.  .cooo.      
+      ;ooooo:.           ;oooooooc.  :l.       FIND ME ON GITHUB - WSL - https://github.com/vinberg88 
+       .coooooc,..      coooooooooo.  
+         .:ooooooolc:. .ooooooooooo'           More desktops for WSL: https://github.com/vinberg88/opensuse
+           .':loooooo;  ,oooooooooc 
+               ..';::c'  .;loooo:'             MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+					       
+                                               Mail: mattiasvinberg@duck.com
+
+About Ubuntu 26.04 Resolute Raccoon - https://ubuntu.com
+
+Download Ubuntu 26.04 Resolute Raccoon - https://github.com/vinberg88/ubuntu/releases
+
+Ubuntu is an ancient African word meaning ‘humanity to others’.
+It is often described as reminding us that ‘I am what I am
+because of who we all are’. We bring the spirit of Ubuntu
+to the world of computers and software. The Ubuntu 
+distribution represents the best of what the world’s software
+community has shared with the world. Canonical is the
+publisher of Ubuntu. Members of the Canonical team lead
+aspects of Ubuntu such as the kernel, default desktop,
+foundations, security, OpenStack, and Kubernetes. 
+The first official Ubuntu release — Version 4.10, codenamed
+the ‘Warty Warthog’ — was launched in October 2004, and
+sparked dramatic global interest as thousands of free
+software enthusiasts and experts joined the Ubuntu community.
+Ubuntu today has many flavours and dozens of specialised 
+derivatives. There are also special editions for servers, OpenStack
+clouds, and connected devices. All editions share common
+infrastructure and software, making Ubuntu a unique single
+platform that scales from consumer electronics to the desktop
+and up into the cloud for enterprise computing.
+
+About Cinnamon Desktop - https://ubuntucinnamon.org
+
+Community-driven, featuring Linux Mint’s Cinnamon 
+Desktop with Ubuntu at the core, packed fast and full
+of features, here is the most traditionally modern desktop
+you will ever love. Cinnamon takes the more traditional
+approach of a GNOME 2 and MATE-like desktop. Similar to
+Windows 7, it is easy to transition from your Windows
+system to Ubuntu Cinnamon, and even if you still prefer
+to keep Windows on the side, you can always dual-boot
+Windows and Ubuntu Cinnamon.
+
+Want more stuff about WSL - Windows 11 - MICROSOFT - Linux - DESKTOPS - Resolute Raccoon
+
+https://github.com/vinberg88/opensuse or https://github.com/vinberg88
+
+Want more for ubuntu - https://github.com/vinberg88/ubuntu
+
+Wsl info page - https://vinberg88.github.io
+
+WSL stands for Windows Subsystem for Linux, a feature of Windows that
+allows users to run a Linux environment directly on their Windows
+machine without needing a separate virtual machine or dual-booting.
+
+-------------------------------------------------------------
+
+Time to install Ubuntu 26.04 Resolute Raccoon - Setup User and Password via Powershell install.
+
+Easy install Ubuntu 26.04 - Open Powershell and type this: wsl --install Ubuntu-26.04
+
+OR
+
+Download ubuntu-26.04.1-wsl-amd64.wsl from this page: https://github.com/vinberg88/ubuntu/releases
+
+Press the Blue Icon after download and that will setup User and Password for Ubuntu 26.04.01 LTS - Resolute Raccoon
+
+-------------------------------------------------------------
+
+Update All after install - UBUNTU 26.04 LTS
+
+sudo apt update
+sudo apt upgrade -y
+
+-------------------------------------------------------------
+
+Fix Dbus error for Ubuntu 26.04. Copy and Paste in terminal for Ubuntu 26.04 LTS
+
+sudo apt install dbus-broker* -y
+sudo apt install dbus-daemon* -y
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+-------------------------------------------------------------
+
+Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04 - Resolute Raccoon
+
+-------------------------------------------------------------
+
+Save time and install firefox and thunderbird via snapd - UBUNTU 26.04 LTS
+
+https://snapcraft.io/docs/tutorials/get-started/
+
+Snaps are app packages for desktop, cloud and IoT that are easy to install,
+secure, cross-platform and dependency-free. A snap is a bundle of one or
+more applications that works without dependencies or modification across 
+many different Linux distributions. Snaps are discoverable and installable
+from the Snap Store, a public app store with an audience of millions.
+
+sudo apt install snapd* -y
+
+sudo snap install core
+
+sudo snap install snapd
+
+sudo snap install thunderbird
+
+sudo snap install firefox
+
+NOTE - when you install firefox and Thunderbird look for errors in terminal.
+It should work fine but you maybe need to paste sudo snap install thunderbird or
+sudo snap install firefox again.
+
+Extra installation for Ubuntu.
+
+Discover, install and manage Linux apps from snapd. The App Center
+showcases featured and popular applications with useful descriptions,
+ratings, and screenshots. The App Center can also be used to update
+apps, switch channels, and view and submit ratings.
+
+sudo snap install snap-store --edge
+
+Find more programs here: https://snapcraft.io
+
+-------------------------------------------------------------
+
+Time to install Cinnamon desktop for Ubuntu 26.04 LTS Resolute Raccoon
+
+sudo add-apt-repository universe
+
+sudo systemctl daemon-reload
+
+sudo apt install gdm3 -y
+
+sudo apt install cinnamon-desktop-environment* -y
+
+sudo apt install cinnamon*
+
+SELCET GDM3 IF ASKED UNDER INSTALLATION.
+
+sudo apt install libgtk2* appmenu* ubuntu-system-service* systemd-services* luit* gnome-software gnome-software-plugin-flatpak -y
+
+-------------------------------------------------------------
+
+Install this small program - fastfetch.
+
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.68.1/fastfetch-linux-amd64-polyfilled.deb
+
+sudo apt install ./fastfetch-linux-amd64-polyfilled.deb
+
+To test type this in terminal: fastfetch
+
+                             ....              
+              .',:clooo:  .:looooo:.           Download Ubuntu 26.04 - https://github.com/vinberg88/ubuntu/releases
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc          OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,       Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'     Desktops for UBUNTU - https://github.com/vinberg88/ubuntu
+ :ooooooooo,                        'ooool     
+'ooooooooooo.                        loooo.    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooool                         coooo.    
+ ,loooooooc.                        .loooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64
+   .,;;;'.                          ;ooooc     
+       ...                         ,ooool.     Want more for Ubuntu 26.04 - https://github.com/vinberg88/ubuntu
+    .cooooc.              ..',,'.  .cooo.      
+      ;ooooo:.           ;oooooooc.  :l.       FIND ME ON GITHUB - WSL - https://github.com/vinberg88 
+       .coooooc,..      coooooooooo.  
+         .:ooooooolc:. .ooooooooooo'           More desktops for WSL: https://github.com/vinberg88/opensuse
+           .':loooooo;  ,oooooooooc 
+               ..';::c'  .;loooo:'             MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+					       
+                                               Mail: mattiasvinberg@duck.com
+
+-------------------------------------------------------------
+
+INSTALL MORE PROGRAMS FOR Cinnamon Desktop and Ubuntu 26.04.01 Resolute Raccoon
+
+sudo apt install tasksel*
+
+Run this after install in terminal: sudo tasksel
+
+CLICK on Cinnamon and Debian desktop Environment in TERMINAL and Press Enter...
+
+---------------------------------------------------------------
+
+Install flatpak for UBUNTU.
+
+Paste in terminal: sudo apt install flatpak*
+
+Paste in terminal: sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+Paste in terminal - Store for flatpak: sudo flatpak install flathub io.github.kolunmi.Bazaar
+
+Paste in terminal - Watch YouTube privately: sudo flatpak install flathub io.freetubeapp.FreeTube
+
+
+Look for programs: https://flathub.org
+
+About Flathub: The Linux App Store from Irland.
+
+Whether you're a user looking for apps or a developer looking to reach more users, Flathub is 
+the best choice for apps on Linux. 
+
+
+---------------------------------------------------------------
+
+                                          Want more for Ubuntu 26.04 - https://github.com/vinberg88/ubuntu
+⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⠉⠁⠀⠀⠀⠀⠈⠉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿   OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣦⠀⠀⠀⠈⢻⣿⣿⣿
+⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣶⣾⣷⣶⣆⠸⣿⣿⡟⠀⠀⠀⠀⠀⠹⣿⣿   Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+⣿⠃⠀⠀⠀⠀⠀⠀⣠⣾⣷⡈⠻⠿⠟⠻⠿⢿⣷⣤⣤⣄⠀⠀⠀⠀⠀⠀⠘⣿
+⡏⠀⠀⠀⠀⠀⠀⣴⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣦⠀⠀⠀⠀⠀⠀⢹    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+⠁⠀⠀⢀⣤⣤⡘⢿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⡇⠀⠀⠀⠀⠀⠈     
+⠀⠀⠀⣿⣿⣿⡇⢸⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣉⣉⡁⠀⠀⠀⠀⠀⠀    OS: Windows 11 Pro for Workstations (25H2) x86_64
+⡀⠀⠀⠈⠛⠛⢡⣾⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⠀⢀
+⣇⠀⠀⠀⠀⠀⠀⠻⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⠟⠀⠀⠀⠀⠀⠀⣸    FIND ME ON GITHUB - WSL - https://github.com/vinberg88
+⣿⡄⠀⠀⠀⠀⠀⠀⠙⢿⡿⢁⣴⣶⣦⣴⣶⣾⡿⠛⠛⠋⠀⠀⠀⠀⠀⠀⢠⣿
+⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⢿⡿⠿⠏⢰⣿⣿⣧⠀⠀⠀⠀⠀⣰⣿⣿   More desktops for WSL: https://github.com/vinberg88/opensuse
+⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⠟⠀⠀⠀⢀⣼⣿⣿⣿
+⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⣀⡀⠀⠀⠀⠀⢀⣀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿  
+                                          Mail: mattiasvinberg@duck.com
+
+More information for WSLg - Wayland
+
+Architecture: x86_64 - Wayland
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+---------------------------------------------------------------
+
+Install ffmpeg, MPV and other stuff for MEDIA for UBUNTU 26.04
+
+sudo apt install celluloid -y
+sudo apt install yt-dlp -y
+sudo apt install mpv-mpris -y
+sudo apt install mpv -y
+sudo apt install ffmpeg* -y
+
+---------------------------------------------------------------
+
+Install Audio Packages for UBUNTU 26.04 and Cinnamon desktop
+
+sudo apt install -y \
+  pulseaudio \
+  pipewire \
+  pipewire-pulse \
+  alsa-utils
+
+---------------------------------------------------------------
+
+Install Programs for UBUNTU 26.04 - Some extra STUFF =] - 2026
+
+sudo apt install git wget curl bash pipx dracut net-tools dbus-x11 dbus* systemd ibus npm pip dialog -y
+
+sudo apt install xorg* kwin* x11* qt5* gtk* fonts-firacode -y
+
+sudo apt install network-manager-gnome gvfs* build-essential* unzip -y
+ 
+sudo apt install weston* mesa* wayland* -y
+
+---------------------------------------------------------------
+
+Spotify for Linux from SWEDEN.
+
+curl -sS https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+
+echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+
+sudo apt update && sudo apt install spotify-client
+
+sudo apt modernize-sources
+
+---------------------------------------------------------------
+
+Network for UBUNTU 26.04
+
+sudo apt install \
+openssh-client openssh-server \
+mosh net-tools nmap \
+wireguard openvpn
+
+sudo apt install liblinear-tools liblinear-dev ncat ndiff zenmap molly-guard
+
+---------------------------------------------------------------
+
+Installing Visual Studio Code on UBUNTU 26.04
+
+Visual Studio Code is a new choice of tool that combines the simplicity of a
+code editor with what developers need for the core edit-build-debug cycle.
+
+Watch story about VS code: https://www.youtube.com/watch?v=kHL3XzjpT5w
+
+Visual Studio Code is available on Linux through official Debian, RPM,
+and Snap packages. Community-maintained packages are also available for
+Arch Linux and Nix.
+
+Copy and paste in terminal for UBUNTU.
+
+echo "code code/add-microsoft-repo boolean true" | sudo debconf-set-selections 
+
+sudo apt install wget gpg &&
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | sudo gpg --dearmor -o /usr/share/keyrings/microsoft.gpg
+
+Create /etc/apt/sources.list.d/vscode.sources and file with these contents.
+
+sudo nano /etc/apt/sources.list.d/vscode.sources
+
+Types: deb
+URIs: https://packages.microsoft.com/repos/code
+Suites: stable
+Components: main
+Architectures: amd64,arm64,armhf
+Signed-By: /usr/share/keyrings/microsoft.gpg
+
+sudo apt update &&
+sudo apt install code code-insiders
+
+---------------------------------------------------------------
+                                               
+                             ....              
+              .',:clooo:  .:looooo:.           MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc          OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,       Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'     Desktops for UBUNTU - https://github.com/vinberg88/ubuntu
+ :ooooooooo,                        'ooool     
+'ooooooooooo.                        loooo.    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooool                         coooo.    
+ ,loooooooc.                        .loooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64
+   .,;;;'.                          ;ooooc     
+       ...                         ,ooool.     Mail: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      
+      ;ooooo:.           ;oooooooc.  :l.       FIND ME ON GITHUB - WSL - https://github.com/vinberg88 
+       .coooooc,..      coooooooooo.  
+         .:ooooooolc:. .ooooooooooo'           More desktops for WSL: https://github.com/vinberg88/opensuse
+           .':loooooo;  ,oooooooooc 
+               ..';::c'  .;loooo:'             Download Ubuntu 26.04 - https://github.com/vinberg88/ubuntu/releases
+
+
+More information for WSL
+
+Architecture: x86_64 - Wayland
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+---------------------------------------------------------------
+
+Install Gimp 3 and Libre Office for Ubuntu 26.04
+
+sudo apt install gimp libreoffice -y
+
+---------------------------------------------------------------
+
+Install Blanket - Listen to sounds - Ubuntu 26.04
+
+sudo apt install blanket -y
+
+---------------------------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem.
+
+Open Powershell from Microsoft and type: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+GO BACK TO Ubuntu 26.04 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1  <-- put your ip here from powershell and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for Ubuntu 26.04 Resolute Raccoon and Cinnamon =]
+
+---------------------------------------------------------------
+                             ....              
+              .',:clooo:  .:looooo:.           MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+           .;looooooooc  .oooooooooo'
+        .;looooool:,''.  :ooooooooooc          OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+       ;looool;.         'oooooooooo,
+      ;clool'             .cooooooc.  ,,       Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+         ...                ......  .:oo,
+  .;clol:,.                        .loooo'     Desktops for UBUNTU - https://github.com/vinberg88/ubuntu
+ :ooooooooo,                        'ooool     
+'ooooooooooo.                        loooo.    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooool                         coooo.    
+ ,loooooooc.                        .loooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64
+   .,;;;'.                          ;ooooc     
+       ...                         ,ooool.     Mail: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      
+      ;ooooo:.           ;oooooooc.  :l.       FIND ME ON GITHUB - WSL - https://github.com/vinberg88 
+       .coooooc,..      coooooooooo.  
+         .:ooooooolc:. .ooooooooooo'           More desktops for WSL: https://github.com/vinberg88/opensuse
+           .':loooooo;  ,oooooooooc 
+               ..';::c'  .;loooo:'             Download Ubuntu 26.04 - https://github.com/vinberg88/ubuntu/releases
+
+---------------------------------------------------------------
+
+Paste in terminal - All - Ubuntu 26.04 Resolute Raccoon
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+---------------------------------------------------------------
+
+Type this in terminal and put your username there: sudo loginctl enable-linger adolf
+
+---------------------------------------------------------------
+
+Install Google Chrome Browser - Ubuntu 26.04 Resolute Raccoon
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+---------------------------------------------------------------
+
+Make small script for Ubuntu 26.04
+
+Copy this and paste in terminal: sudo nano ~/.bash_ubuntu_desktop
+
+Then add this script to terminal
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+---------------------------------------------------------------
+
+Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04
+
+---------------------------------------------------------------
+
+Now we can start Cinnamon Desktop for Ubuntu 26.04 Resolute Raccoon
+
+
+FIRST START X410 XSERVER THEN YOU START Ubuntu 26.04 VIA TERMINAL.
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal: . ~/.bash_ubuntu_desktop
+
+Paste in terminal: dbus-launch cinnamon-session
+
+
+    Just wait when you start cinnamon desktop.. It will work fine via Ubuntu 26.04
+
+---------------------------------------------------------------
+
+⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⠉⠁⠀⠀⠀⠀⠈⠉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿   OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣦⠀⠀⠀⠈⢻⣿⣿⣿
+⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣶⣾⣷⣶⣆⠸⣿⣿⡟⠀⠀⠀⠀⠀⠹⣿⣿   Host: Windows Subsystem for Linux - Ubuntu-26.04 (2.9.12.0)
+⣿⠃⠀⠀⠀⠀⠀⠀⣠⣾⣷⡈⠻⠿⠟⠻⠿⢿⣷⣤⣤⣄⠀⠀⠀⠀⠀⠀⠘⣿
+⡏⠀⠀⠀⠀⠀⠀⣴⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣦⠀⠀⠀⠀⠀⠀⢹    Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+⠁⠀⠀⢀⣤⣤⡘⢿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⡇⠀⠀⠀⠀⠀⠈     
+⠀⠀⠀⣿⣿⣿⡇⢸⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣉⣉⡁⠀⠀⠀⠀⠀⠀    OS: Windows 11 Pro for Workstations (25H2) x86_64
+⡀⠀⠀⠈⠛⠛⢡⣾⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⠀⢀
+⣇⠀⠀⠀⠀⠀⠀⠻⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⠟⠀⠀⠀⠀⠀⠀⣸    FIND ME ON GITHUB - WSL - https://github.com/vinberg88
+⣿⡄⠀⠀⠀⠀⠀⠀⠙⢿⡿⢁⣴⣶⣦⣴⣶⣾⡿⠛⠛⠋⠀⠀⠀⠀⠀⠀⢠⣿
+⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⢿⡿⠿⠏⢰⣿⣿⣧⠀⠀⠀⠀⠀⣰⣿⣿   More desktops for WSL: https://github.com/vinberg88/opensuse
+⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⠟⠀⠀⠀⢀⣼⣿⣿⣿
+⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⣿⣿⣿⣿⣿   MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - 2026
+⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣄⣀⡀⠀⠀⠀⠀⢀⣀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿
+
+More information for WSL
+
+Architecture: x86_64 - Wayland
+Built: 2026-06-25T17:27:16Z
+OS: Microsoft Azure Linux 3.0
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+Regards Mattias Vinberg - SwEden - Cinnamon - Ubuntu 26.04 Resolute Raccoon - Linux - WSL - X410 - WINDOWS - 2026
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+----------------------------------------------
