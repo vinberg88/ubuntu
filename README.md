@@ -195,6 +195,8 @@ team lead aspects of Ubuntu such as the kernel, default desktop,
 foundations, security, OpenStack, and Kubernetes. Ubuntu 
 today has many flavours and dozens of specialised derivatives.
 
+https://canonical.com
+
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="733" height="260" alt="Ubuntu-Pro" src="https://github.com/user-attachments/assets/b6697221-5375-42d1-817d-a1dc3f50067e" />
@@ -255,7 +257,6 @@ a new release every six months.
 
 **Install guide:**  
 [Ubuntu25.04 GNOME](Ubuntu-25.04-GNOME.txt)
-
 
 **Video:**  
 Comming SONE...
