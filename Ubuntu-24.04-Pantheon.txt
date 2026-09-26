@@ -3,7 +3,7 @@ Ubuntu 24.04 and Elementary - How to install Pantheon desktop via Ubuntu - Windo
 You can find Ubuntu 24.04 here - https://github.com/vinberg88/ubuntu
 
 How to install Elementary - Pantheon desktop via Ubuntu 24.04 and Windows 11 - TEXT via GITHUB
-Comming SONE..
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-24.04-Pantheon.txt
 
 How to install Elementary - Pantheon desktop via Ubuntu 24.04 and Windows 11 - MOVIE via YOUTUBE
 Comming SONE...
