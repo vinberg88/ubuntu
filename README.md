@@ -190,9 +190,15 @@ Comming SONE...
 
 ---
 
+Canonical is the publisher of Ubuntu. Members of the Canonical
+team lead aspects of Ubuntu such as the kernel, default desktop,
+foundations, security, OpenStack, and Kubernetes. Ubuntu 
+today has many flavours and dozens of specialised derivatives.
 
-
-
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="733" height="260" alt="Ubuntu-Pro" src="https://github.com/user-attachments/assets/b6697221-5375-42d1-817d-a1dc3f50067e" />
+</p>
 
 ---
 
