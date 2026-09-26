@@ -76,7 +76,7 @@ Both **X11** and **Wayland** configurations are explored where possible.
       
 ---
 
-# Ubuntu 26.10
+# Ubuntu 26.10 and KDE 6
 
 About Ubuntu - Ubuntu today has many flavours and dozens of specialised 
 derivatives. There are also special editions for servers, OpenStack
@@ -120,7 +120,7 @@ Kde 6 Plasma and its applications to a built-in dark theme.
 
 ---
 
-# Ubuntu 26.04 LTS
+# Ubuntu 26.04 LTS AND KDE 6
 
 About Ubuntu - We bring the spirit of Ubuntu
 to the world of computers and software. The Ubuntu 
