@@ -307,5 +307,5 @@ This repository focuses on practical desktop experiments, tested installation me
 
 <p align="center">
   <a href="https://github.com/vinberg88">
-  <img width="798" height="300" alt="imag" src="https://github.com/user-attachments/assets/e912ab89-fccf-4b42-a098-f61b78511c3c" />
+<img width="695" height="210" alt="ubuntu-2026" src="https://github.com/user-attachments/assets/6ff003aa-9c1e-4d22-899b-6f62fe6fedf7" />
     </p>
