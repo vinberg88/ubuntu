@@ -26,7 +26,7 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 | **26.04 LTS** | KDE Plasma 6 | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
 |   25.10 | UKUI | X11 | [Guide](UBUNTU-25.10-UKUI.txt) |  [YouTube](https://www.youtube.com/watch?v=cy_jWZgNfks) |
 | **24.04 LTS** | Budgie | X11 | [Guide](Ubuntu24.04-BUDGIE.txt) | [YouTube](https://www.youtube.com/watch?v=JtnlmX010mM) |
-| **24.04 LTS** | Pantheon | X11 | Guide Comming | YOUTUBE COMMING |
+| **24.04 LTS** | Pantheon | X11 | [Guide](Ubuntu-24.04-Pantheon.txt) | YOUTUBE COMMING |
 | **22.04 LTS** | Deepin | X11 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 | **25.04 LTS** | GNOME | X11 | Guide Comming | YOUTUBE COMMING |
 ## Requirements 
