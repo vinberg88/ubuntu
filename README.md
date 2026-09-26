@@ -93,9 +93,9 @@ Ubuntu 26.10 is used here for testing newer desktop environments and current Lin
 
 # Ubuntu 26.04 LTS
 
-Ubuntu 26.04 LTS is included as one of the main platforms for future desktop testing.
-
 ## KDE Plasma 6 VIA UBUNTU 26.04
+
+Ubuntu 26.04 LTS is included as one of the main platforms for future desktop testing.
 
 <img width="1920" height="1080" alt="Ubuntu26 04-KDE" src="https://github.com/user-attachments/assets/38347325-59df-407c-992f-e5f56f14251d" />
 
