@@ -256,6 +256,7 @@ make it possible to run a huge variety of applications and development tools.
 <a href="https://github.com/vinberg88">
 <img width="573" height="139" alt="pro" src="https://github.com/user-attachments/assets/56572a41-ad31-47fe-96b2-983388e3c75c" />
 </p>
+
 ---
 
 # Ubuntu 25.04 and GNOME - 2026
