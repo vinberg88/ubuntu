@@ -448,6 +448,14 @@ This repository focuses on practical desktop experiments, tested installation me
 </p>
 
 <p align="center">
+Tools that i use for Ubuntu WSL
+
+- [Raft WSL](https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US)
+- [X410 - X Server](https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US)
+- [WSL UI free tool for WSL](https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE) 
+</p>
+
+<p align="center">
   <a href="https://github.com/vinberg88">
 <img width="695" height="210" alt="ubuntu-2026" src="https://github.com/user-attachments/assets/6ff003aa-9c1e-4d22-899b-6f62fe6fedf7" />
     </p>
