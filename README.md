@@ -31,7 +31,7 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 | **22.04 LTS** | Deepin | X11 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 | **25.04** | GNOME | X11 | [Guide](Ubuntu-25.04-GNOME.txt) | YOUTUBE COMMING |
   
-## Requirements 
+## Requirements - Ubuntu Pro for WSL =]
 
 <p align="center">
 <a href="https://github.com/vinberg88">
