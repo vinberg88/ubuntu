@@ -93,9 +93,15 @@ Ubuntu 26.10 is used here for testing newer desktop environments and current Lin
 
 # Ubuntu 26.04 LTS
 
-## KDE Plasma 6 VIA UBUNTU 26.04
+About Ubuntu - We bring the spirit of Ubuntu
+to the world of computers and software. The Ubuntu 
+distribution represents the best of what the world’s software
+community has shared with the world. Canonical is the
+publisher of Ubuntu. Members of the Canonical team lead
+aspects of Ubuntu such as the kernel, default desktop,
+foundations, security, OpenStack, and Kubernetes.
 
-Ubuntu 26.04 LTS is included as one of the main platforms for future desktop testing.
+## KDE Plasma 6 VIA UBUNTU 26.04
 
 <img width="1920" height="1080" alt="Ubuntu26 04-KDE" src="https://github.com/user-attachments/assets/38347325-59df-407c-992f-e5f56f14251d" />
 
