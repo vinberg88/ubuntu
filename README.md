@@ -3,6 +3,8 @@
    <img width="729" height="207" alt="ubuntu-bild" src="https://github.com/user-attachments/assets/6ed9f9f1-3c45-4357-bc65-ab72e848a7ca" />
 </p>
 
+**Developed by [Mattias Vinberg](https://github.com/vinberg88)** | **[Website - Ubuntu](https://ubuntu.com)** 2026
+
 # Ubuntu for Windows 11 — Linux Desktops via WSL
 
 <p align="center">
