@@ -168,12 +168,48 @@ for Internet of things devices and robots.
 ## Budgie Desktop
 
 **Install guide:**  
-[Ubuntu24.04-BUDGIE.txt](Ubuntu24.04-BUDGIE.txt)
+[Ubuntu-24.04-Pantheon.txt](Ubuntu-24.04-Pantheon.txt)
 
 **Video:**  
 [How to install Budgie on Ubuntu via WSL](https://www.youtube.com/watch?v=JtnlmX010mM)
 
 <img width="1920" height="1080" alt="Ubuntu 24.04 Budgie Desktop" src="https://github.com/user-attachments/assets/033ad70c-eb64-496c-9957-37466923a06d" />
+
+---
+
+# Ubuntu 24.04 LTS
+
+Ubuntu 24.04 LTS (Noble Numbat) is a long-term support release from Canonical that
+offers up to 12 years of security maintenance with Ubuntu Pro and introduces major
+performance and security improvements. Released in April 2024, it remains a
+primary stable release for desktop and enterprise environments.
+
+## Elementary - Pantheon for UBUNTU 24.04
+
+**How to install Pantheon - text** 
+[Ubuntu24.04-BUDGIE.txt](Ubuntu24.04-BUDGIE.txt)
+
+**Install video from Youtube:** 
+Comming SONE...
+
+<img width="1920" height="1080" alt="Ubuntu- 24 04-Pantheon" src="https://github.com/user-attachments/assets/ee9051f3-88e3-43f1-8fef-59803957ae18" />
+
+About Elementary - Pantheon desktop
+
+Stay productive and focused with Multitasking View,
+Picture-in-Picture, Do Not Disturb, and more. 
+Or keep work out of sight when watching videos or
+playing games. Workspaces help organize your work by 
+task. Keep work and play separate, but just one swipe
+or tap away. Whether you’re watching a movie, game, or 
+terminal process, Picture-in-Picture helps keep tabs on
+one thing while working on another. Tune everything else
+out to stay focused on your work, or keep notifications
+at bay while watching a movie. Do Not Disturb stops
+notifications in their tracks. Elementary comes with
+a carefully considered set of apps that cater to everyday
+needs so you can spend more time using your computer
+and less time cleaning up bloatware. Pantheon is nice to use.
 
 ---
 
