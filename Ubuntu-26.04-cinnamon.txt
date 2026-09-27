@@ -4,7 +4,7 @@ How to install Cinnamon via Ubuntu 26.04 Resolute Raccoon - WSL - GITHUB - TEXT
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-cinnamon.txt
 
 How to install Cinnamon via Ubuntu 26.04 Resolute Raccoon - WSL - YouTUBE - MOVIE
-Comming Zone…
+https://www.youtube.com/watch?v=lZxRtC17xzk
 
 Thank you for testing Cinnamon desktop via Ubuntu Resolute Raccoon 26.04 ❤️
 
