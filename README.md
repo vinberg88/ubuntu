@@ -30,7 +30,7 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 |---|---|---|---|---|
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
 | **26.04 LTS** | KDE Plasma 6 | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
-| **26.04 LTS** | Cinnamon DE | X11 / Wayland | [Guide](Ubuntu-26.04-cinnamon.txt)  | YOUTUBE COMMING |
+| **26.04 LTS** | Cinnamon DE | X11 / Wayland | [Guide](Ubuntu-26.04-cinnamon.txt)  |  [YouTube](https://www.youtube.com/watch?v=lZxRtC17xzk) |
 | **25.10** | UKUI | X11 / X410 | [Guide](UBUNTU-25.10-UKUI.txt) |  [YouTube](https://www.youtube.com/watch?v=cy_jWZgNfks) |
 | **24.04 LTS** | Budgie | X11 / X410 | [Guide](Ubuntu24.04-BUDGIE.txt) | [YouTube](https://www.youtube.com/watch?v=JtnlmX010mM) |
 | **24.04 LTS** | Pantheon | X11 / X410 | [Guide](Ubuntu-24.04-Pantheon.txt) | [YouTube](https://www.youtube.com/watch?v=gXKeX5Ykjj8) |
@@ -199,7 +199,7 @@ About Cinnamon Desktop - https://ubuntucinnamon.org
 
 
 **Video:**  
-Comming SONE...
+[YouTUBE VIDEO FOR Cinnamon](https://www.youtube.com/watch?v=lZxRtC17xzk)
 
 ---
 
