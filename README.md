@@ -462,7 +462,7 @@ Tools that i use for Ubuntu WSL
 
 <p align="center">
 <a href="https://github.com/vinberg88">
-<img width="920" height="300" alt="wslui2" src="https://github.com/user-attachments/assets/ba6d7290-93d6-4278-8461-aef7c76f7661" />
+<img width="1920" height="800" alt="wslui2" src="https://github.com/user-attachments/assets/ba6d7290-93d6-4278-8461-aef7c76f7661" />
 </p>
 
 ---
