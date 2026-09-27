@@ -449,7 +449,7 @@ This repository focuses on practical desktop experiments, tested installation me
 
 <p align="center">
   Built and tested by <strong>Mattias Vinberg</strong> · Stockholm, Sweden<br>
-  Ubuntu · Windows 11 · WSL · Linux Desktops
+  Ubuntu · Windows 11 · WSL · Linux Desktops https://github.com/vinberg88
 </p>
 
 <p align="center">
@@ -461,8 +461,8 @@ Tools that i use for Ubuntu WSL
 </p>
 
 <p align="center">
-<a href="https://github.com/vinberg88">
-<img width="1920" height="800" alt="wslui2" src="https://github.com/user-attachments/assets/ba6d7290-93d6-4278-8461-aef7c76f7661" />
+<a href="https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE">
+<img width="1920" height="1200" alt="wslui2" src="https://github.com/user-attachments/assets/0bf31ab1-bbbd-4a4c-8e3c-b6527199d54d" />
 </p>
 
 ---
