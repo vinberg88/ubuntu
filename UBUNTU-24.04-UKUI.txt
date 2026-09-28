@@ -1,0 +1,384 @@
+UKUI and UBUNTU 24.04 - WSL - Install UKUI desktop via UBUNTU - Windows 11 - GitHUB - Linux - 2026 - YOUTUBE
+
+Download Ubuntu 24.04 - https://github.com/vinberg88/ubuntu
+
+How to install UKUI DESKTOP via UBUNTU 24.04 - WSL - TEXT VIA GITHUB
+Comming SONE.
+
+How to install UKUI DESKTOP via UBUNTU 24.04 - WSL - MOVIE VIA YOUTUBE
+Comming SONE.
+
+Find more things for WSL: https://github.com/vinberg88
+
+TOOLS THAT I USE FOR LINUX AND WSL AND UBUNTU 24.04 - Windows 11 - UKUI DESKTOP
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU 24.04 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+
+About Ubuntu 24.04 for WSL - 2026 - https://ubuntu.com
+
+Ubuntu 24.04 LTS brings more of everything you love about
+Ubuntu Desktop. More features and customisation options, more
+performance and power efficiency and more ways to integrate
+with your existing enterprise management tools. Combined with
+our LTS commitment of five years of updates and security 
+patching, we’re confident that this latest version of the
+Linux Desktop delivers everything needed to empower developers
+and creators in 2022 and beyond. Ubuntu WSL gives you a full
+Ubuntu environment, deeply integrated with Windows, for Linux
+application development and execution. Optimised for
+cloud, web, data science, IoT and fun!
+
+📚 About UKUI Desktop for UBUNTU 24.04 - https://ubuntukylin.com
+
+UKUI DESKTOP is a beautiful Linux operating system optimized
+for Chinese users. Since its creation in 2013, the Ubuntu Kylin
+open source operating system has released 20 versions, 
+downloaded more than 32 million times, contributed millions
+of lines of code and over 7400 patches to the open source 
+community, and has been accepted by international open source 
+communities such as Linux, Debian, Ubuntu, OpenStack, and Ceph.
+For now, we have hundreds of thousands of active users worldwide.
+
+Find More things and Tools for WSL - Windows 11 - LINUX - WSL - 2026
+
+https://github.com/vinberg88 or https://github.com/vinberg88/opensuse
+
+-------------------------------
+
+🗣️TIME TO START INSTALL FOR UBUNTU 24.04 LTS AND UKUI DESKTOP
+
+📚INSTALL UBUNTU 24.04 here: https://github.com/vinberg88/ubuntu
+
+When you have Ubuntu 24.04 install file - Press the BLUE ICON and YOU ARE DONE.
+
+UBUNTU install file will setup User and Password for Ubuntu 24.04 - WSL - 2026
+
+-------------------------------
+
+Update all - UBUNTU 24.04 LTS - UKUI DESKTOP - 2026
+
+sudo apt update
+sudo apt upgrade
+
+-------------------------------
+
+Install Chrome BROWSER FOR UBUNTU 24.04 LTS and UKUI - WSL
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+-------------------------------
+
+Install firefox and Thunderbird for UBUNTU 24.04 LTS and UKUI desktop - 2026
+
+sudo apt install snapd*
+
+sudo snap install core
+
+sudo snap install snapd
+
+sudo snap install firefox
+
+sudo snap install thunderbird
+
+-------------------------------
+
+Install UKUI desktop for Ubuntu 24.04 - UKUI DESKTOP.
+
+sudo apt install ukui-desktop-environment
+
+sudo apt install ubuntukylin-desktop
+
+sudo apt install ukui* kylin* peony* dialog rsync libukui*
+
+sudo apt install qt6* qt5* ffmpeg-doc vcdimager xdg-desktop-portal-gtk
+
+sudo apt install gtk* labwc xwayland bubblewrap dbus-user-session dbus-x11 xdg-desktop-portal
+
+--------------------------------------------
+
+Install programs Ubuntu Kylin - UKUI DESKTOP FOR UBUNTU 24.04
+
+sudo apt install bash git npm wget curl pipx dbus* systemd -y
+sudo apt install lightdm* -y
+sudo apt install daemonize* -y
+sudo apt install xorg* -y
+sudo apt install x11* -y
+sudo systemctl set-default graphical
+
+--------------------------------------------
+
+Install fastfetch for UBUNTU 24.04 - UKUI
+
+wget https://github.com/fastfetch-cli/fastfetch/releases/download/2.67.0/fastfetch-linux-amd64.deb
+sudo apt install ./fastfetch-linux-amd64.deb
+
+Test by paste this in Terminal: fastfetch
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+--------------------------------------------
+
+Install Blanket via UBUNTU 24.04 NOBEL - LISTEN TO SOUNDS WHEN YOU WORK =)
+
+wget https://launchpad.net/~apandada1/+archive/ubuntu/blanket/+files/blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
+sudo apt install ./blanket_0.6.0-0~daily~202208090401~23edaaa~ubuntu22.04.1_all.deb
+
+--------------------------------------------
+
+Install ffmpeg, MPV and other stuff for MEDIA for UBUNTU Noble Numbat 24.04 LTS and UKUI
+
+sudo apt install celluloid -y
+sudo apt install yt-dlp -y
+sudo apt install mpv-mpris -y
+sudo apt install mpv -y
+sudo apt install ffmpeg -y
+
+--------------------------------------------
+
+Install Gimp so you can PAINT for UBUNTU Noble Numbat 24.04 LTS and UKUI DESKTOP
+
+sudo apt install gimp -y
+
+--------------------------------------------
+
+UBUNTU Noble Numbat 24.04 LTS and Libre Office for UKUI DESKTOP
+
+sudo apt install libreoffice -y
+
+--------------------------------------------
+
+Install some MORE programs for UBUNTU Noble Numbat 24.04 LTS and UKUI - 2026 - WSL
+
+sudo apt install hunspell systemd-container systemd-homed wayland* mutter* policykit-1 gnome-screensaver gnome-power-manager xwayland* dbus-x11* 
+
+sudo apt install kwin*
+
+--------------------------------------------
+
+Paste in Terminal and Press enter - UKUI - 2026 - UBUNTU Noble Numbat 24.04 LTS
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+--------------------------------------------
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+
+--------------------------------------------
+
+UBUNTU Noble Numbat 24.04 - TYPE THIS IN TERMINAL AND PUT YOUR USERNAMN THERE.
+
+sudo loginctl enable-linger adolf
+
+--------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem - UBUNTU Noble Numbat 24.04 and UKUI
+
+FIRST OPEN POWERSHELL AND TYPE: ipconfig 
+
+Last lines are IP-number for WSL.
+
+SAVE IP HERE: 172.30.16.1
+
+GO BACK TO UBUNTU Noble Numbat 24.04 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here from POWERSHELL and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed for UBUNTU Noble Numbat 24.04 LTS and UKUI.
+
+DONT STRESS IF YOU PUT WRONG IP ALL WILL STOP WORKING UNDER LINUX.
+
+--------------------------------------------
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          OS: UBUNTU Noble Numbat 24.04 LTS x86_64
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+
+--------------------------------------------
+
+Install this last Tools for UBUNTU Noble Numbat 24.04 LTS AND UKUI.
+
+sudo apt install ukui-panel* ukui-media* pulseaudio-utils sound-theme-freedesktop audio* marco* pciutils gnome-terminal
+
+------------------------------------------------------
+
+Install this small script for UBUNTU Noble Numbat 24.04 LTS AND UKUI DESKTOP - WSL - 2026
+
+git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+cd ubuntu-wsl2-systemd-script/
+bash ubuntu-wsl2-systemd-script.sh
+
+------------------------------------------------------
+
+DOWNLOAD THIS SCRIPT FÖR UBUNTU Noble Numbat 24.04 LTS AND UKUI - So Desktop WILL START =]
+
+wget --https-only --timeout=30 --tries=3 -O /tmp/ubuntu-UKUI.sh https://www.xhamster.nu/swe/ubuntu-UKUI.sh
+
+--------------------------------------------
+
+Now we must install scrip for UKUI AND UBUNTU Noble Numbat 24.04 LTS
+
+Copy and paste in terminal all =]
+
+sed -i 's/\r$//' /tmp/ubuntu-UKUI.sh
+bash -n /tmp/ubuntu-UKUI.sh && echo "Syntax OK"
+sudo mkdir -p ~/.local/bin
+sudo chown -R "$(id -un):$(id -gn)" ~/.local
+install -m 755 /tmp/ubuntu-UKUI.sh ~/.local/bin/ukui-x410
+ls -l ~/.local/bin/ukui-x410
+grep -qxF 'export PATH="$HOME/.local/bin:$PATH"' ~/.bashrc || echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+command -v ukui-x410
+
+NICE WORK - TIME FOR NEXT STEP FOR UKUI AND UBUNTU 24.04
+
+--------------------------------------------
+
+REBOOT UBUNTU Noble Numbat 24.04 - REBOOT UBUNTU Noble Numbat 24.04 - REBOOT UBUNTU Noble Numbat 24.04
+
+--------------------------------------------
+
+Time to start UKUI DESKTOP AND UBUNTU Noble Numbat 24.04 LTS
+
+
+NOTE - FIRST START X410 AND NEXT START UBUNTU Noble Numbat 24.04 LTS VIA TERMINAL.
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Type in terminal and start UkUI: dbus-launch ukui-x410
+
+
+Just wait when you start UKUI via UBUNTU Noble Numbat 24.04 LTS - UKUI DESKTOP WILL WORK WELL UNDER WSL AND WINDOWS 11.
+
+--------------------------------------------
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'          OS: UBUNTU Noble Numbat 24.04 LTS x86_64
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+  .;clol:,.                        .loooo'
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'
+                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+
+
+Regards Mattias Vinberg - UKUI - UBUNTU 24.04 LTS - WSL - X410 - Windows 11 - Linux - 2026 - SWEDEN
+
+--------------------------------------------
