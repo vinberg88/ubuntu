@@ -34,6 +34,7 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 | **25.10** | UKUI | X11 / X410 | [Guide](UBUNTU-25.10-UKUI.txt) |  [YouTube](https://www.youtube.com/watch?v=cy_jWZgNfks) |
 | **24.04 LTS** | Budgie | X11 / X410 | [Guide](Ubuntu24.04-BUDGIE.txt) | [YouTube](https://www.youtube.com/watch?v=JtnlmX010mM) |
 | **24.04 LTS** | Pantheon | X11 / X410 | [Guide](Ubuntu-24.04-Pantheon.txt) | [YouTube](https://www.youtube.com/watch?v=gXKeX5Ykjj8) |
+| **24.04 LTS** | UKUI | X11 / X410 | [Guide](UBUNTU-24.04-UKUI.txt) | Comming SONE |
 | **22.04 LTS** | Deepin | X11 / X410 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 | **25.04** | GNOME | X11 / X410 | [Guide](Ubuntu-25.04-GNOME.txt) | YOUTUBE COMMING |
   
@@ -335,7 +336,7 @@ for Internet of things devices and robots.
 
 ---
 
-# Ubuntu 24.04 LTS
+# Ubuntu 24.04 LTS - Pantheon for UBUNTU 24.04
 
 Ubuntu 24.04 LTS (Noble Numbat) is a long-term support release from Canonical that
 offers up to 12 years of security maintenance with Ubuntu Pro and introduces major
@@ -355,22 +356,16 @@ primary stable release for desktop and enterprise environments.
 <img width="1920" height="1080" alt="Ubuntu- 24 04-Pantheon" src="https://github.com/user-attachments/assets/ee9051f3-88e3-43f1-8fef-59803957ae18" />
 </p>
 
-About Elementary - Pantheon desktop for UBUNTU
+📚 About UKUI Desktop for UBUNTU 24.04 - https://ubuntukylin.com
 
-Stay productive and focused with Multitasking View,
-Picture-in-Picture, Do Not Disturb, and more. 
-Or keep work out of sight when watching videos or
-playing games. Workspaces help organize your work by 
-task. Keep work and play separate, but just one swipe
-or tap away. Whether you’re watching a movie, game, or 
-terminal process, Picture-in-Picture helps keep tabs on
-one thing while working on another. Tune everything else
-out to stay focused on your work, or keep notifications
-at bay while watching a movie. Do Not Disturb stops
-notifications in their tracks. Elementary comes with
-a carefully considered set of apps that cater to everyday
-needs so you can spend more time using your computer
-and less time cleaning up bloatware. Pantheon is nice to use.
+UKUI DESKTOP is a beautiful Linux operating system optimized
+for Chinese users. Since its creation in 2013, the Ubuntu Kylin
+open source operating system has released 20 versions, 
+downloaded more than 32 million times, contributed millions
+of lines of code and over 7400 patches to the open source 
+community, and has been accepted by international open source 
+communities such as Linux, Debian, Ubuntu, OpenStack, and Ceph.
+For now, we have hundreds of thousands of active users worldwide.
 
 ---
 
@@ -383,6 +378,29 @@ your daily computing needs.
 <a href="https://github.com/vinberg88">
 <img width="530" height="205" alt="Ubuntu-AI" src="https://github.com/user-attachments/assets/d6a803bf-2960-463b-96cd-9e22990a7219" />
 </p>
+
+---
+
+# Ubuntu 24.04 LTS
+
+## UKUI DESKTOP VIA WSL FOR UBUNTU 24.04 LTS
+
+**How to install Pantheon - text** 
+[SETUP UBUNTU AND UKUI](UBUNTU-24.04-UKUI.txt)
+
+**Install video from Youtube:** Comming SONE..
+[UKUI desktop via Youtube](https://github.com/vinberg88)
+
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-24.04-Pantheon.txt">
+<img width="1920" height="1080" alt="UBUNTU 24.04 4UKUI" src="https://github.com/user-attachments/assets/a9b62299-2584-4bc9-9ba0-500ed10d58ab" />
+</p>
+
+Ubuntu 24.04 LTS brings more of everything you love about
+Ubuntu Desktop. More features and customisation options, more
+performance and power efficiency and more ways to integrate
+with your existing enterprise management tools. 
+
 
 ---
 
