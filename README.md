@@ -381,7 +381,7 @@ your daily computing needs.
 
 ---
 
-# Ubuntu 24.04 LTS
+# Ubuntu 24.04 LTS - UKUI 
 
 ## UKUI DESKTOP VIA WSL FOR UBUNTU 24.04 LTS
 
@@ -401,6 +401,13 @@ Ubuntu Desktop. More features and customisation options, more
 performance and power efficiency and more ways to integrate
 with your existing enterprise management tools. 
 
+
+---
+
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="600" height="210" alt="nobel" src="https://github.com/user-attachments/assets/b289eb8d-3627-463d-977d-fc4cf6920f1a" />
+</p>
 
 ---
 
