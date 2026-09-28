@@ -385,7 +385,7 @@ your daily computing needs.
 
 ## UKUI DESKTOP VIA WSL FOR UBUNTU 24.04 LTS
 
-**How to install Pantheon - text** 
+**How to install Pantheon** 
 [SETUP UBUNTU AND UKUI](UBUNTU-24.04-UKUI.txt)
 
 **Install video from Youtube:** Comming SONE..
