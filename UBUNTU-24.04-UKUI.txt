@@ -3,7 +3,7 @@ UKUI and UBUNTU 24.04 - WSL - Install UKUI desktop via UBUNTU - Windows 11 - Git
 Download Ubuntu 24.04 - https://github.com/vinberg88/ubuntu
 
 How to install UKUI DESKTOP via UBUNTU 24.04 - WSL - TEXT VIA GITHUB
-Comming SONE.
+https://github.com/vinberg88/ubuntu/edit/main/UBUNTU-24.04-UKUI.txt
 
 How to install UKUI DESKTOP via UBUNTU 24.04 - WSL - MOVIE VIA YOUTUBE
 Comming SONE.
