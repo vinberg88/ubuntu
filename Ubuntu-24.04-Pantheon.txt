@@ -292,8 +292,10 @@ sudo apt install libreoffice
 
 Install this script - just paste all in terminal - Follow instructions - UBUNTU 24.04 LTS
 
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
-cd ubuntu-wsl2-systemd-script/
+sudo apt install git
+
+git clone https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script.git
+cd ubuntu24.04-wsl2-systemd-script/
 bash ubuntu-wsl2-systemd-script.sh
 
 --------------------------------
