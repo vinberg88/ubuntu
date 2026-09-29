@@ -36,7 +36,7 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 | **24.04 LTS** | Pantheon | X11 / X410 | [Guide](Ubuntu-24.04-Pantheon.txt) | [YouTube](https://www.youtube.com/watch?v=gXKeX5Ykjj8) |
 | **24.04 LTS** | UKUI | X11 / X410 | [Guide](UBUNTU-24.04-UKUI.txt) | Comming SONE |
 | **22.04 LTS** | Deepin | X11 / X410 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
-| **25.04** | GNOME | X11 / X410 | [Guide](Ubuntu-25.04-GNOME.txt) | YOUTUBE COMMING |
+| **24.04 LTS** | GNOME | X11 / X410 | [Guide](UBUNTU-24.04-GNOME.txt) | YOUTUBE COMMING |
   
 ## Requirements - Ubuntu Pro for WSL =]
 
