@@ -5,7 +5,7 @@ You can find ubuntu 24.04 here for Gnome DESKTOP - WSL: https://github.com/vinbe
 More desktops for WSL and LINUX: https://github.com/vinberg88
 
 How to install Gnome via Ubuntu 24.04 and Windows 11 - TEXT
-Comming Zone.
+https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-24.04-GNOME.txt
 
 How to install Gnome via Ubuntu 24.04 and Windows 11 - MOVIE
 Comming Zone.
