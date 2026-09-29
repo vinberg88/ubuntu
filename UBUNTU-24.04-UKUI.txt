@@ -304,8 +304,10 @@ sudo apt install ukui-panel* ukui-media* pulseaudio-utils sound-theme-freedeskto
 
 Install this small script for UBUNTU Noble Numbat 24.04 LTS AND UKUI DESKTOP - WSL - 2026
 
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
-cd ubuntu-wsl2-systemd-script/
+sudo apt install git
+
+git clone https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script.git
+cd ubuntu24.04-wsl2-systemd-script/
 bash ubuntu-wsl2-systemd-script.sh
 
 ------------------------------------------------------
