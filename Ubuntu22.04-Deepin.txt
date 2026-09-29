@@ -293,8 +293,10 @@ export LIBGL_ALWAYS_SOFTWARE=1
 
 Paste all in terminal and wait for UBUNTU 22.04 to install it - Deepin - WSL - 2026
 
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
-cd ubuntu-wsl2-systemd-script/
+sudo apt install git
+
+git clone https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script.git
+cd ubuntu24.04-wsl2-systemd-script/
 bash ubuntu-wsl2-systemd-script.sh
 
 -------------------------------
