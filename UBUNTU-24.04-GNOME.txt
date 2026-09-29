@@ -1,0 +1,342 @@
+Ubuntu 24.04 and Gnome - WSL - How to install Gnome via Ubuntu and Windows 11 - X410 - Linux - 2025
+
+You can find ubuntu 24.04 here for Gnome DESKTOP - WSL: https://github.com/vinberg88/ubuntu
+
+More desktops for WSL and LINUX: https://github.com/vinberg88
+
+How to install Gnome via Ubuntu 24.04 and Windows 11 - TEXT
+Comming Zone.
+
+How to install Gnome via Ubuntu 24.04 and Windows 11 - MOVIE
+Comming Zone.
+
+
+TOOLS that i USE for WSL and Ubuntu 24.04 LTS - WSL - GNOME - 2026
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 24.04.5 LTS - x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: Gnome DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Gnome and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+                             .                                            .
+
+About Ubuntu 24.04 - WSL - https://ubuntu.com - 2026
+
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+About Gnome desktop - https://www.gnome.org
+
+Every part of GNOME has been designed to make it simple 
+and easy to use. The Activities Overview is a simple way 
+to access all your basic tasks. A press of a button is
+all it takes to view your open windows, launch applications, or 
+check if you have new messages. Having everything in 
+one convenient place means you don’t have to learn your way 
+around a maze of different technologies. 
+
+More About WSL - old page: https://github.com/vinberg88/opensuse
+
+Information about WSL via Windows 11 and Microsoft - https://vinberg88.github.io
+
+Download 24.04 LTS for WSL: https://github.com/vinberg88/ubuntu/releases/tag/0.2.0
+
+----------------------------------------------
+
+Update All after install - Ubuntu 24.04
+
+sudo apt update && sudo apt upgrade -y
+
+----------------------------------------------
+
+Fix dbus-broker error for Ubuntu 24.04
+
+sudo apt install dbus-broker* dbus* dialog
+sudo apt install dbus-daemon* systemd
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+----------------------------------------------
+
+Reboot GNOME and UBUNTU 24.04 LTS FOR WSL - Reboot GNOME and UBUNTU 24.04 LTS FOR WSL - Reboot
+
+----------------------------------------------
+
+Install programs for Ubuntu 24.04 LTS and GNOME.
+
+sudo apt install ibus bash git npm wget curl pipx dracut pip dialog -y
+sudo apt install gdm3* kwin* x11* xorg* qt5* gtk* papirus-icon-theme fonts-firacode -y
+sudo apt install gdm* -y
+sudo apt install network-manager-gnome gvfs* build-essential unzip -y
+sudo systemctl set-default graphical
+
+---------------------------------------------------------------
+
+Install ffmpeg, MPV and other stuff for MEDIA and GNOME for Ubuntu 24.04 LTS
+
+sudo apt install celluloid -y
+sudo apt install yt-dlp -y
+sudo apt install mpv-mpris -y
+sudo apt install mpv -y
+sudo apt install ffmpeg* -y
+
+---------------------------------------------------------------
+
+Install this small program for fastfetch - Ubuntu 24.04 LTS
+
+sudo add-apt-repository ppa:zhangsongcui3371/fastfetch
+sudo apt update
+sudo apt install fastfetch -y
+
+To test type this in terminal: fastfetch
+
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 24.04.5 LTS - x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: Gnome DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Gnome and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+
+--------------------------------------------
+
+Install some MORE programs for Ubuntu 24.04
+
+sudo apt install hunspell systemd-container systemd-homed systemd-userdbd systemd-boot systemd-resolved systemd-ukify
+
+--------------------------------------------
+
+Fix IP problem for X410. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
+
+SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL in POWERSHELL so x410 works.
+
+NOW GO BACK TO UBUNTU 24.04 Terminal and paste this.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1 <-- put your ip here from Powershell and add nameserver to nano.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+
+DONE - alot of problem fixed =] for Ubuntu 24.04 and GNOME desktop.
+
+-------------------------------
+
+Install Blanket if you Want! - Listen to Sounds for Ubuntu 24.04
+
+sudo add-apt-repository ppa:apandada1/blanket
+sudo apt update
+sudo apt install blanket
+
+-------------------------------
+
+Install Chrome for Ubuntu 24.04
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+---------------------------------------------------------------
+
+Network for Ubuntu 24.04
+
+sudo apt install \
+openssh-client openssh-server \
+mosh net-tools nmap \
+wireguard openvpn
+
+----------------------------------
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 24.04.5 LTS - x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: Gnome DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Gnome and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+
+--------------------------------------------
+
+Install Visual studio Code - Microsoft - Ubuntu 24.04
+
+sudo apt-get install wget gpg
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+rm -f packages.microsoft.gpg
+
+sudo apt install apt-transport-https apt -y
+sudo apt update
+sudo apt install code -y
+
+----------------------------------
+
+Install Gimp 3 and Libre Office for Ubuntu 24.04
+
+sudo apt install gimp libreoffice -y
+
+----------------------------------
+
+Install Spotify for Ubuntu 24.04
+
+curl -sS https://download.spotify.com/debian/pubkey_5384CE82BA52C83A.asc | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
+echo "deb https://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+
+sudo apt-get update
+sudo apt-get install spotify-client
+
+--------------------------------------------
+
+Install FireFox before Gnome. Faster install. Gnome will take alot of time....
+
+sudo apt install snapd*
+
+sudo snap install firefox
+
+sudo snap install thunderbird
+
+----------------------------------------------
+
+Time to install Gnome for Ubuntu 24.04 and WSL - 2026
+
+sudo apt install ubuntu-desktop gnome* -y
+
+IF asked under install copy and paste this to terminal: https://archive.ubuntu.com/ubuntu 
+
+----------------------------------------------
+
+Copy this and paste in terminal: sudo nano ~/.bash_ubuntu_desktop
+
+Then add this script to terminal
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+--------------------------------------------
+
+Paste in terminal and follow instructions!
+
+git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
+cd ubuntu-wsl2-systemd-script/
+bash ubuntu-wsl2-systemd-script.sh
+
+--------------------------------------------
+
+Please Reboot Ubuntu - Please Reboot Ubuntu - Please Reboot Ubuntu
+
+--------------------------------------------
+
+Time to start Gnome and Ubuntu 24.04 LTS
+
+
+NOTE - FIRST START X410 THEN YOU START UBUNTU VIA TERMINAL
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Paste in terminal: . ~/.bash_ubuntu_desktop
+
+Paste in terminal: dbus-launch gnome-session
+
+
+It take some time to start all in beginning... Just Wait!
+
+--------------------------------------------
+
+                             ....            Mail: mattiasvinberg@duck.com  
+              .',:clooo:  .:looooo:.
+           .;looooooooc  .oooooooooo'        OS: Windows 11 Pro for Workstations (25H2) x86_64
+        .;looooool:,''.  :ooooooooooc  
+       ;looool;.         'oooooooooo,        OS: Ubuntu 24.04.5 LTS - x86_64
+      ;clool'             .cooooooc.  ,, 
+         ...                ......  .:oo,    Host: Windows Subsystem for Linux - Ubuntu-22.04 (2.9.10.0)
+  .;clol:,.                        .loooo' 
+ :ooooooooo,                        'ooool   Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+'ooooooooooo.                        loooo.
+'ooooooooool                         coooo.  MEDIA: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.  
+   .,;;;'.                          ;ooooc   FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.
+    .cooooc.              ..',,'.  .cooo.    Download Ubuntu 24.04 LTS: https://github.com/vinberg88/ubuntu
+      ;ooooo:.           ;oooooooc.  :l.  
+       .coooooc,..      coooooooooo.         Liunx/Win: Gnome DESKTOP - Windows 11 - Ubuntu 24.04 LTS
+         .:ooooooolc:. .ooooooooooo'       
+           .':loooooo;  ,oooooooooc          Thank you for install Gnome and Ubuntu 24.04 LTS ❤️ - WSL                         
+               ..';::c'  .;loooo:'                                    
+
+
+Regards Mattias Vinberg - Sweden - GNOME DESKTOP - Ubuntu 24.04 LTS - Linux - WSL - X410 - 2026
+
+--------------------------------------------
