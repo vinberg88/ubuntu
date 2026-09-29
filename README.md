@@ -401,6 +401,33 @@ Ubuntu Desktop. More features and customisation options, more
 performance and power efficiency and more ways to integrate
 with your existing enterprise management tools. 
 
+---
+
+# Ubuntu 24.04 LTS - GNOME
+
+## GNOME DESKTOP VIA WSL FOR UBUNTU 24.04 LTS
+
+**How to install Pantheon** 
+[INSTALL UBUNTU VIA GNOME](UBUNTU-24.04-GNOME.txt)
+
+**Install video from Youtube:** Comming SONE..
+[UKUI desktop via Youtube](https://github.com/vinberg88)
+
+Every part of GNOME has been designed to make it simple 
+and easy to use. The Activities Overview is a simple way 
+to access all your basic tasks. A press of a button is
+all it takes to view your open windows, launch applications, or 
+check if you have new messages.
+
+<p align="center">
+<a href="[https://github.com/vinberg88/ubuntu/blob/main/UBUNTU-24.04-GNOME.txt">
+<img width="1920" height="1080" alt="UBUNTU-24 04-GNOME" src="https://github.com/user-attachments/assets/132ec032-1899-4986-bf48-0aa8db540b69" />
+</p>
+
+
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. 
 
 ---
 
