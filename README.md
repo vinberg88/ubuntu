@@ -3,7 +3,7 @@
    <img width="729" height="207" alt="ubuntu-bild" src="https://github.com/user-attachments/assets/6ed9f9f1-3c45-4357-bc65-ab72e848a7ca" />
 </p>
 
-This script for UBUNTU 24.04 will make any desktop to start for WSL - https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script
+This script for UBUNTU 24.04 will make any desktop to start for WSL (Start scirpt for desktops via ubuntu 24.04](https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script)**
 
 **Developed by [Mattias Vinberg](https://github.com/vinberg88)** | **[Ubuntu](https://ubuntu.com)** 2026
 
