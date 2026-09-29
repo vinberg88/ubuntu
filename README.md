@@ -424,10 +424,15 @@ check if you have new messages.
 <img width="1920" height="1080" alt="UBUNTU-24 04-GNOME" src="https://github.com/user-attachments/assets/132ec032-1899-4986-bf48-0aa8db540b69" />
 </p>
 
+About Ubuntu 24.04 - WSL - https://ubuntu.com - 2026
 
 Run your choice of Linux text editors, including vim, emacs, and nano.
 Install applications, compilers and libraries from the Ubuntu 
-repository, securely maintained by Canonical. 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
 
 ---
 
