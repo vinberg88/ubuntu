@@ -288,8 +288,10 @@ export LIBGL_ALWAYS_SOFTWARE=1
 
 Paste in terminal and follow instructions!
 
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
-cd ubuntu-wsl2-systemd-script/
+sudo apt install git
+
+git clone https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script.git
+cd ubuntu24.04-wsl2-systemd-script/
 bash ubuntu-wsl2-systemd-script.sh
 
 --------------------------------------------
