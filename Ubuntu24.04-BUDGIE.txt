@@ -265,8 +265,10 @@ Paste all and install in terminal - Ubuntu 24.04 - BUDGIE DESKTOP - WSL - 2026
 
 Copy and paste this small script in terminal. Make BUDIGE work well via Ubuntu 24.04 LTS and WSL.
 
-git clone https://github.com/DamionGans/ubuntu-wsl2-systemd-script.git
-cd ubuntu-wsl2-systemd-script/
+sudo apt install git
+
+git clone https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script.git
+cd ubuntu24.04-wsl2-systemd-script/
 bash ubuntu-wsl2-systemd-script.sh
 
 --------------------------------------------
