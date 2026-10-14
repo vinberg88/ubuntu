@@ -292,11 +292,11 @@ sudo apt install libreoffice
 
 Install this script - just paste all in terminal - Follow instructions - UBUNTU 24.04 LTS
 
-sudo apt install git
-
+sudo apt update
+sudo apt install -y git mesa-utils daemonize util-linux-extra
 git clone https://github.com/vinberg88/ubuntu24.04-wsl2-systemd-script.git
-cd ubuntu24.04-wsl2-systemd-script/
-bash ubuntu-wsl2-systemd-script.sh
+cd ubuntu24.04-wsl2-systemd-script
+bash ubuntu-wsl2-systemd-script.sh --classic-desktop
 
 --------------------------------
 
