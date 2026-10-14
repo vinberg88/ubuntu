@@ -142,8 +142,9 @@ sudo apt install ./google-chrome-stable_current_amd64.deb -y
 
 Install Blanket - Listen to diffrents sound when you are working - Ubuntu 24.04 - WSL
 
-wget https://launchpad.net/~apandada1/+archive/ubuntu/blanket/+files/blanket_0.7.0-1~daily~202404100636~d1fde60~ubuntu24.04.1_all.deb
-sudo apt install ./blanket_0.7.0-1~daily~202404100636~d1fde60~ubuntu24.04.1_all.deb
+sudo add-apt-repository ppa:apandada1/blanket
+sudo apt-get update
+sudo apt install blanket
 
 --------------------------------------------
 
