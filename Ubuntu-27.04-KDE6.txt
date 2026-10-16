@@ -4,7 +4,7 @@ NOTE: THIS IS BETA AND UBUNTU 27.04 WILL BE RELEASED IN NEXT YEAR 2027.
 
 
 How to install KDE 6 via Ubuntu Tenacious T-Rex 27.04 - WSL - TEXT VIA GITHUB
-Comming SONE..
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt
 
 How to install KDE 6 via Ubuntu Tenacious T-Rex 27.04 - WSL - MOVIE VIA YOUTUBE
 Comming SONE..
