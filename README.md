@@ -30,7 +30,7 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 
 | Ubuntu version | Desktop | Display | Install guide | Video |
 |---|---|---|---|---|
-| **27.04** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu-27.04-KDE6.txt) | Video - Comming Sone |
+| **27.04** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu-27.04-KDE6.txt) | [YouTube]( https://www.youtube.com/watch?v=zS_EUWQ78KI) |
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
 | **26.04 LTS** | KDE Plasma 6 | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
 | **26.04 LTS** | Cinnamon DE | X11 / Wayland | [Guide](Ubuntu-26.04-cinnamon.txt)  |  [YouTube](https://www.youtube.com/watch?v=lZxRtC17xzk) |
@@ -96,7 +96,8 @@ use, stability, and vast ecosystem of applications and tools.
 **Install guide:**  
 [Ubuntu27.04-KDE.txt](Ubuntu-27.04-KDE6.txt)
 
-Video: Comming SONE - Working on that right now!
+**Video:**  
+[Video for UBUNTU 27.04 VIA YOUTUBE and WSL](https://www.youtube.com/watch?v=zS_EUWQ78KI)
 
 <p align="center">
       <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt">
