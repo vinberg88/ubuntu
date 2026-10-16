@@ -85,6 +85,35 @@ Both **X11** and **Wayland** configurations are explored where possible.
       
 ---
 
+# Ubuntu 27.04 and KDE 6  - BETA 
+
+Install Ubuntu Tenacious T-Rex 27.04 and KDE 6. This is BETA. Ubuntu is a free and open-source 
+operating system based on the Linux kernel, developed and maintained by Canonical Ltd. Since
+its initial release in 2004, Ubuntu has grown rapidly in popularity due to its ease of 
+use, stability, and vast ecosystem of applications and tools. 
+
+**Install guide:**  
+[Ubuntu27.04-KDE.txt](Ubuntu-27.04-KDE6.txt)
+
+**Video:**  
+[How to install KDE Plasma 6 on Ubuntu 27.04 via WSL](https://www.youtube.com/watch?v=mQXaubKRRRU)
+
+<p align="center">
+      <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt">
+       <img width="1920" height="1080" alt="Ubuntu-27 04-KDE6" src="https://github.com/user-attachments/assets/a8274896-d3d7-47df-b0c6-b93f13ee0582" />
+</p>
+
+About KDE 6 Plasma for Ubuntu 27.04 - https://kde.org
+
+KDE Plasma is a modern, feature-rich desktop environment
+for Linux-based operating systems. Known for its sleek
+design, customizable interface, and extensive set of
+applications, it is also open source, devoid
+of ads, and makes protecting your privacy and
+personal data a priority.
+
+---
+
 # Ubuntu 26.10 and KDE 6
 
 About Ubuntu - Ubuntu today has many flavours and dozens of specialised 
