@@ -8,10 +8,11 @@ https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt
 How to install KDE 6 via Ubuntu Tenacious T-Rex 27.04 - WSL - MOVIE VIA YOUTUBE
 Comming SONE..
 
-Download Ubuntu 26.10 here. Look for stonking26.10-wsl-amd64.wsl - https://github.com/vinberg88/ubuntu
+We will install Ubuntu 26.04 via powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
 
-We will update UBUNTU Stoneking 26.04 to Ubuntu Tenacious T-Rex 27.04 
+We will update UBUNTU 26.04 to Ubuntu Tenacious T-Rex 27.04 Later
 
+Download Ubuntu 26.04 here if you want: https://github.com/vinberg88/ubuntu
 
 Find more desktops for Ubuntu: https://github.com/vinberg88/ubuntu
 
@@ -33,7 +34,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
         .;looooool:,''.  :ooooooooooc          
        ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (3.0.3.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.3.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -100,31 +101,31 @@ Information about WSL - https://vinberg88.github.io
 
 --------------------------------------------
 
-TIME TO START INSTALL OF Ubuntu Tenacious T-Rex 27.04 AND KDE 6 FOR WSL - 2026
+TIME TO START INSTALL Ubuntu Tenacious T-Rex 27.04 AND KDE 6 FOR WSL - 2026
 
-If you not did this download Ubuntu 26.10 here - https://github.com/vinberg88/ubuntu
-
-Now press the BLUE ICON AND START UBUNTU 26.10 - SETUP USER AND PASSWORD
+Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
 
 TYPE CD SO YOU CAME TO START FOLDER: cd
 
+Yoy can download Ubuntu 26.04 here for wsl if you want - https://github.com/vinberg88/ubuntu
+
 ---------------------------------------
 
-Update Repos from Ubuntu 26.10 to Ubuntu Tenacious T-Rex 27.04
+Update Repos from Ubuntu 26.04 to Ubuntu Tenacious T-Rex 27.04
 
 sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
 
-sudo sed -i 's/stonking/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
+sudo sed -i 's/resolute/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
 
-sudo apt update && sudo apt dist-upgrade -y
+sudo apt update && sudo apt dist-upgrade
 
 ---------------------------------------
 
-Update from Stoneking 26.10 to Tenacious 27.04 in version file.
+Update from Ubuntu 26.04 to Ubuntu Tenacious 27.04 in version file.
 
-sudo nano /etc/os-release
+Copy and Paste: sudo nano /etc/os-release
 
-Remove all in nano file and copy and paste this.
+Remove all in nano file and copy and paste this to nano
 
 PRETTY_NAME="Ubuntu Tenacious T-Rex (development branch)"
 NAME="Ubuntu"
@@ -169,7 +170,7 @@ To test run this in terminal: fastfetch
         .;looooool:,''.  :ooooooooooc          
        ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (3.0.3.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.3.0)d
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -179,7 +180,7 @@ To test run this in terminal: fastfetch
        ...                         ,ooool.     
     .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
-       .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+       .coooooc,..      coooooooooo.           Download Ubuntu 26.04 here if you want: https://github.com/vinberg88/ubuntu
          .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Ubuntu Tenacious T-Rex 27.04
                ..';::c'  .;loooo:'             
@@ -227,6 +228,7 @@ Copy and paste in terminal: sudo flatpak remote-add --if-not-exists flathub http
 
 Time to install KDE Plasma 6 for Ubuntu Tenacious T-Rex 27.04 - This will take some time.
 
+
 sudo apt install kde-full
 
 sudo apt install plasma*
@@ -241,7 +243,7 @@ sudo apt install kde*
         .;looooool:,''.  :ooooooooooc          
        ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (3.0.3.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.3.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -251,7 +253,7 @@ sudo apt install kde*
        ...                         ,ooool.     
     .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
-       .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+       .coooooc,..      coooooooooo.           Download Ubuntu 26.04 here if you want: https://github.com/vinberg88/ubuntu
          .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Ubuntu Tenacious T-Rex 27.04
                ..';::c'  .;loooo:'             
@@ -335,15 +337,15 @@ Just wait when you start KDE 6. It will work well under Ubuntu Tenacious T-Rex 2
 
 Regards Mattias Vinberg - SwEden - KDE 6 - Ubuntu Tenacious T-Rex 27.04 - Linux - WSL - X410 - WINDOWS - 2026
 
-                             ....              Thank you for install KDE 6 and Ubuntu Stonking Stingray 26.10 ❤️
+                             ....              Thank you for install KDE 6 and Ubuntu Tenacious T-Rex 27.04 ❤️
               .',:clooo:  .:looooo:.           
-           .;looooooooc  .oooooooooo'          OS: Ubuntu Stonking Stingray (development branch) x86_64
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
         .;looooool:,''.  :ooooooooooc          
        ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (2.9.10.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.3.0)
   .;clol:,.                        .loooo'     
- :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
 'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
  ,loooooooc.                        .loooo.    
@@ -353,11 +355,10 @@ Regards Mattias Vinberg - SwEden - KDE 6 - Ubuntu Tenacious T-Rex 27.04 - Linux 
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sound =)
          .:ooooooolc:. .ooooooooooo'           
-           .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
+           .':loooooo;  ,oooooooooc            Download Ubuntu 26.04 here if you want: https://github.com/vinberg88/ubuntu
                ..';::c'  .;loooo:'             
-                                               Liunx/Win Desktop - KDE 6 - Windows 11 -  Ubuntu Stonking Stingray 26.10
-                                               
-
+                                               Liunx/Win Desktop - KDE 6 - Windows 11 -  Ubuntu Tenacious T-Rex 27.04
+                                              
 © 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
 ------------------------------------------------------
