@@ -96,7 +96,7 @@ use, stability, and vast ecosystem of applications and tools.
 **Install guide:**  
 [Ubuntu27.04-KDE.txt](Ubuntu-27.04-KDE6.txt)
 
-Video: Comming SONE - Woring on that right now!
+Video: Comming SONE - Working on that right now!
 
 <p align="center">
       <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt">
