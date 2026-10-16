@@ -114,7 +114,6 @@ TYPE CD SO YOU CAME TO START FOLDER: cd
 
 Update Repos from Ubuntu 26.10 to Ubuntu Tenacious T-Rex 27.04
 
-
 sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
 
 sudo sed -i 's/stonking/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
