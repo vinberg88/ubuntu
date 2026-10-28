@@ -21,13 +21,13 @@ https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
 WSL UI - This tool is free and works like Raft WSL.
 https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 
-                             ....              Thanks for install UKUI DESKTOP and UBUNTU 24.04 ❤️
+                             ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
               .',:clooo:  .:looooo:.           
-           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Kylin 24.04.5 LTS (Noble Numbat) x86_64
         .;looooool:,''.  :ooooooooooc          
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (3.0.4.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -41,7 +41,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
          .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
                ..';::c'  .;loooo:'             
-                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+                                               Linux/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
 
 About Ubuntu 24.04 for WSL - 2026 - https://ubuntu.com
 
@@ -146,11 +146,11 @@ Test by paste this in Terminal: fastfetch
 
                              ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
               .',:clooo:  .:looooo:.           
-           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Kylin 24.04.5 LTS (Noble Numbat) x86_64
         .;looooool:,''.  :ooooooooooc          
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (3.0.4.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -164,7 +164,8 @@ Test by paste this in Terminal: fastfetch
          .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
                ..';::c'  .;loooo:'             
-                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+                                               Linux/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+
 --------------------------------------------
 
 Install Blanket via UBUNTU 24.04 NOBEL - LISTEN TO SOUNDS WHEN YOU WORK =)
@@ -214,26 +215,26 @@ sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default
 --------------------------------------------
 
                              ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
-              .',:clooo:  .:looooo:.
-           .;looooooooc  .oooooooooo'          OS: Ubuntu 24.04.5 LTS (Noble Numbat) x86_64
-        .;looooool:,''.  :ooooooooooc
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
-      ;clool'             .cooooooc.  ,,
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
-  .;clol:,.                        .loooo'
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Kylin 24.04.5 LTS (Noble Numbat) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (3.0.4.0)
+  .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
-'ooooooooooo.                        loooo.
+'ooooooooooo.                        loooo.    
 'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
- ,loooooooc.                        .loooo.
+ ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
-       ...                         ,ooool.
+       ...                         ,ooool.     
     .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
-      ;ooooo:.           ;oooooooc.  :l.
+      ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
-         .:ooooooolc:. .ooooooooooo'
+         .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
-               ..';::c'  .;loooo:'
-                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+               ..';::c'  .;loooo:'             
+                                               Linux/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
 
 --------------------------------------------
 
@@ -272,27 +273,29 @@ DONT STRESS IF YOU PUT WRONG IP ALL WILL STOP WORKING UNDER LINUX.
 
 --------------------------------------------
 
+
                              ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
-              .',:clooo:  .:looooo:.
-           .;looooooooc  .oooooooooo'          OS: UBUNTU Noble Numbat 24.04 LTS x86_64
-        .;looooool:,''.  :ooooooooooc
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
-      ;clool'             .cooooooc.  ,,
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
-  .;clol:,.                        .loooo'
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Kylin 24.04.5 LTS (Noble Numbat) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (3.0.4.0)
+  .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
-'ooooooooooo.                        loooo.
+'ooooooooooo.                        loooo.    
 'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
- ,loooooooc.                        .loooo.
+ ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
-       ...                         ,ooool.
+       ...                         ,ooool.     
     .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
-      ;ooooo:.           ;oooooooc.  :l.
+      ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
-         .:ooooooolc:. .ooooooooooo'
+         .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
-               ..';::c'  .;loooo:'
-                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+               ..';::c'  .;loooo:'             
+                                               Linux/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+
 
 --------------------------------------------
 
@@ -359,26 +362,26 @@ Just wait when you start UKUI via UBUNTU Noble Numbat 24.04 LTS - UKUI DESKTOP W
 
 
                              ....              Thanks for install UKUI DESKTOP and UBUNTU Noble Numbat 24.04 ❤️
-              .',:clooo:  .:looooo:.
-           .;looooooooc  .oooooooooo'          OS: UBUNTU Noble Numbat 24.04 LTS x86_64
-        .;looooool:,''.  :ooooooooooc
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
-      ;clool'             .cooooooc.  ,,
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (2.9.11.0)
-  .;clol:,.                        .loooo'
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Kylin 24.04.5 LTS (Noble Numbat) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-24.04 (3.0.4.0)
+  .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (25H2) x86_64
-'ooooooooooo.                        loooo.
+'ooooooooooo.                        loooo.    
 'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
- ,loooooooc.                        .loooo.
+ ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
-       ...                         ,ooool.
+       ...                         ,ooool.     
     .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
-      ;ooooo:.           ;oooooooc.  :l.
+      ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
-         .:ooooooolc:. .ooooooooooo'
+         .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Download Ubuntu Stonking Stingray 26.10: https://github.com/vinberg88/ubuntu
-               ..';::c'  .;loooo:'
-                                               Liunx/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
+               ..';::c'  .;loooo:'             
+                                               Linux/Win Desktop - UKUI DESKTOP - Windows 11 - UBUNTU Noble Numbat 24.04 LTS
 
 
 Regards Mattias Vinberg - UKUI - UBUNTU 24.04 LTS - WSL - X410 - Windows 11 - Linux - 2026 - SWEDEN
