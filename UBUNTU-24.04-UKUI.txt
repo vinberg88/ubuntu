@@ -35,7 +35,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
  ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.     
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
          .:ooooooolc:. .ooooooooooo'           
@@ -158,7 +158,7 @@ Test by paste this in Terminal: fastfetch
  ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.     
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
          .:ooooooolc:. .ooooooooooo'           
@@ -227,7 +227,7 @@ sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default
  ,loooooooc.                        .loooo.
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
          .:ooooooolc:. .ooooooooooo'
@@ -286,7 +286,7 @@ DONT STRESS IF YOU PUT WRONG IP ALL WILL STOP WORKING UNDER LINUX.
  ,loooooooc.                        .loooo.
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
          .:ooooooolc:. .ooooooooooo'
@@ -372,7 +372,7 @@ Just wait when you start UKUI via UBUNTU Noble Numbat 24.04 LTS - UKUI DESKTOP W
  ,loooooooc.                        .loooo.
    .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.
        .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) Ubuntu 24.04 - UKUI DESKTOP
          .:ooooooolc:. .ooooooooooo'
