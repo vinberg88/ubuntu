@@ -125,7 +125,7 @@ personal data a priority.
 Video for UBUNTU 27.04 Comming SONE.
 
 <p align="center">
-      <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt">
+      <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu27.04-MATE.txt">
       <img width="1920" height="1080" alt="Ubuntu27 04-MATE" src="https://github.com/user-attachments/assets/7a372e1e-8588-4638-9e0b-1a09b07ea1ff" />
 </p>
 
