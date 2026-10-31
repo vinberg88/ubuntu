@@ -1,0 +1,204 @@
+Ubuntu 26.04 and Gnome via wayland and WSL - How to install Gnome 50 via Ubuntu 26.04 - Windows 11 - GitHUB - YouTUBE - 2026
+
+How to insatll GNOME desktop via wayland and wsl. Ubuntu 26.04 - Text via GITHUB - 2026
+Comming SOME...
+
+How to insatll GNOME desktop via wayland and wsl. Ubuntu 26.04 - MOVIE via YouTUBE - 2026
+Comming SOME...
+
+Read About weaselway for WSL and Windows 11 - GNOME 50 - https://github.com/vinberg88/weaselway
+
+Tools that i use for WSL and Ubuntu 26.04 and GNOME desktop
+
+Raft WSL is a powerful tool for managing Windows Subsystem Linux Distros.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+ 
+
+                             ....              Thanks for install GNOME 50 and UBUNTU 26.04 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 26.04 x86_64 - WAYLAND via Windows 11.
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.04 (2.9.12.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com - Read about weaselway - https://github.com/vinberg88/weaselway
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 26.04 - GNOME 50 and over.
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.04
+
+
+About Ubuntu 26.04 - https://ubuntu.com - https://ubuntu.com/desktop/wsl - 2026
+
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+About Gnome desktop 50 and over via WAYLAND and Ubuntu 26.04 - https://www.gnome.org - 2026
+
+Every part of GNOME has been designed to make it simple 
+and easy to use. The Activities Overview is a simple way 
+to access all your basic tasks. A press of a button is
+all it takes to view your open windows, launch applications, or 
+check if you have new messages. Having everything in 
+one convenient place means you don’t have to learn your way 
+around a maze of different technologies. 
+
+You Can Find More Stuff here About WSL and diffrent desktops - 2026
+
+https://github.com/vinberg88/weaselway
+
+Read About Ubnutu 26.04 for WSL here: https://github.com/vinberg88/ubuntu
+
+----------------------------------------------
+
+Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04
+
+----------------------------------------------
+
+Next Update all for Ubuntu 26.04
+
+sudo apt update
+sudo apt upgrade
+
+----------------------------------------------
+
+Install this programs Ubuntu 26.04
+
+sudo apt install dialog systemd nano bash git wget curl rsync
+
+----------------------------------------------
+
+Fix dbus-broker error for Ubuntu 26.04
+
+sudo apt install dbus-broker* dbus* -y
+sudo apt install dbus-daemon* -y
+
+sudo systemctl disable dbus-broker
+sudo systemctl enable dbus
+
+sudo mkdir -p /run/dbus
+sudo chown messagebus:messagebus /run/dbus
+
+----------------------------------------------
+
+Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04
+
+----------------------------------------------
+
+Install this small program.
+
+sudo apt install fastfetch -y
+
+To test type: fastfetch
+
+                             ....              Thanks for install GNOME 50 and UBUNTU 26.04 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 26.04 x86_64 - WAYLAND via Windows 11.
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.04 (2.9.12.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 26.04 - GNOME 50 and over.
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.04
+
+
+----------------------------------------------
+
+Install Chrome webbrowser for UBUNTU 26.04 LTS AND GNOME desktop
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+----------------------------------------------
+
+Install blanket - Sounds - Improve focus and increase your productivity by listening to different ambient sounds
+
+sudo apt install blanket -y
+
+----------------------------------------------
+
+Install Gimp and Libreoffice and some other programs for Ubuntu 25.04
+
+sudo apt install gimp libreoffice gnome-tweaks gnome-extensions*
+
+----------------------------------------------
+
+Time to install Gnome Desktop for Ubuntu 25.04
+
+sudo apt install ubuntu-desktop
+
+----------------------------------------------
+
+Run the install script for Ubuntu 26.04 and Gnome for WSL
+
+git clone https://github.com/weaselway/weaselway.git
+cd weaselway
+./ubuntu/install.sh
+
+----------------------------------------------
+
+Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04
+
+----------------------------------------------
+
+Start the desktop via Ubuntu 26.04 terminal and enjoy GNOME and Ubuntu 26.04 Gnome desktop.
+
+ww-start-session
+ww-start-viewer
+
+----------------------------------------------
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+                             ....              Thanks for install GNOME 50 and UBUNTU 26.04 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 26.04 x86_64 - WAYLAND via Windows 11.
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-25.04 (2.9.12.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 26.04 - GNOME 50 and over.
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.04
+
+
+Regards Mattias Vinberg - Sweden - GNOME 50 and over - Ubuntu 26.04 - Linux - WSL - X410 - WINDOWS 11 - Stockholm - 2026
+
+----------------------------------------------
