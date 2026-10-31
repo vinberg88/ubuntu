@@ -6,7 +6,7 @@ https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt
 How to insatll GNOME desktop via wayland and wsl. Ubuntu 26.04 - MOVIE via YouTUBE - 2026
 Comming SOME...
 
-Read About weaselway for WSL and Windows 11 - GNOME 50 - https://github.com/vinberg88/weaselway
+Read About weaselway for WSL and Windows 11 - GNOME 50 - https://github.com/vinberg88/weaselway/
 
 Tools that i use for WSL and Ubuntu 26.04 and GNOME desktop
 
@@ -71,31 +71,13 @@ Install Ubuntu 26.04 via Powershell: wsl --install Ubuntu-26.04
 
 Next Update all for Ubuntu 26.04
 
-sudo apt update
-sudo apt upgrade
+sudo apt update && sudo apt upgrade -y
 
 ----------------------------------------------
 
 Install this programs Ubuntu 26.04
 
 sudo apt install dialog systemd nano bash git wget curl rsync
-
-----------------------------------------------
-
-Fix dbus-broker error for Ubuntu 26.04
-
-sudo apt install dbus-broker* dbus* -y
-sudo apt install dbus-daemon* -y
-
-sudo systemctl disable dbus-broker
-sudo systemctl enable dbus
-
-sudo mkdir -p /run/dbus
-sudo chown messagebus:messagebus /run/dbus
-
-----------------------------------------------
-
-Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04 - Reboot Ubuntu 26.04
 
 ----------------------------------------------
 
@@ -145,17 +127,11 @@ sudo apt install blanket -y
 
 Install Gimp and Libreoffice and some other programs for Ubuntu 25.04
 
-sudo apt install gimp libreoffice gnome-tweaks gnome-extensions*
+sudo apt install gimp libreoffice
 
 ----------------------------------------------
 
-Time to install Gnome Desktop for Ubuntu 25.04
-
-sudo apt install ubuntu-desktop
-
-----------------------------------------------
-
-Run the install script for Ubuntu 26.04 and Gnome for WSL
+Run the install script for Ubuntu 26.04 and Gnome for WSL - 2026
 
 git clone https://github.com/weaselway/weaselway.git
 cd weaselway
@@ -199,6 +175,6 @@ ww-start-viewer
                                                Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.04
 
 
-Regards Mattias Vinberg - Sweden - GNOME 50 and over - Ubuntu 26.04 - Linux - WSL - X410 - WINDOWS 11 - Stockholm - 2026
+Regards Mattias Vinberg - Sweden - GNOME 50 and over - Ubuntu 26.04 - Linux - WSL - WINDOWS 11 - Stockholm - 2026
 
 ----------------------------------------------
