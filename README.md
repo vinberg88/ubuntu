@@ -88,6 +88,30 @@ Both **X11** and **Wayland** configurations are explored where possible.
       
 ---
 
+# Ubuntu 26.04 and Gnome 50 via Wayland.
+
+Read About Ubuntu: https://github.com/vinberg88/ubuntu
+
+Run your choice of Linux text editors, including vim, emacs, and nano. Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+<p align="center">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt">
+<img width="1920" height="1080" alt="Ubuntu-26 04-Gnome50" src="https://github.com/user-attachments/assets/2f252dea-0587-4919-bfa1-b459d4a03d62" />
+</p>
+
+Read About GNOME DESKTOP: https://www.gnome.org - 2026
+
+Every part of GNOME has been designed to make it simple and easy to use. The Activities Overview is a simple way 
+to access all your basic tasks. A press of a button is all it takes to view your open windows, launch applications, or 
+check if you have new messages. Having everything in  one convenient place means you don’t have to learn your way 
+around a maze of different technologies. 
+
+
+---
+
 # Ubuntu 27.04 and KDE 6  - BETA 
 
 Install Ubuntu Tenacious T-Rex 27.04 and KDE 6. This is BETA. Ubuntu is a free and open-source 
