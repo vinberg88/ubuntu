@@ -6,7 +6,7 @@ How to install UKUI DESKTOP via UBUNTU 24.04 - WSL - TEXT VIA GITHUB
 https://github.com/vinberg88/ubuntu/edit/main/UBUNTU-24.04-UKUI.txt
 
 How to install UKUI DESKTOP via UBUNTU 24.04 - WSL - MOVIE VIA YOUTUBE
-Comming SONE.
+https://www.youtube.com/watch?v=me_5z6B7AXc
 
 Find more things for WSL: https://github.com/vinberg88
 
