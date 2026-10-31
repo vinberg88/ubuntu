@@ -445,8 +445,8 @@ your daily computing needs.
 **How to install Pantheon** 
 [SETUP UBUNTU AND UKUI](UBUNTU-24.04-UKUI.txt)
 
-**Install video from Youtube:** Comming SONE..
-[UKUI desktop via Youtube](https://github.com/vinberg88)
+**Install video from Youtube:**
+[UKUI desktop via Youtube](https://www.youtube.com/watch?v=me_5z6B7AXc)
 
 <p align="center">
 <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-24.04-Pantheon.txt">
