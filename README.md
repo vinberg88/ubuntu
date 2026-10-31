@@ -43,7 +43,7 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 | **22.04 LTS** | Deepin | X11 / X410 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 | **24.04 LTS** | GNOME | X11 / X410 | [Guide](UBUNTU-24.04-GNOME.txt) | YOUTUBE COMMING |
   
-## Requirements - Ubuntu Pro for WSL =]
+## Requirements - Ubuntu WSL =]
 
 <p align="center">
 <a href="https://github.com/vinberg88">
