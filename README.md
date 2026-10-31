@@ -116,6 +116,30 @@ personal data a priority.
 
 ---
 
+# Ubuntu 27.04 and Mate Desktop
+
+**Install guide:**  
+[Guide for MATE dekstop via Ubunbtu 27.04](Ubuntu27.04-MATE.txt)
+
+**Video:**  
+Video for UBUNTU 27.04 Comming SONE.
+
+<p align="center">
+      <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-27.04-KDE6.txt">
+      <img width="1920" height="1080" alt="Ubuntu27 04-MATE" src="https://github.com/user-attachments/assets/7a372e1e-8588-4638-9e0b-1a09b07ea1ff" />
+</p>
+
+About Mate desktop - https://ubuntu-mate.org/features
+
+The traditional desktop is Mate. New to some, a classic to others. MATE is an intuitive attractive desktop using 
+traditional metaphors. The legacy of GNOME 2 continues to be modern, lightweight and fast. It provides an intuitive
+and attractive desktop environment using traditional  metaphors for Linux and other Unix-like operating systems.
+According to the MATE team's manifesto, they aim to keep a traditional desktop look and feel, maintain an open development
+model, have an open relationship with GNU/Linux distributions, and serve as a good alternative for lower-end
+hardware. Mate Desktop is for All Linux USERS.
+
+---
+
 # Ubuntu 26.10 and KDE 6
 
 About Ubuntu - Ubuntu today has many flavours and dozens of specialised 
