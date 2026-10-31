@@ -38,7 +38,7 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 | **25.10** | UKUI | X11 / X410 | [Guide](UBUNTU-25.10-UKUI.txt) |  [YouTube](https://www.youtube.com/watch?v=cy_jWZgNfks) |
 | **24.04 LTS** | Budgie | X11 / X410 | [Guide](Ubuntu24.04-BUDGIE.txt) | [YouTube](https://www.youtube.com/watch?v=JtnlmX010mM) |
 | **24.04 LTS** | Pantheon | X11 / X410 | [Guide](Ubuntu-24.04-Pantheon.txt) | [YouTube](https://www.youtube.com/watch?v=gXKeX5Ykjj8) |
-| **24.04 LTS** | UKUI | X11 / X410 | [Guide](UBUNTU-24.04-UKUI.txt) | Comming SONE |
+| **24.04 LTS** | UKUI | X11 / X410 | [Guide](UBUNTU-24.04-UKUI.txt) | [YouTube](https://www.youtube.com/watch?v=me_5z6B7AXc) | 
 | **22.04 LTS** | Deepin | X11 / X410 | [Guide](Ubuntu22.04-Deepin.txt) | [YouTube](https://www.youtube.com/watch?v=ecsessrf5ac) |
 | **24.04 LTS** | GNOME | X11 / X410 | [Guide](UBUNTU-24.04-GNOME.txt) | YOUTUBE COMMING |
   
