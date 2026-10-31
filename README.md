@@ -90,6 +90,8 @@ Both **X11** and **Wayland** configurations are explored where possible.
 
 # Ubuntu 26.04 and Gnome 50 via Wayland.
 
+[Guide - how to install GNOME 50](Ubuntu-26.04-Gnome50.txt)
+
 Read About Ubuntu: https://github.com/vinberg88/ubuntu
 
 Run your choice of Linux text editors, including vim, emacs, and nano. Install applications, compilers and libraries from the Ubuntu 
