@@ -30,9 +30,9 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 
 | Ubuntu version | Desktop | Display | Install guide | Video |
 |---|---|---|---|---|
-| **26.04** | GNOME| Wayland | [Guide](Ubuntu-26.04-Gnome50.txt) | YOUTUBE COMMING |
-| **27.04** | MATE | X11 / X410 | [Guide](Ubuntu27.04-MATE.txt) | YOUTUBE COMMING |
-| **27.04** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu-27.04-KDE6.txt) | [YouTube]( https://www.youtube.com/watch?v=zS_EUWQ78KI) |
+| **26.04 LTS** | GNOME| Wayland | [Guide](Ubuntu-26.04-Gnome50.txt) | YOUTUBE COMMING |
+| **27.04 LTS** | MATE | X11 / X410 | [Guide](Ubuntu27.04-MATE.txt) | YOUTUBE COMMING |
+| **27.04 LTS** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu-27.04-KDE6.txt) | [YouTube]( https://www.youtube.com/watch?v=zS_EUWQ78KI) |
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
 | **26.04 LTS** | KDE Plasma 6 | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
 | **26.04 LTS** | Cinnamon DE | X11 / Wayland | [Guide](Ubuntu-26.04-cinnamon.txt)  |  [YouTube](https://www.youtube.com/watch?v=lZxRtC17xzk) |
