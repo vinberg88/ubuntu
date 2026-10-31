@@ -8,9 +8,7 @@ Comming SONE..
 How to install MATE via Ubuntu 2Ununtu 27.04 - WSL - YouTUBE - MOVIE
 Comming SONE..
 
-
 We will install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
-
 
 Tools that i use for WSL and Ubuntu Tenacious T-Rex 27.04 - 2026 - MATE desktop 6
 
