@@ -88,7 +88,7 @@ Both **X11** and **Wayland** configurations are explored where possible.
       
 ---
 
-# Ubuntu 26.04 and Gnome 50 via Wayland.
+# Ubuntu 26.10 and Gnome 52 via Wayland.
 
 [Guide - how to install GNOME 50](Ubuntu-26.04-Gnome50.txt)
 
@@ -101,7 +101,7 @@ for Internet of things devices and robots.
 
 <p align="center">
 <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt">
-<img width="1920" height="1080" alt="Ubuntu-26 04-Gnome50" src="https://github.com/user-attachments/assets/2f252dea-0587-4919-bfa1-b459d4a03d62" />
+<img width="1920" height="1080" alt="Ubuntu-26 10-Gnome51" src="https://github.com/user-attachments/assets/20758635-fd3b-4e45-90c5-ea29447fdfa3" />
 </p>
 
 Read About GNOME DESKTOP: https://www.gnome.org - 2026
