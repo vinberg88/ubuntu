@@ -92,6 +92,8 @@ Both **X11** and **Wayland** configurations are explored where possible.
 
 [Guide - how to install GNOME 51](Ubuntu-26.10-Gnome51.txt)
 
+[Vide0 via YouTUBE how to install GNOME 51](https://www.youtube.com/watch?v=oRg0p-oceAY)
+
 Read About Ubuntu: https://github.com/vinberg88/ubuntu
 
 Run your choice of Linux text editors, including vim, emacs, and nano. Install applications, compilers and libraries from the Ubuntu 
