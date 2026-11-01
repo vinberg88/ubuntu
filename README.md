@@ -88,7 +88,7 @@ Both **X11** and **Wayland** configurations are explored where possible.
       
 ---
 
-# Ubuntu 26.10 and Gnome 52 via Wayland.
+# Ubuntu 26.10 and Gnome 51 via Wayland.
 
 [Guide - how to install GNOME 51](Ubuntu-26.10-Gnome51.txt)
 
