@@ -1,7 +1,7 @@
 Ubuntu 26.10 and Gnome 51 via wayland and WSL - How to install Gnome via Ubuntu 26.10 - Windows 11 - GitHUB - YouTUBE - 2026
 
 How to insatll GNOME desktop via wayland and wsl - Ubuntu 26.10 - Text via GITHUB - 2026
-https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt
 
 How to insatll GNOME desktop via wayland and wsl - Ubuntu 26.10 - MOVIE via YouTUBE - 2026
 Comming SOME...
