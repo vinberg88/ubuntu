@@ -4,7 +4,7 @@ How to insatll GNOME desktop via wayland and wsl - Ubuntu 26.10 - Text via GITHU
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt
 
 How to insatll GNOME desktop via wayland and wsl - Ubuntu 26.10 - MOVIE via YouTUBE - 2026
-Comming SOME...
+https://www.youtube.com/watch?v=oRg0p-oceAY
 
 
 Install Ubuntu 26.10 via this link and download stonking26.10-wsl-amd64.wsl 
