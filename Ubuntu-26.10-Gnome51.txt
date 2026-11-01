@@ -1,0 +1,218 @@
+Ubuntu 26.10 and Gnome 51 via wayland and WSL - How to install Gnome via Ubuntu 26.10 - Windows 11 - GitHUB - YouTUBE - 2026
+
+How to insatll GNOME desktop via wayland and wsl - Ubuntu 26.10 - Text via GITHUB - 2026
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt
+
+How to insatll GNOME desktop via wayland and wsl - Ubuntu 26.10 - MOVIE via YouTUBE - 2026
+Comming SOME...
+
+
+Install Ubuntu 26.10 via this link and download stonking26.10-wsl-amd64.wsl 
+
+https://github.com/vinberg88/ubuntu/releases
+
+Press the Blue Icon and you are running UBUNUTU 26.10 Stonking
+
+
+Read About weaselway for WSL and Windows 11 - GNOME 50 - https://github.com/vinberg88/weaselway/
+
+Tools that i use for WSL and Ubuntu 26.10 and GNOME 51.
+
+Raft WSL is a powerful tool for managing Windows Subsystem Linux Distros.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+                             ....              Thanks for install GNOME 51 and UBUNTU 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 26.10 (Stonking Stingray) x86_64 - WAYLAND via Windows 11.
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (3.0.4.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com - Display (Virtual-1): 1920x1009, 240 Hz - Wayland
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 26.10 - GNOME 51 and over.
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.10
+
+About Ubuntu 26.10 - https://ubuntu.com - https://ubuntu.com/desktop/wsl - 2026
+
+Run your choice of Linux text editors, including vim, emacs, and nano.
+Install applications, compilers and libraries from the Ubuntu 
+repository, securely maintained by Canonical. Ubuntu is a
+Linux distribution derived from Debian and composed mostly
+of free and open-source software. Ubuntu is officially
+released in multiple editions: Desktop, Server, and Core
+for Internet of things devices and robots.
+
+About Gnome desktop 51 and over via WAYLAND and Ubuntu 26.10 - https://www.gnome.org - 2026
+
+Every part of GNOME has been designed to make it simple 
+and easy to use. The Activities Overview is a simple way 
+to access all your basic tasks. A press of a button is
+all it takes to view your open windows, launch applications, or 
+check if you have new messages. Having everything in 
+one convenient place means you don’t have to learn your way 
+around a maze of different technologies. 
+
+You Can Find More Stuff here About WSL and diffrent desktops - 2026
+
+https://github.com/vinberg88
+
+https://github.com/vinberg88/weaselway
+
+Read About Ubnutu 26.10 for WSL here: https://github.com/vinberg88/ubuntu
+
+Read About Weaselway for GNOME 51: https://github.com/vinberg88/weaselway
+
+----------------------------------------------
+
+Install Ubuntu 26.10 via this link and download stonking26.10-wsl-amd64.wsl 
+
+https://github.com/vinberg88/ubuntu/releases
+
+Press the Blue Icon and you are running UBUNUTU 26.10 Stonking
+
+----------------------------------------------
+
+Next Update all for Ubuntu 26.10
+
+sudo apt update && sudo apt upgrade -y
+
+----------------------------------------------
+
+Install this programs Ubuntu 26.10
+
+sudo apt install perfetto* dialog systemd nano bash git wget curl rsync dbus cmake -y
+
+----------------------------------------------
+
+Install this small program for Ubuntu 26.10
+
+sudo apt install fastfetch -y
+
+To test type: fastfetch
+
+                             ....              Thanks for install GNOME 51 and UBUNTU 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 26.10 (Stonking Stingray) x86_64 - WAYLAND via Windows 11.
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (3.0.4.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com - Display (Virtual-1): 1920x1009, 240 Hz - Wayland
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 26.10 - GNOME 51 and over.
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.10
+
+
+----------------------------------------------
+
+Install Chrome webbrowser for UBUNTU 26.10 LTS AND GNOME 51
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+----------------------------------------------
+
+Install blanket - Sounds - Improve focus and increase your productivity by listening to different ambient sounds
+
+sudo apt install blanket -y
+
+----------------------------------------------
+
+Install Libreoffice for Ubuntu 26.10
+
+sudo apt install libreoffice -y
+
+----------------------------------------------
+
+Install GIMP so we can paint - Ubuntu 26.10
+
+sudo apt install gimp -y
+
+----------------------------------------------
+
+Install program for GNOME and Ubuntu 26.10
+
+sudo apt install gnome-tweaks -y
+
+----------------------------------------------
+
+Install program for GNOME 51 and Ubuntu 26.10 - FLATPAK works great on Ubuntu 26.10
+
+sudo apt install flatpak*
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+sudo flatpak install flathub com.mattjakeman.ExtensionManager
+
+----------------------------------------------
+
+Run the install script for Ubuntu 26.10 and Gnome 51 for WSL - 2026
+
+git clone https://github.com/weaselway/weaselway.git
+cd weaselway
+./ubuntu/install.sh
+
+Read about reps for ununtu 26.10 - https://launchpad.net/~xtradeb/+archive/ubuntu/apps
+
+----------------------------------------------
+
+Reboot Ubuntu 26.10 - Reboot Ubuntu 26.10 - Reboot Ubuntu 26.10
+
+----------------------------------------------
+
+Start the desktop via Ubuntu 26.10 terminal and enjoy GNOME 51 and Ubuntu 26.10 Gnome desktop.
+
+ww-start-session
+ww-start-viewer
+
+----------------------------------------------
+
+© 2026 Canonical Ltd - Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+                             ....              Thanks for install GNOME 51 and UBUNTU 26.10 ❤️
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu 26.10 (Stonking Stingray) x86_64 - WAYLAND via Windows 11.
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-26.10 (3.0.4.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com - Display (Virtual-1): 1920x1009, 240 Hz - Wayland
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Windows 11 - WSLg - We have sounds =) UBUNTU 26.10 - GNOME 51 and over.
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
+               ..';::c'  .;loooo:'             
+                                               Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.10
+
+
+Regards Mattias Vinberg - Sweden - GNOME 51 - Ubuntu 26.10 - Linux - WSL - X410 - WINDOWS 11 - Stockholm - 2026
+
+----------------------------------------------
