@@ -14,7 +14,7 @@ https://github.com/vinberg88/ubuntu/releases
 Press the Blue Icon and you are running UBUNUTU 26.10 Stonking
 
 
-Read About weaselway for WSL and Windows 11 - GNOME 50 - https://github.com/vinberg88/weaselway/
+Read About weaselway for WSL and Windows 11 - GNOME 51 - https://github.com/vinberg88/weaselway/
 
 Tools that i use for WSL and Ubuntu 26.10 and GNOME 51.
 
