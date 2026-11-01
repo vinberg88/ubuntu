@@ -100,7 +100,7 @@ of free and open-source software. Ubuntu is officially released in multiple edit
 for Internet of things devices and robots.
 
 <p align="center">
-<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-Gnome50.txt">
+<a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.10-Gnome51.txt">
 <img width="1920" height="1080" alt="Ubuntu-26 10-Gnome51" src="https://github.com/user-attachments/assets/20758635-fd3b-4e45-90c5-ea29447fdfa3" />
 </p>
 
