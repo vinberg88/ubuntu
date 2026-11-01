@@ -12,7 +12,6 @@ Tools that i use for WSL and Ubuntu 26.04 and GNOME desktop
 
 Raft WSL is a powerful tool for managing Windows Subsystem Linux Distros.
 https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
- 
 
                              ....              Thanks for install GNOME 50 and UBUNTU 26.04 ❤️
               .',:clooo:  .:looooo:.           
@@ -35,7 +34,6 @@ https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
            .':loooooo;  ,oooooooooc            Download UBUNTU 26.04: https://github.com/vinberg88/ubuntu
                ..';::c'  .;loooo:'             
                                                Liunx/Win Desktop - GNOME DESKTOP - Windows 11 - UBUNTU 26.04
-
 
 About Ubuntu 26.04 - https://ubuntu.com - https://ubuntu.com/desktop/wsl - 2026
 
