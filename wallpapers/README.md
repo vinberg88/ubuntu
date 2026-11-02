@@ -26,7 +26,7 @@ compilers and libraries from the Ubuntu repository, securely maintained by Canon
     'ooooooooool                         coooo.    
     ,loooooooc.                        .loooo.    OS: Windows 11 Pro for Workstations (25H2) x86_64
      .,;;;'.                          ;ooooc     
-       ...                         ,ooool.     Mail: mattiasvinberg@duck.com
+       ...                         ,ooool.     Mail: vinberg@duck.com
     .cooooc.              ..',,'.  .cooo.      
       ;ooooo:.           ;oooooooc.  :l.       FIND ME ON GITHUB - WSL - https://github.com/vinberg88 
        .coooooc,..      coooooooooo.  
