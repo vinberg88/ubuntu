@@ -92,7 +92,7 @@ Both **X11** and **Wayland** configurations are explored where possible.
 
 [Guide - how to install GNOME 51](Ubuntu-26.10-Gnome51.txt)
 
-[Guide - Vide0 via YouTUBE how to install GNOME 51](https://www.youtube.com/watch?v=oRg0p-oceAY)
+[Guide - Video via YouTUBE how to install GNOME 51](https://www.youtube.com/watch?v=oRg0p-oceAY)
 
 Read About Ubuntu: https://github.com/vinberg88/ubuntu
 
