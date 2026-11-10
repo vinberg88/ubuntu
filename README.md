@@ -55,7 +55,7 @@ Description:    Ubuntu Tenacious T-Rex (development branch)
 Release:        27.04
 Codename:       tenacious
 
-Thank you for testing Ubuntu Tenacious T-Rex 27.04 - Relase date next YEAR =)
+    Thank you for testing Ubuntu Tenacious T-Rex 27.04 - Relase date next YEAR =)
 
 <p align="center">
 <a href="https://github.com/vinberg88">
