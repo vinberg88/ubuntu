@@ -44,7 +44,7 @@ Copy and Paste in terminal:
 
 And Just UPDATE all to Ubuntu 27.04:
 
-sudo apt update && sudo apt dist-upgrade
+    sudo apt update && sudo apt dist-upgrade
 
 DONE =] Test by typing this in terminal.
 
