@@ -26,6 +26,40 @@ You can also use Ubuntu normally from the terminal with tools such as **vim, ema
 
 WSL stands for Windows Subsystem for Linux, a feature of Windows that allows users to run a Linux environment directly on their Windows machine without needing a separate virtual machine or dual-booting.
 
+
+---
+
+Test UBUNTU 27.04 and it works well via WSL - 2026
+
+Open Powershell and install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
+
+Now Update all to Ubuntu 27.04 Ubuntu Tenacious T-Rex (development branch) x86_64
+
+Copy and Paste in terminal:
+
+sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
+sudo sed -i 's/resolute/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
+
+And Just UPDATE all to Ubuntu 27.04:
+
+sudo apt update && sudo apt dist-upgrade
+
+DONE =] Test by typing: lsb_release -a
+
+Distributor ID: Ubuntu
+Description:    Ubuntu Tenacious T-Rex (development branch)
+Release:        27.04
+Codename:       tenacious
+
+Thank you for testing Ubuntu Tenacious T-Rex 27.04 - Relase date next YEAR =)
+
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="1200" height="500" alt="Ubuntu-27 04" src="https://github.com/user-attachments/assets/f17f0e02-0254-4819-bb77-c00cfc418750" />
+</p>
+
+---
+
 ## Quick Overview
 
 | Ubuntu version | Desktop | Display | Install guide | Video |
