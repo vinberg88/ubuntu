@@ -114,7 +114,6 @@ Yoy can download Ubuntu 26.04 here for wsl if you want - https://github.com/vinb
 Update Repos from Ubuntu 26.04 to Ubuntu Tenacious T-Rex 27.04
 
 sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
-
 sudo sed -i 's/resolute/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
 
 sudo apt update && sudo apt dist-upgrade
