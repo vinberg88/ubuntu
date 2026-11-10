@@ -31,20 +31,24 @@ WSL stands for Windows Subsystem for Linux, a feature of Windows that allows use
 
 Test UBUNTU 27.04 and it works well via WSL - 2026
 
-Open Powershell and install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
+Open Powershell and install Ubuntu 27.04 via powershell
+
+    wsl --install Ubuntu-26.04 --name Ubuntu-27.04
 
 Now Update all to Ubuntu 27.04 Ubuntu Tenacious T-Rex (development branch) x86_64
 
 Copy and Paste in terminal:
 
-sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
-sudo sed -i 's/resolute/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
+    sudo cp /etc/apt/sources.list.d/ubuntu.sources /etc/apt/sources.list.d/ubuntu.sources.bak
+    sudo sed -i 's/resolute/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
 
 And Just UPDATE all to Ubuntu 27.04:
 
 sudo apt update && sudo apt dist-upgrade
 
-DONE =] Test by typing: lsb_release -a
+DONE =] Test by typing this in terminal.
+
+    lsb_release -a
 
 Distributor ID: Ubuntu
 Description:    Ubuntu Tenacious T-Rex (development branch)
