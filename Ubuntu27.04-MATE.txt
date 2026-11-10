@@ -3,7 +3,7 @@ Ubuntu 27.04 and MATE - Install MATE via WSL - Windows 11 - Linux - X410 - 2026
 Thank you for testing mate desktop via Ununtu 27.04 ❤️
 
 How to install MATE via Ununtu 27.04 - WSL - GITHUB - TEXT
-Comming SONE..
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu27.04-MATE.txt
 
 How to install MATE via Ubuntu 2Ununtu 27.04 - WSL - YouTUBE - MOVIE
 Comming SONE..
