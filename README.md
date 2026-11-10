@@ -50,10 +50,10 @@ DONE =] Test by typing this in terminal.
 
     lsb_release -a
 
-Distributor ID: Ubuntu
-Description:    Ubuntu Tenacious T-Rex (development branch)
-Release:        27.04
-Codename:       tenacious
+    Distributor ID: Ubuntu
+    Description:    Ubuntu Tenacious T-Rex (development branch)
+    Release:        27.04
+    Codename:       tenacious
 
     Thank you for testing Ubuntu Tenacious T-Rex 27.04 - Relase date next YEAR =)
 
