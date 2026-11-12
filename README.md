@@ -69,7 +69,7 @@ DONE =] Test by typing this in terminal.
 | Ubuntu version | Desktop | Display | Install guide | Video |
 |---|---|---|---|---|
 | 26.10 | GNOME 51 | Wayland | [Guide](Ubuntu-26.10-Gnome51.txt) | [YouTube](https://www.youtube.com/watch?v=oRg0p-oceAY) |   
-| **27.04 LTS** | MATE | X11 / X410 | [Guide](Ubuntu27.04-MATE.txt) | YOUTUBE COMMING |
+| **27.04 LTS** | MATE | X11 / X410 | [Guide](Ubuntu27.04-MATE.txt) | [YOUTUBE](https://www.youtube.com/watch?v=3lUmjcDlluU) |
 | **27.04 LTS** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu-27.04-KDE6.txt) | [YouTube](https://www.youtube.com/watch?v=zS_EUWQ78KI) |
 | **26.10** | KDE Plasma 6 | X11 / X410 | [Guide](Ubuntu26.10-KDE.txt) | [YouTube](https://www.youtube.com/watch?v=mQXaubKRRRU) |
 | **26.04 LTS** | KDE Plasma 6 | X11 / Wayland | [Guide](Ubuntu26.04-KDE.txt)  | [YouTube](https://www.youtube.com/watch?v=JRmqEL7EVF4) |
