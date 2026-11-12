@@ -1,16 +1,18 @@
 Ubuntu 27.04 and MATE - Install MATE via WSL - Windows 11 - Linux - X410 - 2026
 
-Thank you for testing mate desktop via Ununtu 27.04 ❤️
-
 How to install MATE via Ununtu 27.04 - WSL - GITHUB - TEXT
-https://github.com/vinberg88/ubuntu/blob/main/Ubuntu27.04-MATE.txt
+https://github.com/vinberg88/ubuntu/edit/main/Ubuntu27.04-MATE.txt
 
 How to install MATE via Ubuntu 2Ununtu 27.04 - WSL - YouTUBE - MOVIE
 Comming SONE..
 
-We will install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
+Thank you for testing mate desktop via Ununtu 27.04 Tenacious T-Rex ❤️
 
-Tools that i use for WSL and Ubuntu Tenacious T-Rex 27.04 - 2026 - MATE desktop 6
+We will install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --location C:\WSL\Ubuntu-27.04 --name Ubuntu-27.04
+
+Download Ubuntu 26.04 and update to Ubuntu 27.04: https://github.com/vinberg88/ubuntu
+
+Tools that i use for WSL and Ubuntu Tenacious T-Rex 27.04 - 2026 - MATE desktop 27.04
 
 X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
 https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
@@ -22,13 +24,13 @@ WSL UI - This tool is free and works like Raft WSL.
 https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
 
 
-                        ....                   Thank you for install MATE and Ubuntu Tenacious T-Rex 27.04 ❤️
+                        ....                   WM: WSLg 1.0.79 (Wayland) OS: Ubuntu Tenacious T-Rex (development branch) x86_64
               .',:clooo:  .:looooo:.           
            .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
         .;looooool:,''.  :ooooooooooc          
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.3.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.5.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -36,7 +38,7 @@ https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
  ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.     
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.04 - https://github.com/vinberg88/ubuntu
          .:ooooooolc:. .ooooooooooo'           
@@ -84,9 +86,7 @@ Want more stuff about WSL - Windows 11 - MICROSOFT - Linux - DESKTOPS
 
 https://github.com/vinberg88
 
-Want more look here.
-
-https://vinberg88.github.io
+Want more look here: https://github.com/vinberg88/ubuntu
 
 WSL stands for Windows Subsystem for Linux, a feature of Windows that
 allows users to run a Linux environment directly on their Windows
@@ -94,7 +94,11 @@ machine without needing a separate virtual machine or dual-booting.
 
 -------------------------------------------------------------
 
-Open Powershell and install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --name Ubuntu-27.04
+Open Powershell and install Ubuntu 27.04 via powershell: wsl --install Ubuntu-26.04 --location C:\WSL\ --name Ubuntu-27.04
+
+Startar Ubuntu-27.04...
+Provisioning the new WSL instance Ubuntu-27.04
+This might take a while...
 
 ---------------------------------------
 
@@ -102,8 +106,8 @@ Install Programs for UBUNTU 27.04 and MATE desktop - THIS TAKE SOME TIME =]
 
 sudo apt update
 
-sudo apt install systemd dbus* dbus-broker* dialog rsync -y
-sudo apt install dbus-daemon* -y
+sudd apt install systemd dbus* dbus-broker* dialog rsync -y
+sudo apt install dbus-daemon* wsl* -y
 
 sudo systemctl disable dbus-broker
 sudo systemctl enable dbus
@@ -124,17 +128,13 @@ sudo sed -i 's/resolute/tenacious/g' /etc/apt/sources.list.d/ubuntu.sources
 
 ---------------------------------------------------------------
 
-Update All after install - UBUNTU 27.04
+Update All after install - UPDATE SYSTEM THAT EASY - UBUNTU 27.04
 
 sudo apt update && sudo apt dist-upgrade
 
 ---------------------------------------------------------------
 
-Cheack so it works---
-
 Type this in terminsl: lsb_release -a
-
-You will see this if all works.
 
 No LSB modules are available.
 Distributor ID: Ubuntu
@@ -144,14 +144,15 @@ Codename:       tenacious
 
 Thank you for install MATE and Ubuntu Tenacious T-Rex 27.04 ❤️
 
----------------------------------------------------------------
-                        ....                   
+----------------------------------------------
+
+                        ....                   WM: WSLg 1.0.79 (Wayland) OS: Ubuntu Tenacious T-Rex (development branch) x86_64
               .',:clooo:  .:looooo:.           
            .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
         .;looooool:,''.  :ooooooooooc          
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.3.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.5.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -159,21 +160,25 @@ Thank you for install MATE and Ubuntu Tenacious T-Rex 27.04 ❤️
  ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.     
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.04 - https://github.com/vinberg88/ubuntu
          .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Ubuntu Tenacious T-Rex 27.04
                ..';::c'  .;loooo:'             
 
-
--------------------------------------------------------------
+----------------------------------------------
 
 Save time and install firefox and thunderbird via snapd - UBUNTU 27.04
 
 sudo apt install snapd* -y
 
+sudo snap install core
+
+sudo snap install snapd
+
 sudo snap install firefox
+
 sudo snap install thunderbird
 
 -------------------------------------------------------------
@@ -181,6 +186,7 @@ sudo snap install thunderbird
 Time to install MATE desktop for Ubuntu 27.04 LTS
 
 sudo apt install gdm* -y
+
 sudo apt install ubuntu-mate-desktop -y
 
 SELCET GDM3 IF ASKED UNDER INSTALLATION.
@@ -189,17 +195,17 @@ SELCET GDM3 IF ASKED UNDER INSTALLATION.
 
 Install some more Programs for Ubuntu 27.04 and MATE dekstop - 2026
 
-sudo apt install mate* libgtk2* flatpak* appmenu* ubuntu-system-service* systemd-services* luit* gnome-software gnome-software-plugin-flatpak -y
+sudo apt install mate* libgtk2* flatpak* appmenu* ubuntu-system-service* systemd-services* luit* gnome-software gnome-software-plugin-flatpak pip* -y
 
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
-sudo flatpak install flathub ai.jan.Jan
+sudo flatpak install flathub com.rafaelmardojai.Blanket
 
 -------------------------------------------------------------
 
 INSTALL MORE PROGRAMS FOR MATE Desktop and Ubuntu 27.04
 
-sudo apt install tasksel
+sudo apt install tasksel -y
 
 CLICK on MATE and Debian desktop Environment in TERMINAL and install =]
 
@@ -215,7 +221,30 @@ sudo apt install mpv-mpris -y
 sudo apt install mpv -y
 sudo apt install ffmpeg* -y
 
----------------------------------------------------------------
+----------------------------------------------
+
+                        ....                   WM: WSLg 1.0.79 (Wayland) OS: Ubuntu Tenacious T-Rex (development branch) x86_64
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.5.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.04 - https://github.com/vinberg88/ubuntu
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Ubuntu Tenacious T-Rex 27.04
+               ..';::c'  .;loooo:'             
+
+----------------------------------------------
 
 Install Audio Packages for UBUNTU 27.04 and MATE desktop
 
@@ -231,7 +260,7 @@ Extra to install so all works for Ubuntu 27.04 and Mate desktop
 
 sudo apt install git wget curl bash pipx dracut net-tools dbus-x11 dbus systemd ibus npm pip dialog -y
 
-sudo apt install xorg* kwin* x11* qt5* gtk* fonts-firacode -y
+sudo apt install xorg* kwin* x11* qt5* gtk* -y
 
 ---------------------------------------------------------------
 
@@ -281,11 +310,6 @@ sudo snap install gtk-theme-qogir
 sudo snap install gtk-theme-arc
 sudo snap install gtk-theme-fluent
 
-git clone https://github.com/vinceliuice/Tela-circle-icon-theme.git
-cd Tela-circle-icon-theme
-sudo ./install.sh -a
-cd
-
 git clone https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme.git
 cd Catppuccin-GTK-Theme
 cd themes
@@ -310,13 +334,13 @@ sudo apt install hyfetch fastfetch -y
 
 To test type this in terminal: hyfetch
                                                
-                        ....                   WM: WSLg 1.0.79 (Wayland)
+                        ....                   WM: WSLg 1.0.79 (Wayland) OS: Ubuntu Tenacious T-Rex (development branch) x86_64
               .',:clooo:  .:looooo:.           
            .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
         .;looooool:,''.  :ooooooooooc          
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.4.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.5.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -324,13 +348,12 @@ To test type this in terminal: hyfetch
  ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.     
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.04 - https://github.com/vinberg88/ubuntu
          .:ooooooolc:. .ooooooooooo'           
            .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Ubuntu Tenacious T-Rex 27.04
                ..';::c'  .;loooo:'             
-
 
 ----------------------------------------------
 
@@ -365,6 +388,28 @@ Install Blanket - Listen to sounds - Ubuntu 27.04 Ubuntu Tenacious T-Rex
 sudo apt install blanket -y
 
 ----------------------------------------------
+                        ....                   WM: WSLg 1.0.79 (Wayland) OS: Ubuntu Tenacious T-Rex (development branch) x86_64
+              .',:clooo:  .:looooo:.           
+           .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
+        .;looooool:,''.  :ooooooooooc          
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+      ;clool'             .cooooooc.  ,,       
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.5.0)
+  .;clol:,.                        .loooo'     
+ :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.    Media: Mattias Vinberg - Stockholm - Sweden - 2026
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+       ...                         ,ooool.     
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.04 - https://github.com/vinberg88/ubuntu
+         .:ooooooolc:. .ooooooooooo'           
+           .':loooooo;  ,oooooooooc            Liunx/Win Desktop - KDE 6 - Windows 11 - Ubuntu Tenacious T-Rex 27.04
+               ..';::c'  .;loooo:'             
+
+----------------------------------------------
 
 Spotify for Linux is also released as a Debian package.
 Our aim is that it should work with the latest Long
@@ -379,11 +424,13 @@ sudo apt-get update && sudo apt-get install spotify-client
 
 Fix IP problem for X410. Cant find screen problem. Look for ip adress in windows terminal / PowerShell: ipconfig
 
-Save IP from PowerSHEL HERE: 172.30.16.1
+Save IP from PowerSHEL HERE: 172.24.192.1
 
 NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
 
 GO BACK TO Ubuntu 27.04 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo apt install systemd-resolved
 
 sudo systemctl unmask systemd-resolved.service
 sudo systemctl enable systemd-resolved.service
@@ -392,7 +439,7 @@ sudo ls -l /etc/resolv.conf
 sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
 sudo nano /etc/resolv.conf
 
-nameserver 172.30.16.1 <-- put your ip here and add nameserver.
+nameserver 172.24.192.1 <-- put your ip here and add nameserver.
 
 sudo chattr +i /etc/resolv.conf
 sudo systemctl restart systemd-resolved
@@ -450,16 +497,16 @@ Type in terminal and start plasma: dbus-launch mate-session
 
 ------------------------------------------------------
 
-Regards Mattias Vinberg - SwEden - MATE - Ubuntu 27.04 - Linux - WSL - X410 - WINDOWS - 2026
+Regards Mattias Vinberg - SwEden - MATE - Ubuntu 27.04 - Ubuntu Tenacious T-Rex (development branch) x86_64 - Linux - WSL - X410 - WINDOWS - 2026
 
 
-                        ....                   WM: WSLg 1.0.79 (Wayland)
+                        ....                   WM: WSLg 1.0.79 (Wayland) OS: Ubuntu Tenacious T-Rex (development branch) x86_64
               .',:clooo:  .:looooo:.           
            .;looooooooc  .oooooooooo'          OS: Ubuntu Tenacious T-Rex (development branch) x86_64
         .;looooool:,''.  :ooooooooooc          
-       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.54.1-microsoft-standard-WSL2
+       ;looool;.         'oooooooooo,          Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
       ;clool'             .cooooooc.  ,,       
-         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.4.0)
+         ...                ......  .:oo,      Host: Windows Subsystem for Linux - Ubuntu-27.04 (3.0.5.0)
   .;clol:,.                        .loooo'     
  :ooooooooo,                        'ooool     OS: Windows 11 Pro for Workstations (26H2) x86_64
 'ooooooooooo.                        loooo.    
@@ -467,7 +514,7 @@ Regards Mattias Vinberg - SwEden - MATE - Ubuntu 27.04 - Linux - WSL - X410 - WI
  ,loooooooc.                        .loooo.    
    .,;;;'.                          ;ooooc     FIND ME HERE VIA GITHUB - https://github.com/vinberg88
        ...                         ,ooool.     
-    .cooooc.              ..',,'.  .cooo.      EMAIL: mattiasvinberg@duck.com
+    .cooooc.              ..',,'.  .cooo.      EMAIL: vinberg@duck.com
       ;ooooo:.           ;oooooooc.  :l.       
        .coooooc,..      coooooooooo.           Download Ubuntu Stonking Stingray 26.04 - https://github.com/vinberg88/ubuntu
          .:ooooooolc:. .ooooooooooo'           
