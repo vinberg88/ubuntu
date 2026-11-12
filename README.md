@@ -189,7 +189,7 @@ personal data a priority.
 [Guide for MATE dekstop via Ubunbtu 27.04](Ubuntu27.04-MATE.txt)
 
 **Video:**  
-Video for UBUNTU 27.04 Comming SONE.
+Video for UBUNTU 27.04 MATE - [LOOK HERE - YOUTUBE](https://www.youtube.com/watch?v=3lUmjcDlluU).
 
 <p align="center">
       <a href="https://github.com/vinberg88/ubuntu/blob/main/Ubuntu27.04-MATE.txt">
