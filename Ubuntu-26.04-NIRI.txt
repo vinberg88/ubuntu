@@ -1,0 +1,367 @@
+Ubuntu 26.04 and NIRI desktop - WSL - Install NIRI via Ubuntu 26.04 - Windows - Linux - GitHUB - YouTUBE - 2026
+
+How to install NIRI desktop via Ubuntu 26.04 - WSL - TEXT VIA GITHUB
+Comming SONE...
+
+How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE VIA YOUTUBE
+Comming SONE...
+
+FIND START FILES FOR NIRI HERE: https://github.com/vinberg88/ubuntu/tree/main/NIRI
+
+You can download Ubuntu 26.04 here for WSL: https://github.com/vinberg88/ubuntu
+
+TOOLS THAT I USE FOR MICROSOFT AND UBUNTU 26.04 - 2026 - NIRI desktop
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+                             ....           
+              .',:clooo:  .:looooo:. 
+           .;looooooooc  .oooooooooo'        ❤️ Thank you for install NIRI and Ubuntu 26.04 for WSL ❤️
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations Insider Preview (26H2) x86_64
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+  .;clol:,.                        .loooo'  
+ :ooooooooo,                        'ooool    FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.   X server for WSL and windows: X410 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc    Ubuntu 26.04 for WSL: https://github.com/vinberg88/ubuntu
+       ...                         ,ooool.    
+    .cooooc.              ..',,'.  .cooo.     OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.          Host: Windows Subsystem for Linux - Ubuntu-26.04 (3.0.5.0)
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc           Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+               ..';::c'  .;loooo:'             
+                                              Mail: vinberg@duck.com
+
+About Ubuntu 26.04 - https://ubuntu.com - 2026 - WSL
+
+Ubuntu today has many flavours and dozens of specialised 
+derivatives. There are also special editions for servers, 
+OpenStack clouds, and connected devices. All editions share
+common infrastructure and software, making Ubuntu a unique
+single platform that scales from consumer electronics to
+the desktop and up into the cloud for enterprise computing.
+
+About NIRI Desktop for Ubuntu 26.04 - https://github.com/niri-wm/niri
+
+Windows are arranged in columns on an infinite strip going to the
+right. Opening a new window never causes existing windows to resize.
+Every monitor has its ownseparate window strip. Windows can never
+"overflow" onto an adjacent monitor. Workspaces are dynamic and
+arranged vertically. Every monitor has an independent set of
+workspaces, and there's always one empty workspace present all
+the way down. The workspace arrangement is preserved across
+disconnecting and connecting monitors where it makes sense.
+When a monitor disconnects, its workspaces will move to another
+monitor, but upon reconnection they will move back to the
+original monitor.
+
+Find More About WSL and Linux Here for Microsoft and Windows subsystem for Linux.
+
+Old page for WSL: https://github.com/vinberg88/opensuse
+
+FIND ME HERE AND MORE STUFF FOR WSL: https://github.com/vinberg88
+
+------------------------------
+
+Time to start install of NIRI desktop via UBUNTU 26.04
+
+
+Download Ubuntu 26.04 here: https://github.com/vinberg88/ubuntu
+
+Or install Ubuntu from powershell: wsl --install Ubuntu-26.04 --name Ubuntu-26.04
+
+
+When downloaded click on blue icon and you are almost done. Setup User and Password.
+
+------------------------------
+
+Update All after install - Ubuntu 26.04
+
+Type in terminal: cd
+
+sudo apt update && sudo apt upgrade
+
+---------------------------------------------------------------
+
+Install some Basic Programs for UBUNTU 26.04 and NIRI Desktop.
+
+
+sudo apt install ibus bash git npm wget curl pipx dracut dbus systemd dialog rsync systemd-resolved* -y
+
+----------------------------------------------
+
+Copy and paste in terminal. ONE BY ONE NO STRESS... Fix Dbus problem for UBUNTU 26.04
+
+sudo systemctl disable --now dbus-broker.service
+sudo systemctl enable --now dbus.service
+sudo systemctl restart dbus.service
+
+----------------------------------------------
+
+Restart UBUNTU 26.04 - Restart UBUNTU 26.04 - Restart UBUNTU 26.04
+
+----------------------------------------------
+
+Install this for UBUNTU 26.04 and NIRI desktop - 2026
+
+sudo apt install gdm3* -y
+sudo apt install gdm* -y
+sudo apt install xorg* x11* -y
+sudo apt install daemonize -y
+sudo apt install gnome-terminal -y
+
+----------------------------------------------
+
+Install this program for Ubuntu 26.04 - Fastfetch.
+
+sudo apt install fastfetch -y
+
+To test type this in terminal: fastfetch
+
+                             ....            ❤️ Thank you for install NIRI and Ubuntu 26.04 for WSL ❤️
+              .',:clooo:  .:looooo:. 
+           .;looooooooc  .oooooooooo'         Windows Subsystem for Linux - Ubuntu 26.04 and Windows 11.
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations (26H2) x86_64
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+  .;clol:,.                        .loooo'  
+ :ooooooooo,                        'ooool    FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.   X server for WSL and windows: X410 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc    Ubuntu 26.04 for WSL: https://github.com/vinberg88/ubuntu
+       ...                         ,ooool.    
+    .cooooc.              ..',,'.  .cooo.     OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.          Host: Windows Subsystem for Linux - Ubuntu-26.04 (3.0.5.0)
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc           Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+               ..';::c'  .;loooo:'             
+                                              Mail: vinberg@duck.com
+
+More info about Wayland
+
+Architecture: x86_64
+Built: 2026-06-25T17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+----------------------------------------------
+
+Programs for UBUNTU 26.04 LTS and NIRI desktop
+
+sudo apt install weston* mutter* wayland* mesa*
+
+----------------------------------------------
+
+Paste in Terminal for Ubuntu 26.04 and NIRI desktop - WSL
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical
+
+----------------------------------
+
+Install Chrome Browser for NIRI desktop.
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+----------------------------------
+
+Install blanket for Ubuntu 26.04 - Improve focus and increase your productivity by listening to different sounds
+
+sudo apt install blanket*
+
+----------------------------------
+
+Install Visual studio Code - Microsoft - 2026 - UBUNTU 26.04 LTS - NIRI
+
+sudo apt-get install wget gpg
+wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+sudo install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" |sudo tee /etc/apt/sources.list.d/vscode.list > /dev/null
+rm -f packages.microsoft.gpg
+
+sudo apt install apt-transport-https
+sudo apt update
+sudo apt install code
+
+----------------------------------
+
+Install TASKSEL for Ubuntu 26.04 and NIRI - WSL
+
+sudo apt install tasksel
+
+Run tasksel from terminal: sudo tasksel
+
+Now select from Tasksel: Debian desktop Environment and Lomiri - PRESS ENTER AND DONE.
+
+----------------------------------------------
+
+Install this for UBUNTU 26.04 - Make stuff faster when you install NIRI.
+
+sudo apt install snapd*
+
+sudo snap install core
+sudo snap install snapd
+sudo snap install thunderbird
+
+----------------------------------
+
+Time to install NIRI for UBUNTU 26.04
+
+sudo add-apt-repository ppa:duxlabs/dux-repo
+sudo add-apt-repository ppa:duxlabs/dms
+
+sudo apt update
+
+sudo apt install niri dms libportaudio2 libjack-jackd2-0 dux-gop jackd2
+
+----------------------------------
+
+Run this script =] Jump over this in menu: dux-greeter
+
+██████╗ ███╗   ███╗███████╗
+██╔══██╗████╗ ████║██╔════╝
+██║  ██║██╔████╔██║███████╗
+██║  ██║██║╚██╔╝██║╚════██║
+██████╔╝██║ ╚═╝ ██║███████║
+╚═════╝ ╚═╝     ╚═╝╚══════╝
+
+curl -fsSL https://install.duxlabs.dev | sh
+
+----------------------------------
+
+                             ....            ❤️ Thank you for install NIRI and Ubuntu 26.04 for WSL ❤️
+              .',:clooo:  .:looooo:. 
+           .;looooooooc  .oooooooooo'         Windows Subsystem for Linux - Ubuntu 26.04 and Windows 11.
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations (26H2) x86_64
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+  .;clol:,.                        .loooo'  
+ :ooooooooo,                        'ooool    FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.   X server for WSL and windows: X410 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc    Ubuntu 26.04 for WSL: https://github.com/vinberg88/ubuntu
+       ...                         ,ooool.    
+    .cooooc.              ..',,'.  .cooo.     OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.          Host: Windows Subsystem for Linux - Ubuntu-26.04 (3.0.5.0)
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc           Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+               ..';::c'  .;loooo:'             
+                                              Mail: vinberg@duck.com
+
+More info about Wayland - WSLg
+
+Architecture: x86_64
+Built: 2026-06-25 - 17:27:16
+OS: Microsoft Azure Linux 3.0 - Wayland
+wslg:            6942bb534b537302a7a22617261d9274db3cfa37
+DirectX-Headers: v1.608.0
+FreeRDP:         c4030980b29322a9cb2190711a5fadeeeb8b6a33
+mesa:            23.1.0
+pulseaudio:      c33051f2296af748ac5cd13e51abfac4d129e4c7
+weston:          a7e35fdab455dce5774b43b8aff682f748307e31
+
+----------------------------------------------
+
+Fix IP problem for X410. Cant find screen problems Xserver - Ubuntu 26.04
+
+OPEN POWERSHELL AND TYPE: ipconfig
+
+NOTE - Importent to look for ip. Last lines are IP-numbers for WSL.
+
+SAVE IP HERE FROM POWERSHELL: 172.26.64.1
+
+Go back TO Ubuntu 26.04 Terminal AND COPY AND PASTE THIS IN TERMINAL.
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.26.64.1 <-- put your ip here from POWERSHELL and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+sudo cat /etc/resolv.conf
+sudo systemctl daemon-reload
+
+DONE - alot of problem fixed for Ubuntu 26.04 and NIRI 50 for WSL.
+
+--------------------------------------------
+
+Install this for NIRI 50 and UBUNTU 26.04
+
+sudo apt install -y mutter-dev-bin x11-utils dbus-x11 xdotool* libseat-dev libpipewire-0.3-dev libpango1.0-dev libdisplay-info-dev
+
+sudo apt install -y gcc clang libudev-dev libgbm-dev libxkbcommon-dev libegl1-mesa-dev libwayland-dev libinput-dev libdbus-1-dev libsystemd-dev
+
+----------------------------------------------
+
+Restart Ubuntu 26.04 - Restart Ubuntu 26.04 - Restart Ubuntu 26.04 - Restart Ubuntu 26.04
+
+----------------------------------------------
+
+NOTE - FIRST START X410 THEN YOU START UBUNTU 26.04 VIA TERMINAL
+
+Now we are ready to start NIRI and Ubuntu 26.04 - Paste One by One!
+
+
+NOTE: START X410 and TERMINAL FOR UBUNTU 26.04
+
+
+Paste in terminal: pkill waybar
+
+Now click on this and wait NIRI will start: Start-Niri-X410.cmd
+
+
+YOU MUST DONWLOAD Start-Niri-X410.cmd and Start-Niri-X410.ps1 put them together in a folder =)
+
+FIND START FILES FOR NIRI HERE: https://github.com/vinberg88/ubuntu/tree/main/NIRI
+
+----------------------------------------------
+
+                             ....            ❤️ Thank you for install NIRI and Ubuntu 26.04 for WSL ❤️
+              .',:clooo:  .:looooo:. 
+           .;looooooooc  .oooooooooo'         Windows Subsystem for Linux - Ubuntu 26.04 and Windows 11.
+        .;looooool:,''.  :ooooooooooc
+       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations (26H2) x86_64
+      ;clool'             .cooooooc.  ,,
+         ...                ......  .:oo,     Media: Mattias Vinberg - Stockholm - Sweden - 2026
+  .;clol:,.                        .loooo'  
+ :ooooooooo,                        'ooool    FIND ME HERE VIA GITHUB - https://github.com/vinberg88
+'ooooooooooo.                        loooo.    
+'ooooooooool                         coooo.   X server for WSL and windows: X410 
+ ,loooooooc.                        .loooo.    
+   .,;;;'.                          ;ooooc    Ubuntu 26.04 for WSL: https://github.com/vinberg88/ubuntu
+       ...                         ,ooool.    
+    .cooooc.              ..',,'.  .cooo.     OS: Ubuntu 26.04.1 LTS (Resolute Raccoon) x86_64
+      ;ooooo:.           ;oooooooc.  :l.       
+       .coooooc,..      coooooooooo.          Host: Windows Subsystem for Linux - Ubuntu-26.04 (3.0.5.0)
+         .:ooooooolc:. .ooooooooooo'
+           .':loooooo;  ,oooooooooc           Kernel: Linux 6.18.58.1-microsoft-standard-WSL2
+               ..';::c'  .;loooo:'             
+                                              Mail: vinberg@duck.com
+
+
+Regards Mattias Vinberg - Sweden - Stockholm - NIRI - Ubuntu 26.04 - Linux - WSL - X410 - WINDOWS 11 - 2026
+
+----------------------------------------------
