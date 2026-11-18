@@ -1,5 +1,13 @@
 # Commands for running NIRI from keybord after installation for WSL
 
+---
+
+YOU MUST DONWLOAD Start-Niri-X410.cmd and Start-Niri-X410.ps1 put them together in a folder =) after install press: Start-Niri-X410.cmd
+
+NOTE - YOU NEED TO START START X410 and TERMINAL FOR UBUNTU 26.04 FIRST..
+
+---
+
 https://github.com/acaibowlz/niri-setup or https://wiki.cachyos.org/configuration/desktop_environments/niri/
 
 ---
@@ -30,13 +38,7 @@ single platform that scales from consumer electronics to the desktop and up into
 
 ---
 
-YOU MUST DONWLOAD Start-Niri-X410.cmd and Start-Niri-X410.ps1 put them together in a folder =) after install press: Start-Niri-X410.cmd
-
-NOTE - YOU NEED TO START START X410 and TERMINAL FOR UBUNTU 26.04 FIRST..
-
----
-
 REGARDS,
-Mattias VInberg https://github.com/vinberg88
+Mattias Vinberg https://github.com/vinberg88
 
 
