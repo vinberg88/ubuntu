@@ -1,7 +1,7 @@
 Ubuntu 26.04 and NIRI desktop - WSL - Install NIRI via Ubuntu 26.04 - Windows - Linux - GitHUB - YouTUBE - 2026
 
 How to install NIRI desktop via Ubuntu 26.04 - WSL - TEXT VIA GITHUB
-Comming SONE...
+https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-NIRI.txt
 
 How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE VIA YOUTUBE
 Comming SONE...
