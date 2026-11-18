@@ -134,6 +134,28 @@ How to install NIRI desktop via Ubuntu - https://github.com/vinberg88/ubuntu/blo
 How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE VIA YOUTUBE
 Comming SONE...
 
+FIND START FILES FOR NIRI HERE: https://github.com/vinberg88/ubuntu/tree/main/NIRI
+
+<p align="center">
+    <a href="https://github.com/vinberg88/ubuntu/tree/main/NIRI">
+<img width="1920" height="1080" alt="Ubuntu-26 04-NIRI" src="https://github.com/user-attachments/assets/5f10f011-d999-42da-b2a1-2f33f354bd34" />
+</p>
+
+About Ubuntu 26.04 - https://ubuntu.com - 2026 - WSL
+
+Ubuntu today has many flavours and dozens of specialised derivatives. There are also special editions for servers, 
+OpenStack clouds, and connected devices. All editions share common infrastructure and software, making Ubuntu a unique
+single platform that scales from consumer electronics to the desktop and up into the cloud for enterprise computing.
+
+About NIRI Desktop for Ubuntu 26.04 - https://github.com/niri-wm/niri
+
+Windows are arranged in columns on an infinite strip going to the right. Opening a new window never causes existing windows to resize.
+Every monitor has its ownseparate window strip. Windows can never "overflow" onto an adjacent monitor. Workspaces are dynamic and
+arranged vertically. Every monitor has an independent set of workspaces, and there's always one empty workspace present all
+the way down. The workspace arrangement is preserved across disconnecting and connecting monitors where it makes sense.
+When a monitor disconnects, its workspaces will move to another monitor, but upon reconnection they will move back to the
+original monitor.
+
 ---
 
 # Ubuntu 26.10 and Gnome 51 via Wayland.
