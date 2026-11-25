@@ -127,7 +127,7 @@ Both **X11** and **Wayland** configurations are explored where possible.
       
 ---
 
-# Ubuntu 26.04 and NIRI dekstop via Wayland.
+# Ubuntu 26.04 and NIRI desktop via Wayland.
 
 How to install NIRI desktop via Ubuntu - https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-NIRI.txt
 
