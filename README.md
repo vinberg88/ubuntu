@@ -131,8 +131,7 @@ Both **X11** and **Wayland** configurations are explored where possible.
 
 How to install NIRI desktop via Ubuntu - https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-NIRI.txt
 
-How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE VIA YOUTUBE
-Comming SONE...
+How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE . https://www.youtube.com/watch?v=fgJOtVvZyRA
 
 FIND START FILES FOR NIRI HERE: https://github.com/vinberg88/ubuntu/tree/main/NIRI
 
