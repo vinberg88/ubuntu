@@ -5,7 +5,7 @@ How to install NIRI desktop via Ubuntu 26.04 - WSL - TEXT VIA GITHUB
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-NIRI.txt
 
 How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE VIA YOUTUBE
-Comming SONE...
+https://www.youtube.com/watch?v=fgJOtVvZyRA
 
 
 HERE YOU WILL FIND ALOT OF STUFF FOR NIRI DESKTOP HERE - https://duxlabs.dev/plugins
