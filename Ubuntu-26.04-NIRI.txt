@@ -1,14 +1,24 @@
 Ubuntu 26.04 and NIRI desktop - WSL - Install NIRI via Ubuntu 26.04 - Windows - Linux - GitHUB - YouTUBE - 2026
 
+
 How to install NIRI desktop via Ubuntu 26.04 - WSL - TEXT VIA GITHUB
 https://github.com/vinberg88/ubuntu/blob/main/Ubuntu-26.04-NIRI.txt
 
 How to install NIRI desktop via Ubuntu 26.04 - WSL - MOVIE VIA YOUTUBE
 Comming SONE...
 
+
+HERE YOU WILL FIND ALOT OF STUFF FOR NIRI DESKTOP HERE - https://duxlabs.dev/plugins
+
+OPEN FROM NIRI - COPY AND PASTE IN TERMINAL: dms open https://duxlabs.dev
+
 FIND START FILES FOR NIRI HERE: https://github.com/vinberg88/ubuntu/tree/main/NIRI
 
+
 You can download Ubuntu 26.04 here for WSL: https://github.com/vinberg88/ubuntu
+
+Or install Ubuntu from powershell: wsl --install Ubuntu-26.04 --name Ubuntu
+
 
 TOOLS THAT I USE FOR MICROSOFT AND UBUNTU 26.04 - 2026 - NIRI desktop
 
@@ -49,7 +59,7 @@ common infrastructure and software, making Ubuntu a unique
 single platform that scales from consumer electronics to
 the desktop and up into the cloud for enterprise computing.
 
-About NIRI Desktop for Ubuntu 26.04 - https://github.com/niri-wm/niri
+About NIRI Desktop for Ubuntu 26.04 - https://duxlabs.dev
 
 Windows are arranged in columns on an infinite strip going to the
 right. Opening a new window never causes existing windows to resize.
@@ -76,29 +86,43 @@ Time to start install of NIRI desktop via UBUNTU 26.04
 
 Download Ubuntu 26.04 here: https://github.com/vinberg88/ubuntu
 
-Or install Ubuntu from powershell: wsl --install Ubuntu-26.04 --name Ubuntu-26.04
+Or install Ubuntu from powershell: wsl --install Ubuntu-26.04 --name Ubuntu
+
+
+DONT CHANGE NAME ON UBUNTU INSTALL FOR NIRE DONT WORK WELL IF YOU DO THAT =)
 
 
 When downloaded click on blue icon and you are almost done. Setup User and Password.
 
-------------------------------
+----------------------------------------------
+
+HERE YOU WILL FIND ALOT OF STUFF FOR NIRI - https://duxlabs.dev/plugins
+
+OPEN FROM NIRI - COPY AND PASTE IN TERMINAL: dms open https://duxlabs.dev
+
+NOTE: FIND START FILES FOR NIRI HERE: https://github.com/vinberg88/ubuntu/tree/main/NIRI
+
+Download and put in a folder on desktop via windows 11.
+
+----------------------------------------------
 
 Update All after install - Ubuntu 26.04
 
 Type in terminal: cd
 
-sudo apt update && sudo apt upgrade
-
----------------------------------------------------------------
-
-Install some Basic Programs for UBUNTU 26.04 and NIRI Desktop.
-
-
-sudo apt install ibus bash git npm wget curl pipx dracut dbus systemd dialog rsync systemd-resolved* -y
+sudo apt update && sudo apt upgrade -y
 
 ----------------------------------------------
 
-Copy and paste in terminal. ONE BY ONE NO STRESS... Fix Dbus problem for UBUNTU 26.04
+Install some Basic Programs for UBUNTU 26.04 and NIRI Desktop.
+
+sudo apt install git curl nano sudo bash git wget npm -y
+
+sudo apt install ibus bash git wget curl pipx dracut dbus systemd dialog rsync systemd-resolved* -y
+
+----------------------------------------------
+
+Copy and paste in terminal. NO STRESS... Fix Dbus problem for UBUNTU 26.04
 
 sudo systemctl disable --now dbus-broker.service
 sudo systemctl enable --now dbus.service
@@ -106,7 +130,58 @@ sudo systemctl restart dbus.service
 
 ----------------------------------------------
 
-Restart UBUNTU 26.04 - Restart UBUNTU 26.04 - Restart UBUNTU 26.04
+REBOOT UBUNTU - REBOOT UBUNTU - REBOOT UBUNTU
+
+----------------------------------------------
+
+Tools so we can build all for NIRI And UBUNTU =)
+
+sudo apt install -y meson wget build-essential ninja-build cmake-extras cmake* gettext gettext-base fontconfig libfontconfig-dev libffi-dev -y
+
+sudo apt install -y libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev -y
+
+sudo apt install -y seatd libxcb-dri3-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev -y
+
+sudo apt install -y libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev -y
+
+sudo apt install -y libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev libtomlplusplus3 libre2-dev -y
+
+----------------------------------------------
+
+Time to install NIRI for UBUNTU 26.04 - THIS TAKE SOME TIME TO INSTALL...
+
+sudo add-apt-repository ppa:duxlabs/dux-repo -y
+sudo add-apt-repository ppa:duxlabs/dms -y
+
+sudo apt update
+
+sudo apt install dankcalendar-git niri dms libportaudio2 libjack-jackd2-0 dux-gop jackd2
+
+----------------------------------------------
+
+Run this script =] Jump over this in menu in terminal: dux-greeter
+
+THIS WILL TAKE SOME TIME TO INSTALL. JUST WAIT =)
+
+██████╗ ███╗   ███╗███████╗
+██╔══██╗████╗ ████║██╔════╝
+██║  ██║██╔████╔██║███████╗ UBUNTU 26.04 AND NIRI - 2026
+██║  ██║██║╚██╔╝██║╚════██║
+██████╔╝██║ ╚═╝ ██║███████║
+╚═════╝ ╚═╝     ╚═╝╚══════╝
+
+Copy and paste in terminal: curl -fsSL https://install.duxlabs.dev | sh
+
+----------------------------------------------
+
+INSTALL noctalia for NIRI and UBUNTU 26.04
+
+wget https://pkg.noctalia.dev/deb/nickh-archive-keyring.deb && sudo dpkg -i nickh-archive-keyring.deb
+
+sudo wget -O /etc/apt/sources.list.d/noctalia-resolute.sources https://pkg.noctalia.dev/deb/noctalia-resolute.sources
+
+sudo apt update
+sudo apt install noctalia
 
 ----------------------------------------------
 
@@ -116,7 +191,47 @@ sudo apt install gdm3* -y
 sudo apt install gdm* -y
 sudo apt install xorg* x11* -y
 sudo apt install daemonize -y
-sudo apt install gnome-terminal -y
+sudo apt install gnome-terminal mpv kitty -y
+
+----------------------------------------------
+
+Install this to for NIRi - NICE STUFF FOR UBUNTU.
+
+sudo apt install libseat* libpipewire* libpango1* libdisplay*
+
+sudo apt install rustup gcc clang*
+
+sudo apt install dev* mesa* wayland* image*
+
+sudo apt install libwayland-dev libinput-dev libdbus*
+
+----------------------------------------------
+
+MORE TO INSTALL FOR NIRI =)
+
+wget https://www.xhamster.nu/scripts/niri_26.4.0-1_amd64.deb
+sudo apt install ./niri_26.4.0-1_amd64.deb
+ 
+sudo apt install satellite* way* awesome* libxcb* sddm*
+
+sudo apt install meson pkg* ninja* cmake* mpv-* libmpv* userinfo* neo* rofi-dev rofi*
+ 
+sudo apt install dh-make devscripts reprepro build-essential lua* npm* gum* bun* bar
+
+----------------------------------------------
+
+Sone DONE =) A lot to install..
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+curl -fsSL https://bun.sh/install | bash
+
+----------------------------------------------
+
+Install some wallpapers - 1 gig!
+
+git clone https://github.com/Axenide/wallpapers.git
+cd wallpapers
 
 ----------------------------------------------
 
@@ -130,7 +245,7 @@ To test type this in terminal: fastfetch
               .',:clooo:  .:looooo:. 
            .;looooooooc  .oooooooooo'         Windows Subsystem for Linux - Ubuntu 26.04 and Windows 11.
         .;looooool:,''.  :ooooooooooc
-       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations (26H2) x86_64
+       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations Insider Preview (26H2) x86_64
       ;clool'             .cooooooc.  ,,
          ...                ......  .:oo,     Media: Mattias Vinberg - Stockholm - Sweden - 2026
   .;clol:,.                        .loooo'  
@@ -185,7 +300,41 @@ sudo apt install ./google-chrome-stable_current_amd64.deb -y
 
 Install blanket for Ubuntu 26.04 - Improve focus and increase your productivity by listening to different sounds
 
-sudo apt install blanket*
+sudo apt install blanket* -y
+
+----------------------------------
+
+Install this small programs for NIRI.
+
+cargo install matugen
+
+sudo apt install golang
+
+git clone https://github.com/duxlabs-dev/dux-search.git
+cd dux-search
+make && sudo make install && make install-service
+
+go install github.com/duxlabs-dev/dux-gop/cmd/dgop@master
+
+pipx install niri-companion
+
+wget -O /tmp/kwybars_0.3.0-1_amd64.deb https://github.com/naurissteins/Kwybars/releases/download/0.3.0/kwybars_0.3.0-1_amd64.deb
+
+sudo apt install /tmp/kwybars_0.3.0-1_amd64.deb
+
+curl -fsSL https://raw.githubusercontent.com/alex-oleshkevich/glimpse/master/install.sh | bash
+
+cargo install wallr
+
+go install github.com/probeldev/niri-float-sticky@latest
+
+----------------------------------
+
+Setup for start NIRI via UBUNTU 26.04
+
+Paste in terminal: dms systemd enable
+
+Select 1 for NIRI.
 
 ----------------------------------
 
@@ -200,6 +349,13 @@ rm -f packages.microsoft.gpg
 sudo apt install apt-transport-https
 sudo apt update
 sudo apt install code
+
+----------------------------------
+
+Install some other programs for NIRI
+
+sudo apt install build-essential cmake extra-cmake-modules kwin-dev libkdecorations3-dev libkf6config-dev libkf6configwidgets-dev
+sudo apt install libkf6kcmutils-dev libkf6coreaddons-dev libepoxy-dev libdrm-dev pkgconf qt6-base-dev qt6-tools-dev kpackagetool6 qdbus-qt6
 
 ----------------------------------
 
@@ -219,31 +375,24 @@ sudo apt install snapd*
 
 sudo snap install core
 sudo snap install snapd
-sudo snap install thunderbird
+
+----------------------------------------------
+
+We will install flatpak to
+
+sudo apt install flatpak*
+
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
 ----------------------------------
 
-Time to install NIRI for UBUNTU 26.04
+A lightweight, external sidebar manager for the Niri window manager - INSTALL =)
 
-sudo add-apt-repository ppa:duxlabs/dux-repo
-sudo add-apt-repository ppa:duxlabs/dms
-
-sudo apt update
-
-sudo apt install niri dms libportaudio2 libjack-jackd2-0 dux-gop jackd2
-
-----------------------------------
-
-Run this script =] Jump over this in menu: dux-greeter
-
-██████╗ ███╗   ███╗███████╗
-██╔══██╗████╗ ████║██╔════╝
-██║  ██║██╔████╔██║███████╗
-██║  ██║██║╚██╔╝██║╚════██║
-██████╔╝██║ ╚═╝ ██║███████║
-╚═════╝ ╚═╝     ╚═╝╚══════╝
-
-curl -fsSL https://install.duxlabs.dev | sh
+git clone https://github.com/Vigintillionn/niri-sidebar
+cd niri-sidebar
+cargo build --release
+cp target/release/niri-sidebar ~/.local/bin/
+cd
 
 ----------------------------------
 
@@ -251,7 +400,7 @@ curl -fsSL https://install.duxlabs.dev | sh
               .',:clooo:  .:looooo:. 
            .;looooooooc  .oooooooooo'         Windows Subsystem for Linux - Ubuntu 26.04 and Windows 11.
         .;looooool:,''.  :ooooooooooc
-       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations (26H2) x86_64
+       ;looool;.         'oooooooooo,         OS: Windows 11 Pro for Workstations Insider Preview (26H2) x86_64
       ;clool'             .cooooooc.  ,,
          ...                ......  .:oo,     Media: Mattias Vinberg - Stockholm - Sweden - 2026
   .;clol:,.                        .loooo'  
@@ -327,8 +476,6 @@ Now we are ready to start NIRI and Ubuntu 26.04 - Paste One by One!
 
 NOTE: START X410 and TERMINAL FOR UBUNTU 26.04
 
-
-Paste in terminal: pkill waybar
 
 Now click on this and wait NIRI will start: Start-Niri-X410.cmd
 
